@@ -70,18 +70,18 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-PuzzleGame/ServerData
-PuzzleGame/.utmp
+BabyGames_KG/ServerData
+BabyGames_KG/.utmp
 Keystore
-PuzzleGame/.idea
-PuzzleGame/.config
-PuzzleGame/.vscode
-PuzzleGame/SerializedBuildInfo
-PuzzleGame/Packages/com.singularitygroup.hotreload
-PuzzleGame/Baby Games_BurstDebugInformation_DoNotShip
-PuzzleGame/GeneratedAssets_deleted
-PuzzleGame/Packages/com.heurekagames.assethunterpro
-PuzzleGame/Packages/com.heurekagames.utils
+BabyGames_KG/.idea
+BabyGames_KG/.config
+BabyGames_KG/.vscode
+BabyGames_KG/SerializedBuildInfo
+BabyGames_KG/Packages/com.singularitygroup.hotreload
+BabyGames_KG/Baby Games_BurstDebugInformation_DoNotShip
+BabyGames_KG/GeneratedAssets_deleted
+BabyGames_KG/Packages/com.heurekagames.assethunterpro
+BabyGames_KG/Packages/com.heurekagames.utils
 BabyGames_KG/Assets/BuildReport
 BabyGames_KG/Assets/HotReload
 BabyGames_KG/Packages/com.heurekagames.assethunterpro
