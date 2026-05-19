@@ -1,0 +1,167 @@
+
+clown fish.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belok
+  rotate: false
+  xy: 617, 102
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+brow_grust'
+  rotate: false
+  xy: 193, 10
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+brow_neitr_R
+  rotate: false
+  xy: 92, 6
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+brow_zlost'
+  rotate: false
+  xy: 165, 33
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 575, 152
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+hvost
+  rotate: false
+  xy: 353, 99
+  size: 117, 155
+  orig: 117, 155
+  offset: 0, 0
+  index: -1
+plavnik
+  rotate: false
+  xy: 472, 144
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+plavnik_1
+  rotate: false
+  xy: 353, 12
+  size: 111, 85
+  orig: 111, 85
+  offset: 0, 0
+  index: -1
+plavnik_2
+  rotate: false
+  xy: 559, 33
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+plavnik_3
+  rotate: false
+  xy: 466, 35
+  size: 91, 62
+  orig: 91, 62
+  offset: 0, 0
+  index: -1
+plavnik_4
+  rotate: false
+  xy: 575, 204
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+rot_grust'
+  rotate: false
+  xy: 2, 2
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+rot_neitral
+  rotate: false
+  xy: 31, 5
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+rot_udivlenie
+  rotate: false
+  xy: 160, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+rot_ulybka
+  rotate: false
+  xy: 61, 3
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+rot_ulybka-smeh
+  rotate: false
+  xy: 124, 2
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+telo
+  rotate: false
+  xy: 2, 49
+  size: 349, 205
+  orig: 349, 205
+  offset: 0, 0
+  index: -1
+veko_poluzakrytyi
+  rotate: false
+  xy: 2, 15
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+veko_prishurennyiDown
+  rotate: false
+  xy: 113, 27
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+veko_prishurennyiUp
+  rotate: false
+  xy: 58, 22
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+veko_ulybka
+  rotate: false
+  xy: 559, 88
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+veko_zakrytyi
+  rotate: false
+  xy: 616, 33
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+zrachok
+  rotate: false
+  xy: 221, 15
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 084d06bc47603e741a99e9ea88774e5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5049371314749270285
+    second: zerno 2_0
+  - first:
+      213: 8477860010301909805
+    second: zerno 2_1
+  - first:
+      213: -6680031836100346770
+    second: zerno 2_2
+  - first:
+      213: 1761309294311657457
+    second: zerno 2_3
+  - first:
+      213: 30496841357343053
+    second: zerno 2_4
+  - first:
+      213: -2035498334041580096
+    second: zerno 2_5
+  - first:
+      213: 7567550503009222194
+    second: zerno 2_6
+  - first:
+      213: -3504753342342191998
+    second: zerno 2_7
+  - first:
+      213: -4030815563389269891
+    second: zerno 2_8
+  - first:
+      213: 1156937465458691900
+    second: zerno 2_9
+  - first:
+      213: 4652769080641759883
+    second: zerno 2_10
+  - first:
+      213: -5476040659852350664
+    second: zerno 2_11
+  - first:
+      213: -3695147535197446889
+    second: zerno 2_12
+  - first:
+      213: 80402677919072969
+    second: zerno 2_13
+  - first:
+      213: -1014125175702365520
+    second: zerno 2_14
+  - first:
+      213: -8958580557912738235
+    second: zerno 2_15
+  - first:
+      213: 1307974094740808280
+    second: zerno 2_16
+  - first:
+      213: 7277809894157033936
+    second: zerno 2_17
+  - first:
+      213: 2485445049164950427
+    second: zerno 2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zerno 2_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 173
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6925dba870de9b0800000000000000
+      internalID: -5049371314749270285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 186
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2be88103c867a570800000000000000
+      internalID: 8477860010301909805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c30f8ff62cb43a0800000000000000
+      internalID: -6680031836100346770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 201
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff4a0ba87d617810800000000000000
+      internalID: 1761309294311657457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 118
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4930e337b85c6000800000000000000
+      internalID: 30496841357343053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 143
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd5d8abc0570c3e0800000000000000
+      internalID: -2035498334041580096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 143
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e71bf7617550960800000000000000
+      internalID: 7567550503009222194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 111
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284a454776d9c5fc0800000000000000
+      internalID: -3504753342342191998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 140
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78011de99aaf08c0800000000000000
+      internalID: -4030815563389269891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 116
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f8100ce744e0010800000000000000
+      internalID: 1156937465458691900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 89
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aa291d3d4f19040800000000000000
+      internalID: 4652769080641759883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ba7ed78023104b0800000000000000
+      internalID: -5476040659852350664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 55
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d55ebf4e238bcc0800000000000000
+      internalID: -3695147535197446889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c24b504fc5ad1100800000000000000
+      internalID: 80402677919072969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 60
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bada78968a1de1f0800000000000000
+      internalID: -1014125175702365520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546f3e9727abca380800000000000000
+      internalID: -8958580557912738235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852607c528bd62210800000000000000
+      internalID: 1307974094740808280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 16
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1ad0c0a89fff460800000000000000
+      internalID: 7277809894157033936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerno 2_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 25
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bea309a131e7220800000000000000
+      internalID: 2485445049164950427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zerno 2_0: -5049371314749270285
+      zerno 2_1: 8477860010301909805
+      zerno 2_10: 4652769080641759883
+      zerno 2_11: -5476040659852350664
+      zerno 2_12: -3695147535197446889
+      zerno 2_13: 80402677919072969
+      zerno 2_14: -1014125175702365520
+      zerno 2_15: -8958580557912738235
+      zerno 2_16: 1307974094740808280
+      zerno 2_17: 7277809894157033936
+      zerno 2_18: 2485445049164950427
+      zerno 2_2: -6680031836100346770
+      zerno 2_3: 1761309294311657457
+      zerno 2_4: 30496841357343053
+      zerno 2_5: -2035498334041580096
+      zerno 2_6: 7567550503009222194
+      zerno 2_7: -3504753342342191998
+      zerno 2_8: -4030815563389269891
+      zerno 2_9: 1156937465458691900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

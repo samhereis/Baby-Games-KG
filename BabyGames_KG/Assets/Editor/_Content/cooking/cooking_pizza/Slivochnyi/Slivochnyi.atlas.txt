@@ -1,0 +1,41 @@
+
+Slivochnyi.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sous_Slivochnyi_Banka
+  rotate: false
+  xy: 2, 2
+  size: 326, 274
+  orig: 326, 274
+  offset: 0, 0
+  index: -1
+sous_Slivochnyi_Kryshka
+  rotate: false
+  xy: 2, 631
+  size: 182, 41
+  orig: 182, 41
+  offset: 0, 0
+  index: -1
+sous_Slivochnyi_sous
+  rotate: false
+  xy: 186, 586
+  size: 121, 86
+  orig: 121, 86
+  offset: 0, 0
+  index: -1
+sous_Slivochnyi_spun1
+  rotate: false
+  xy: 2, 278
+  size: 326, 152
+  orig: 326, 152
+  offset: 0, 0
+  index: -1
+sous_Slivochnyi_spun2
+  rotate: false
+  xy: 2, 432
+  size: 326, 152
+  orig: 326, 152
+  offset: 0, 0
+  index: -1

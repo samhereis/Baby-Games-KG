@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 01ab4fe8e6ee4cfd890ed9514bb2f188
+timeCreated: 1690505945
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260186
+  packageName: UI Spline Renderer
+  packageVersion: 1.16
+  assetPath: Assets/UI Spline Renderer/Example/Scripts/DraggableSplinePointExample.cs
+  uploadId: 838278

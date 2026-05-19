@@ -1,0 +1,55 @@
+
+duhovka.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duhovka
+  rotate: false
+  xy: 348, 500
+  size: 787, 508
+  orig: 787, 508
+  offset: 0, 0
+  index: -1
+duhovka_Button
+  rotate: false
+  xy: 1125, 30
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+duhovka_Button_Green
+  rotate: false
+  xy: 564, 134
+  size: 366, 364
+  orig: 366, 364
+  offset: 0, 0
+  index: -1
+duhovka_Button_Red
+  rotate: false
+  xy: 932, 134
+  size: 366, 364
+  orig: 366, 364
+  offset: 0, 0
+  index: -1
+duhovka_Door_Close
+  rotate: false
+  xy: 2, 30
+  size: 560, 424
+  orig: 560, 424
+  offset: 0, 0
+  index: -1
+duhovka_Door_Open
+  rotate: false
+  xy: 2, 456
+  size: 344, 552
+  orig: 344, 552
+  offset: 0, 0
+  index: -1
+duhovka_Grill
+  rotate: false
+  xy: 564, 2
+  size: 559, 130
+  orig: 559, 130
+  offset: 0, 0
+  index: -1

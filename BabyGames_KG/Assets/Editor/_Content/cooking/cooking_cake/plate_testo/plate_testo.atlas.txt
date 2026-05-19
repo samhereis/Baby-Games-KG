@@ -1,0 +1,41 @@
+
+plate_testo.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plate_b
+  rotate: false
+  xy: 2, 123
+  size: 549, 290
+  orig: 549, 290
+  offset: 0, 0
+  index: -1
+plate_f
+  rotate: false
+  xy: 553, 123
+  size: 549, 290
+  orig: 549, 290
+  offset: 0, 0
+  index: -1
+plate_struyka_1
+  rotate: false
+  xy: 483, 2
+  size: 343, 119
+  orig: 343, 119
+  offset: 0, 0
+  index: -1
+plate_struyka_2
+  rotate: false
+  xy: 828, 2
+  size: 343, 119
+  orig: 343, 119
+  offset: 0, 0
+  index: -1
+plate_testo
+  rotate: false
+  xy: 2, 14
+  size: 479, 107
+  orig: 479, 107
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+sugar.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sugar
+  rotate: false
+  xy: 2, 2
+  size: 273, 336
+  orig: 273, 336
+  offset: 0, 0
+  index: -1
+sugar_1
+  rotate: false
+  xy: 2, 340
+  size: 167, 92
+  orig: 167, 92
+  offset: 0, 0
+  index: -1
+sugar_2
+  rotate: false
+  xy: 171, 340
+  size: 167, 92
+  orig: 167, 92
+  offset: 0, 0
+  index: -1

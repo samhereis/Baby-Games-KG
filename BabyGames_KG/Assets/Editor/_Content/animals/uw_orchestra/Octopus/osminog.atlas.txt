@@ -1,0 +1,377 @@
+
+osminog.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belok _L
+  rotate: false
+  xy: 911, 153
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+belok_R
+  rotate: false
+  xy: 962, 217
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+brow_grust'_L
+  rotate: false
+  xy: 410, 51
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+brow_grust'_R
+  rotate: false
+  xy: 455, 51
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+brow_neitr_L
+  rotate: false
+  xy: 500, 54
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+brow_neitr_R
+  rotate: false
+  xy: 505, 38
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+brow_zlost'_L
+  rotate: false
+  xy: 461, 29
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+brow_zlost'_R
+  rotate: false
+  xy: 530, 73
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+drum_body
+  rotate: false
+  xy: 615, 191
+  size: 281, 185
+  orig: 281, 185
+  offset: 0, 0
+  index: -1
+drum_palka
+  rotate: false
+  xy: 316, 2
+  size: 143, 47
+  orig: 143, 47
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 847, 127
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 898, 215
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+hat_body
+  rotate: false
+  xy: 2, 330
+  size: 462, 180
+  orig: 462, 180
+  offset: 0, 0
+  index: -1
+hat_rakushka
+  rotate: false
+  xy: 615, 101
+  size: 96, 88
+  orig: 96, 88
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 82
+  size: 313, 246
+  orig: 313, 246
+  offset: 0, 0
+  index: -1
+prisoska_1
+  rotate: false
+  xy: 581, 18
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+prisoska_10
+  rotate: false
+  xy: 604, 18
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+prisoska_2
+  rotate: false
+  xy: 607, 46
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+prisoska_3
+  rotate: false
+  xy: 551, 40
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+prisoska_4
+  rotate: false
+  xy: 559, 17
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+prisoska_5
+  rotate: false
+  xy: 574, 73
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+prisoska_6
+  rotate: false
+  xy: 466, 360
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+prisoska_7
+  rotate: false
+  xy: 579, 40
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+prisoska_8
+  rotate: false
+  xy: 598, 72
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+prisoska_9
+  rotate: false
+  xy: 535, 16
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+rot_grust'
+  rotate: false
+  xy: 546, 58
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+rot_neitral
+  rotate: false
+  xy: 249, 5
+  size: 38, 7
+  orig: 38, 7
+  offset: 0, 0
+  index: -1
+rot_trubochkoi
+  rotate: false
+  xy: 509, 4
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+rot_udivlenie
+  rotate: false
+  xy: 197, 4
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+rot_ulybka
+  rotate: false
+  xy: 461, 9
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+rot_ulybka-smeh
+  rotate: false
+  xy: 136, 8
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+shup_1
+  rotate: false
+  xy: 898, 279
+  size: 219, 101
+  orig: 219, 101
+  offset: 0, 0
+  index: -1
+shup_2
+  rotate: false
+  xy: 982, 25
+  size: 184, 190
+  orig: 184, 190
+  offset: 0, 0
+  index: -1
+shup_3
+  rotate: false
+  xy: 1168, 96
+  size: 113, 221
+  orig: 113, 221
+  offset: 0, 0
+  index: -1
+shup_4
+  rotate: false
+  xy: 1119, 319
+  size: 183, 191
+  orig: 183, 191
+  offset: 0, 0
+  index: -1
+shup_5
+  rotate: false
+  xy: 767, 6
+  size: 213, 116
+  orig: 213, 116
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_L
+  rotate: false
+  xy: 2, 6
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_R
+  rotate: false
+  xy: 69, 6
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+veko_prishurennye_L
+  rotate: false
+  xy: 410, 70
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+veko_prishurennye_R
+  rotate: false
+  xy: 470, 70
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+veko_prishurennye_U_L
+  rotate: false
+  xy: 249, 14
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+veko_prishurennye_U_R
+  rotate: false
+  xy: 261, 51
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+veko_ulybka_L
+  rotate: false
+  xy: 627, 33
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+veko_ulybka_R
+  rotate: false
+  xy: 697, 33
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+veko_zakrytye_L
+  rotate: false
+  xy: 713, 124
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+veko_zakrytye_R
+  rotate: false
+  xy: 780, 124
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+violin_body
+  rotate: false
+  xy: 317, 95
+  size: 296, 233
+  orig: 296, 233
+  offset: 0, 0
+  index: -1
+violin_smychok
+  rotate: false
+  xy: 2, 45
+  size: 257, 35
+  orig: 257, 35
+  offset: 0, 0
+  index: -1
+violin_struna1
+  rotate: false
+  xy: 866, 382
+  size: 198, 128
+  orig: 198, 128
+  offset: 0, 0
+  index: -1
+violin_struna2
+  rotate: false
+  xy: 666, 380
+  size: 198, 130
+  orig: 198, 130
+  offset: 0, 0
+  index: -1
+violin_struna3
+  rotate: false
+  xy: 466, 378
+  size: 198, 132
+  orig: 198, 132
+  offset: 0, 0
+  index: -1
+zrachok_L
+  rotate: false
+  xy: 328, 55
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+zrachok_R
+  rotate: false
+  xy: 369, 55
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1

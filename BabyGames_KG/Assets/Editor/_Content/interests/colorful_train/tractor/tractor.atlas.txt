@@ -1,0 +1,27 @@
+
+tractor.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tractor_BODY
+  rotate: false
+  xy: 417, 2
+  size: 434, 291
+  orig: 434, 291
+  offset: 0, 0
+  index: -1
+tractor_LIGHT
+  rotate: false
+  xy: 2, 137
+  size: 160, 156
+  orig: 160, 156
+  offset: 0, 0
+  index: -1
+tractor_W_R
+  rotate: false
+  xy: 164, 45
+  size: 251, 248
+  orig: 251, 248
+  offset: 0, 0
+  index: -1

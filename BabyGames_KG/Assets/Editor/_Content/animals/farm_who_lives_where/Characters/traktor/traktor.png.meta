@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: d6725cc5b71a02c4b814fb510590f079
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4151093524812694588
+    second: traktor_0
+  - first:
+      213: 8263452063631654638
+    second: traktor_1
+  - first:
+      213: -1558660614802916860
+    second: traktor_2
+  - first:
+      213: 1848561007742113228
+    second: traktor_3
+  - first:
+      213: -8674034802496755778
+    second: traktor_4
+  - first:
+      213: -1442470703207346693
+    second: traktor_5
+  - first:
+      213: 5433033130866550637
+    second: traktor_6
+  - first:
+      213: 2519091417218409777
+    second: traktor_7
+  - first:
+      213: 4801716762936873055
+    second: traktor_8
+  - first:
+      213: -1803197126423791959
+    second: traktor_9
+  - first:
+      213: -7678646778526832789
+    second: traktor_10
+  - first:
+      213: -8703437577930544464
+    second: traktor_11
+  - first:
+      213: 8857817294068655463
+    second: traktor_12
+  - first:
+      213: -4309399941333847092
+    second: traktor_13
+  - first:
+      213: 654758409808210393
+    second: traktor_14
+  - first:
+      213: 7808077772892718566
+    second: traktor_15
+  - first:
+      213: 8443351200649801735
+    second: traktor_16
+  - first:
+      213: -4054922057596184735
+    second: traktor_17
+  - first:
+      213: 2877282498865070515
+    second: traktor_18
+  - first:
+      213: -2045992487990040140
+    second: traktor_19
+  - first:
+      213: -1295407072256428112
+    second: traktor_20
+  - first:
+      213: -7428384038766129638
+    second: traktor_21
+  - first:
+      213: 483228934672980953
+    second: traktor_22
+  - first:
+      213: 7848938107410742444
+    second: traktor_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: traktor_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 489
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3482ef3195ab9930800000000000000
+      internalID: 4151093524812694588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 449
+        width: 334
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeebb37ceddada270800000000000000
+      internalID: 8263452063631654638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 489
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ab741dd668e5ae0800000000000000
+      internalID: -1558660614802916860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 489
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc55b14417867a910800000000000000
+      internalID: 1848561007742113228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 489
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb72ecbdd43af9780800000000000000
+      internalID: -8674034802496755778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 449
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd0b68b9805bfbe0800000000000000
+      internalID: -1442470703207346693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409
+        width: 334
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67aa3ad8d2066b40800000000000000
+      internalID: 5433033130866550637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 409
+        width: 301
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135e9081c4c95f220800000000000000
+      internalID: 2519091417218409777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 449
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5014ee84ff13a240800000000000000
+      internalID: 4801716762936873055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_9
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 312
+        width: 353
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6318b64c1c9f6e0800000000000000
+      internalID: -1803197126423791959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_10
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 237
+        width: 343
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67e53a2077ff6590800000000000000
+      internalID: -7678646778526832789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_11
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 237
+        width: 253
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bae9aab2ad273780800000000000000
+      internalID: -8703437577930544464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 365
+        width: 548
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7652642f5e94dea70800000000000000
+      internalID: 8857817294068655463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 312
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3f4b5e59fe134c0800000000000000
+      internalID: -4309399941333847092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_14
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 377
+        width: 19
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9615efd4b261900800000000000000
+      internalID: 654758409808210393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 484
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5c4ef8d5ddb5c60800000000000000
+      internalID: 7808077772892718566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_16
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1
+        width: 315
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7007994ae2fcc2570800000000000000
+      internalID: 8443351200649801735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_17
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1
+        width: 374
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167551d5fd50ab7c0800000000000000
+      internalID: -4054922057596184735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_18
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 187
+        width: 316
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b10d4f20392ee720800000000000000
+      internalID: 2877282498865070515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_19
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 174
+        width: 172
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b96c3c1cac2b93e0800000000000000
+      internalID: -2045992487990040140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_20
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1
+        width: 328
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b770a2912ac50ee0800000000000000
+      internalID: -1295407072256428112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_21
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 134
+        width: 316
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ec922f21419e890800000000000000
+      internalID: -7428384038766129638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_22
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db9f54e726c4b600800000000000000
+      internalID: 483228934672980953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: traktor_23
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac7e3c8f970dec60800000000000000
+      internalID: 7848938107410742444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      traktor_0: 4151093524812694588
+      traktor_1: 8263452063631654638
+      traktor_10: -7678646778526832789
+      traktor_11: -8703437577930544464
+      traktor_12: 8857817294068655463
+      traktor_13: -4309399941333847092
+      traktor_14: 654758409808210393
+      traktor_15: 7808077772892718566
+      traktor_16: 8443351200649801735
+      traktor_17: -4054922057596184735
+      traktor_18: 2877282498865070515
+      traktor_19: -2045992487990040140
+      traktor_2: -1558660614802916860
+      traktor_20: -1295407072256428112
+      traktor_21: -7428384038766129638
+      traktor_22: 483228934672980953
+      traktor_23: 7848938107410742444
+      traktor_3: 1848561007742113228
+      traktor_4: -8674034802496755778
+      traktor_5: -1442470703207346693
+      traktor_6: 5433033130866550637
+      traktor_7: 2519091417218409777
+      traktor_8: 4801716762936873055
+      traktor_9: -1803197126423791959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

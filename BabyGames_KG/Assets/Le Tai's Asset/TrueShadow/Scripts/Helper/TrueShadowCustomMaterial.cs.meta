@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4d6cc553270ef854bbd5141333a54ed7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205220
+  packageName: True Shadow - UI Soft Shadow and Glow
+  packageVersion: 1.14
+  assetPath: Assets/Le Tai's Asset/TrueShadow/Scripts/Helper/TrueShadowCustomMaterial.cs
+  uploadId: 771429

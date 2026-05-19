@@ -1,0 +1,69 @@
+using DataClasses;
+using GameState;
+using Interfaces;
+using Services;
+using SO;
+using Zenject;
+
+namespace ColorfulTrain
+{
+    public class ColorfulTrain_GameState : IGameState
+    {
+        [Inject] public ListOfAllScenes_SO listOfAllScenes;
+        [Inject] public ISceneLoader sceneLoader;
+        [Inject] public IGameStateService gameStateService;
+
+        private ColorfulTrain_GameState_Model _model;
+        private ColorfulTrain_GameState_View _view;
+
+        public ColorfulTrain_GameState(Activity activity)
+        {
+            _model = new(activity);
+        }
+
+        public async void Enter()
+        {
+            DiService.Inject(this);
+
+            await sceneLoader.ShowLoadingLayerAsync();
+            await sceneLoader.LoadSceneAsyncWithTransition(listOfAllScenes.gameplay_Scene_ColorfulTrain.scene);
+
+            await _model.Initialize();
+            _model.controller.Construct(_model);
+
+            _view = new(_model);
+            await _view.Initialize();
+
+            _model.controller.Initialize();
+
+            await sceneLoader.HideLoadingLayerAsync();
+
+            _model.replayRequest += Replay;
+            _model.goToMainMenuRequest += GoToMainMenu;
+            _model.goToNextActivityRequest += GoNextGame;
+        }
+
+        public void Exit()
+        {
+            _model.replayRequest -= Replay;
+            _model.goToMainMenuRequest -= GoToMainMenu;
+            _model.goToNextActivityRequest -= GoNextGame;
+        }
+
+        private void Replay()
+        {
+            MainMenu_GameState.TryOpenGame(_model.activity, gameStateService);
+        }
+
+        private void GoToMainMenu()
+        {
+            Exit();
+            gameStateService.ChangeState(new MainMenu_GameState(MainMenu_GameState.OpenSettings.OpenActivitiesMenu));
+        }
+
+        private void GoNextGame()
+        {
+            MainMenu_GameState.TryOpenGame(_model.nextActivity, gameStateService);
+        }
+    }
+}

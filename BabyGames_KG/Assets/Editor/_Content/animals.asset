@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83fedfba14c461740aced5bcd31f6d98, type: 3}
+  m_Name: animals
+  m_EditorClassIdentifier: 
+  <activityCategoryName>k__BackingField: animals
+  <icon>k__BackingField: {fileID: 0}
+  <activities>k__BackingField:
+  - <activityName>k__BackingField: animals-farm_orchestra
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: animals
+    <activityFolder>k__BackingField: farm_orchestra
+    <type>k__BackingField: 0
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 10/30/2025 12:41:51 PM
+    <icon>k__BackingField: farm_orchestra-icon.png
+    <isAlwaysUnlocked>k__BackingField: 1
+    <assetBundleUrl_Android>k__BackingField: 
+    <assetBundleUrl_iOS>k__BackingField: 
+    <assetBundleUrl_Windows>k__BackingField: 
+    <assetBundleUrl_OSX>k__BackingField: 
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: farm_orchestra_title
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: farm_orchestra_title
+    prefab_reference: {fileID: 2950120008531438969, guid: 48ed2171da8981b4ea0e7daede6d38ca, type: 3}
+    icon_reference: {fileID: 2800000, guid: 8e3e887c46eca2848a821a04f1f44503, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: animals-farm_puzzle
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: animals
+    <activityFolder>k__BackingField: farm_puzzle
+    <type>k__BackingField: 0
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 10/30/2025 12:41:51 PM
+    <icon>k__BackingField: farm_puzzle-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: 
+    <assetBundleUrl_iOS>k__BackingField: 
+    <assetBundleUrl_Windows>k__BackingField: 
+    <assetBundleUrl_OSX>k__BackingField: 
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: farm_puzzle
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: farm_puzzle
+    prefab_reference: {fileID: -8710147378775348154, guid: f8e4591dfd73cf24198dbe4ad9e5b828, type: 3}
+    icon_reference: {fileID: 2800000, guid: fc61976e249f50947af6f65427ee40ce, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: animals-farm_who_lives_where
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: animals
+    <activityFolder>k__BackingField: farm_who_lives_where
+    <type>k__BackingField: 0
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 10/30/2025 12:41:51 PM
+    <icon>k__BackingField: farm_who_lives_where-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: 
+    <assetBundleUrl_iOS>k__BackingField: 
+    <assetBundleUrl_Windows>k__BackingField: 
+    <assetBundleUrl_OSX>k__BackingField: 
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: who_lives_where
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: who_lives_where
+    prefab_reference: {fileID: 2752991321016407544, guid: 3710fe4c84c522b498d28e0336953988, type: 3}
+    icon_reference: {fileID: 2800000, guid: 5ecc1f4f915eedd4a93929b9285bc01f, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: animals-uw_bubble
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: animals
+    <activityFolder>k__BackingField: uw_bubble
+    <type>k__BackingField: 0
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 10/30/2025 12:41:51 PM
+    <icon>k__BackingField: uw_bubble-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: 
+    <assetBundleUrl_iOS>k__BackingField: 
+    <assetBundleUrl_Windows>k__BackingField: 
+    <assetBundleUrl_OSX>k__BackingField: 
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: bubbles
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: bubbles
+    prefab_reference: {fileID: 1748648799743956884, guid: 17ce4c727e8d09640b726ee6c253f752, type: 3}
+    icon_reference: {fileID: 2800000, guid: 454096ae34a3d064998b9d28d61f29a1, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: animals-uw_hiding
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: animals
+    <activityFolder>k__BackingField: uw_hiding
+    <type>k__BackingField: 0
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 10/30/2025 12:41:51 PM
+    <icon>k__BackingField: uw_hiding-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: 
+    <assetBundleUrl_iOS>k__BackingField: 
+    <assetBundleUrl_Windows>k__BackingField: 
+    <assetBundleUrl_OSX>k__BackingField: 
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: hide_and_seek
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: hide_and_seek
+    prefab_reference: {fileID: 5168524266713433437, guid: ab84857dec8f89345bbff89b44fe7d92, type: 3}
+    icon_reference: {fileID: 2800000, guid: f712d605839c6bd4eb6b7b6130916bf5, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: animals-uw_orchestra
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: animals
+    <activityFolder>k__BackingField: uw_orchestra
+    <type>k__BackingField: 0
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 10/30/2025 12:41:51 PM
+    <icon>k__BackingField: uw_orchestra-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: 
+    <assetBundleUrl_iOS>k__BackingField: 
+    <assetBundleUrl_Windows>k__BackingField: 
+    <assetBundleUrl_OSX>k__BackingField: 
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: ocean_orchestra
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: ocean_orchestra
+    prefab_reference: {fileID: 7842369927763489238, guid: 4127a5483146bf7448596122520127c1, type: 3}
+    icon_reference: {fileID: 2800000, guid: a07ed67278c1f71489e422f7b68f348f, type: 3}
+    _errorList: []
+  <stringSettings>k__BackingField: []
+  <intSettings>k__BackingField: []
+  <floatSettings>k__BackingField:
+  - key: delayBeforeFinalAnimation
+    value: 1.5
+  - key: hiding_dropDIstance
+    value: 2
+  <vector3Settings>k__BackingField:
+  - key: animals-farm_orchestra_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-farm_puzzle_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-farm_who_lives_where_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-uw_bubble_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-uw_hiding_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-uw_orchestra_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-farm_orchestra_iconOffset
+    value: {x: 10, y: 0, z: 0}
+  - key: animals-farm_puzzle_iconOffset
+    value: {x: 10, y: 0, z: 0}
+  - key: animals-farm_who_lives_where_iconOffset
+    value: {x: 20, y: 25, z: 0}
+  - key: animals-uw_bubble_iconOffset
+    value: {x: 10, y: 0, z: 0}
+  - key: animals-uw_hiding_iconOffset
+    value: {x: 10, y: 0, z: 0}
+  - key: animals-uw_orchestra_iconOffset
+    value: {x: 15, y: 0, z: 0}
+  <iconOffsets>k__BackingField:
+  - key: animals-farm_orchestra
+    value: {x: -5, y: 1, z: 1}
+  - key: animals-farm_puzzle
+    value: {x: -5, y: 1, z: 1}
+  - key: animals-farm_who_lives_where
+    value: {x: 10, y: 25, z: 1}
+  - key: animals-uw_bubble
+    value: {x: -5, y: 1, z: 1}
+  - key: animals-uw_hiding
+    value: {x: -5, y: 1, z: 1}
+  - key: animals-uw_orchestra
+    value: {x: -5, y: 1, z: 1}
+  <iconScales>k__BackingField:
+  - key: animals-farm_orchestra
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-farm_puzzle
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-farm_who_lives_where
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-uw_bubble
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-uw_hiding
+    value: {x: 1, y: 1, z: 1}
+  - key: animals-uw_orchestra
+    value: {x: 1, y: 1, z: 1}
+  contentPath: Assets/Editor/_Content/animals

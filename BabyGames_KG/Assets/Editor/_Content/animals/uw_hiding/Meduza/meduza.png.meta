@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: a255902fab9fcdc4c9f0efa4be767cc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8480514598959926370
+    second: meduza_0
+  - first:
+      213: 3285586506321732806
+    second: meduza_1
+  - first:
+      213: 8286657664103315201
+    second: meduza_2
+  - first:
+      213: 6445395013666967213
+    second: meduza_3
+  - first:
+      213: 7125231905511184885
+    second: meduza_4
+  - first:
+      213: -6899213040622127223
+    second: meduza_5
+  - first:
+      213: -3397698143872788839
+    second: meduza_6
+  - first:
+      213: 4818331627529158077
+    second: meduza_7
+  - first:
+      213: -4048138952854655954
+    second: meduza_8
+  - first:
+      213: -187683085289516467
+    second: meduza_9
+  - first:
+      213: 8872472939836985751
+    second: meduza_10
+  - first:
+      213: 1740613657640575558
+    second: meduza_11
+  - first:
+      213: -126101746288182141
+    second: meduza_12
+  - first:
+      213: 2553196176680973585
+    second: meduza_13
+  - first:
+      213: 3112190641418990827
+    second: meduza_14
+  - first:
+      213: 6174928528776262137
+    second: meduza_15
+  - first:
+      213: 7964545170908538472
+    second: meduza_16
+  - first:
+      213: 3319667653353973286
+    second: meduza_17
+  - first:
+      213: -5666472442572951743
+    second: meduza_18
+  - first:
+      213: 4253643990696001595
+    second: meduza_19
+  - first:
+      213: -6263108693910094093
+    second: meduza_20
+  - first:
+      213: -7389158953212349643
+    second: meduza_21
+  - first:
+      213: 6255323910068190397
+    second: meduza_22
+  - first:
+      213: -1279790398228783172
+    second: meduza_23
+  - first:
+      213: -6381345251147376414
+    second: meduza_24
+  - first:
+      213: -3863262561277721509
+    second: meduza_25
+  - first:
+      213: 6536980946295605007
+    second: meduza_26
+  - first:
+      213: 6094277719141127789
+    second: meduza_27
+  - first:
+      213: 8457155561412625218
+    second: meduza_28
+  - first:
+      213: -7063113171599093839
+    second: meduza_29
+  - first:
+      213: 2994065240786777708
+    second: meduza_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: meduza_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 64
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93ba7867e82f4a80800000000000000
+      internalID: -8480514598959926370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 246
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4af1c058fb89d20800000000000000
+      internalID: 3285586506321732806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 63
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107752cad3f100370800000000000000
+      internalID: 8286657664103315201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 242
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae81b2ad94a27950800000000000000
+      internalID: 6445395013666967213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 236
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9164ebaa8e1e260800000000000000
+      internalID: 7125231905511184885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_5
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 236
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987b9fb0b421140a0800000000000000
+      internalID: -6899213040622127223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_6
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 235
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99655783a83f8d0d0800000000000000
+      internalID: -3397698143872788839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 200
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdb7ec26172ed240800000000000000
+      internalID: 4818331627529158077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 200
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c2da1021f12d7c0800000000000000
+      internalID: -4048138952854655954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_9
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 240
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4218f27a37356df0800000000000000
+      internalID: -187683085289516467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791df32612b512b70800000000000000
+      internalID: 8872472939836985751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 290
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6422cd246e6e72810800000000000000
+      internalID: 1740613657640575558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 208
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cbfee312fff3ef0800000000000000
+      internalID: -126101746288182141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 208
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11574f03566ce6320800000000000000
+      internalID: 2553196176680973585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 208
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4f21736e8b03b20800000000000000
+      internalID: 3112190641418990827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 208
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1722fd7c0c1b550800000000000000
+      internalID: 6174928528776262137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_16
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 208
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8666e8d82afb78e60800000000000000
+      internalID: 7964545170908538472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 208
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626a4827424d11e20800000000000000
+      internalID: 3319667653353973286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_18
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 182
+        width: 234
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f26e2f555ac51b0800000000000000
+      internalID: -5666472442572951743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1
+        width: 94
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30096a3caaf70b30800000000000000
+      internalID: 4253643990696001595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 95
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fef3d583d7f419a0800000000000000
+      internalID: -6263108693910094093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_21
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 182
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53371ecd41f647990800000000000000
+      internalID: -7389158953212349643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_22
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 122
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc3f9e34ff5fc650800000000000000
+      internalID: 6255323910068190397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 62
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf1e96d9654d3ee0800000000000000
+      internalID: -1279790398228783172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 122
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e81c3ccd48e077a0800000000000000
+      internalID: -6381345251147376414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_25
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54c9f04b2fe26ac0800000000000000
+      internalID: -3863262561277721509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_26
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 62
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f074277498508ba50800000000000000
+      internalID: 6536980946295605007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_27
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 62
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d661cf3fb49339450800000000000000
+      internalID: 6094277719141127789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_28
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 27
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430838dc2add5570800000000000000
+      internalID: 8457155561412625218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_29
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf047e0ef7cafd90800000000000000
+      internalID: -7063113171599093839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: meduza_30
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66b077297e0d8920800000000000000
+      internalID: 2994065240786777708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      meduza_0: -8480514598959926370
+      meduza_1: 3285586506321732806
+      meduza_10: 8872472939836985751
+      meduza_11: 1740613657640575558
+      meduza_12: -126101746288182141
+      meduza_13: 2553196176680973585
+      meduza_14: 3112190641418990827
+      meduza_15: 6174928528776262137
+      meduza_16: 7964545170908538472
+      meduza_17: 3319667653353973286
+      meduza_18: -5666472442572951743
+      meduza_19: 4253643990696001595
+      meduza_2: 8286657664103315201
+      meduza_20: -6263108693910094093
+      meduza_21: -7389158953212349643
+      meduza_22: 6255323910068190397
+      meduza_23: -1279790398228783172
+      meduza_24: -6381345251147376414
+      meduza_25: -3863262561277721509
+      meduza_26: 6536980946295605007
+      meduza_27: 6094277719141127789
+      meduza_28: 8457155561412625218
+      meduza_29: -7063113171599093839
+      meduza_3: 6445395013666967213
+      meduza_30: 2994065240786777708
+      meduza_4: 7125231905511184885
+      meduza_5: -6899213040622127223
+      meduza_6: -3397698143872788839
+      meduza_7: 4818331627529158077
+      meduza_8: -4048138952854655954
+      meduza_9: -187683085289516467
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

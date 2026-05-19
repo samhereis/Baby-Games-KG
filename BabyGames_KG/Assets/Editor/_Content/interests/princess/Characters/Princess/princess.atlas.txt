@@ -1,0 +1,657 @@
+
+princess.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Telo_1/Telo_1_body
+  rotate: false
+  xy: 875, 539
+  size: 132, 170
+  orig: 132, 170
+  offset: 0, 0
+  index: -1
+Telo_1/Telo_1_plecho_L
+  rotate: false
+  xy: 1201, 9
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+Telo_1/Telo_1_plecho_R
+  rotate: false
+  xy: 1221, 205
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+Telo_1/Telo_1_yubka
+  rotate: false
+  xy: 2, 164
+  size: 383, 299
+  orig: 383, 299
+  offset: 0, 0
+  index: -1
+Telo_2/Telo_2_body
+  rotate: false
+  xy: 2, 4
+  size: 242, 158
+  orig: 242, 158
+  offset: 0, 0
+  index: -1
+Telo_2/Telo_2_plecho_L
+  rotate: false
+  xy: 1039, 191
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+Telo_2/Telo_2_plecho_R
+  rotate: false
+  xy: 1130, 191
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+Telo_2/Telo_2_yubka
+  rotate: false
+  xy: 504, 470
+  size: 369, 227
+  orig: 369, 227
+  offset: 0, 0
+  index: -1
+Telo_3/Telo_3_bant
+  rotate: false
+  xy: 682, 169
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+Telo_3/Telo_3_body
+  rotate: false
+  xy: 1009, 567
+  size: 132, 158
+  orig: 132, 158
+  offset: 0, 0
+  index: -1
+Telo_3/Telo_3_plecho_L
+  rotate: false
+  xy: 1073, 91
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+Telo_3/Telo_3_plecho_R
+  rotate: false
+  xy: 1289, 25
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+Telo_3/Telo_3_yubka
+  rotate: false
+  xy: 387, 221
+  size: 410, 242
+  orig: 410, 242
+  offset: 0, 0
+  index: -1
+diademas/diadema_1
+  rotate: false
+  xy: 982, 11
+  size: 132, 78
+  orig: 132, 78
+  offset: 0, 0
+  index: -1
+diademas/diadema_2
+  rotate: false
+  xy: 471, 65
+  size: 160, 99
+  orig: 160, 99
+  offset: 0, 0
+  index: -1
+diademas/diadema_3
+  rotate: false
+  xy: 795, 83
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+eff/glare polishing
+  rotate: false
+  xy: 1172, 873
+  size: 16, 149
+  orig: 16, 149
+  offset: 0, 0
+  index: -1
+eff/glare polishing2
+  rotate: false
+  xy: 1139, 865
+  size: 31, 157
+  orig: 31, 157
+  offset: 0, 0
+  index: -1
+eff/kont_diadema_1
+  rotate: false
+  xy: 832, 711
+  size: 132, 78
+  orig: 132, 78
+  offset: 0, 0
+  index: -1
+eff/kont_diadema_2
+  rotate: false
+  xy: 633, 66
+  size: 160, 99
+  orig: 160, 99
+  offset: 0, 0
+  index: -1
+eff/kont_diadema_3
+  rotate: false
+  xy: 934, 91
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+eff/light
+  rotate: false
+  xy: 2, 465
+  size: 500, 557
+  orig: 500, 557
+  offset: 0, 0
+  index: -1
+eff/shine polishing
+  rotate: false
+  xy: 1013, 797
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+emotion/brow_grust'_L
+  rotate: false
+  xy: 590, 14
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+emotion/brow_grust'_R
+  rotate: false
+  xy: 461, 10
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+emotion/brow_neitr_L
+  rotate: false
+  xy: 710, 39
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+emotion/brow_neitr_R
+  rotate: false
+  xy: 710, 52
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+emotion/rot_grust
+  rotate: false
+  xy: 762, 53
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+emotion/rot_neitral
+  rotate: false
+  xy: 578, 28
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+emotion/rot_udivlenie
+  rotate: false
+  xy: 795, 53
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+emotion/rot_ulybka
+  rotate: false
+  xy: 422, 9
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+emotion/rot_ulybka-smeh
+  rotate: false
+  xy: 548, 4
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+emotion/veko_poluzakrytye_L
+  rotate: false
+  xy: 621, 10
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+emotion/veko_poluzakrytye_R
+  rotate: false
+  xy: 633, 38
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+emotion/veko_prishurennye_L
+  rotate: false
+  xy: 246, 2
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+emotion/veko_prishurennye_R
+  rotate: false
+  xy: 292, 3
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+emotion/veko_prishurennye_dop_L
+  rotate: false
+  xy: 338, 7
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+emotion/veko_prishurennye_dop_R
+  rotate: false
+  xy: 381, 7
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+emotion/veko_ulybka_L
+  rotate: false
+  xy: 902, 234
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+emotion/veko_ulybka_R
+  rotate: false
+  xy: 850, 232
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+emotion/veko_zakrytye_L
+  rotate: false
+  xy: 950, 188
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+emotion/veko_zakrytye_R
+  rotate: false
+  xy: 852, 184
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+ojerelies/T1_ojerelie
+  rotate: false
+  xy: 773, 174
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+ojerelies/T2_ojerelie
+  rotate: false
+  xy: 471, 28
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+ojerelies/T3_ojerelie
+  rotate: false
+  xy: 778, 2
+  size: 71, 49
+  orig: 71, 49
+  offset: 0, 0
+  index: -1
+other/belki_L
+  rotate: false
+  xy: 1092, 787
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+other/belki_R
+  rotate: false
+  xy: 1096, 836
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+other/eye_L
+  rotate: false
+  xy: 578, 38
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+other/eye_R
+  rotate: false
+  xy: 492, 2
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+other/hair_back
+  rotate: false
+  xy: 504, 699
+  size: 326, 323
+  orig: 326, 323
+  offset: 0, 0
+  index: -1
+other/hair_front
+  rotate: false
+  xy: 246, 25
+  size: 223, 137
+  orig: 223, 137
+  offset: 0, 0
+  index: -1
+other/head
+  rotate: false
+  xy: 799, 281
+  size: 233, 187
+  orig: 233, 187
+  offset: 0, 0
+  index: -1
+other/kist_L_1
+  rotate: false
+  xy: 917, 8
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+other/kist_R_1
+  rotate: false
+  xy: 851, 4
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+other/noga_L
+  rotate: false
+  xy: 1013, 876
+  size: 87, 146
+  orig: 87, 146
+  offset: 0, 0
+  index: -1
+other/noga_R
+  rotate: false
+  xy: 1143, 594
+  size: 77, 153
+  orig: 77, 153
+  offset: 0, 0
+  index: -1
+other/nos
+  rotate: false
+  xy: 741, 48
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+other/plecho_L
+  rotate: false
+  xy: 799, 230
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+other/plecho_L_dot
+  rotate: false
+  xy: 997, 239
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+other/plecho_R
+  rotate: false
+  xy: 1219, 127
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+other/plecho_R_dot
+  rotate: false
+  xy: 954, 238
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+other/predpleche_L
+  rotate: false
+  xy: 1273, 128
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+other/predpleche_L_dot
+  rotate: false
+  xy: 670, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+other/predpleche_R
+  rotate: false
+  xy: 1158, 115
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+other/predpleche_R_dot
+  rotate: false
+  xy: 704, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+other/rumyana_L
+  rotate: false
+  xy: 864, 54
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+other/rumyana_R
+  rotate: false
+  xy: 832, 53
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+other/zrachok_L
+  rotate: false
+  xy: 895, 54
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+other/zrachok_R
+  rotate: false
+  xy: 681, 38
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+pijama/pijama_hand_L
+  rotate: false
+  xy: 1137, 311
+  size: 101, 171
+  orig: 101, 171
+  offset: 0, 0
+  index: -1
+pijama/pijama_hand_R
+  rotate: false
+  xy: 1034, 300
+  size: 101, 173
+  orig: 101, 173
+  offset: 0, 0
+  index: -1
+pijama/pijama_tulovishe
+  rotate: false
+  xy: 832, 791
+  size: 179, 231
+  orig: 179, 231
+  offset: 0, 0
+  index: -1
+sergi/T1_serga_L
+  rotate: false
+  xy: 1132, 749
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sergi/T1_serga_R
+  rotate: false
+  xy: 1135, 798
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sergi/T2_serga_L
+  rotate: false
+  xy: 1092, 749
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+sergi/T2_serga_R
+  rotate: false
+  xy: 537, 28
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+sergi/T3_serga_L
+  rotate: false
+  xy: 1059, 827
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+sergi/T3_serga_R
+  rotate: false
+  xy: 1001, 191
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+tufli/Telo_1_tuflya_L
+  rotate: false
+  xy: 486, 167
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+tufli/Telo_1_tuflya_R
+  rotate: false
+  xy: 875, 475
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1
+tufli/Telo_2_tuflya_L
+  rotate: false
+  xy: 584, 167
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+tufli/Telo_2_tuflya_L_dop
+  rotate: false
+  xy: 738, 2
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+tufli/Telo_2_tuflya_R
+  rotate: false
+  xy: 958, 475
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1
+tufli/Telo_2_tuflya_R_dop
+  rotate: false
+  xy: 934, 54
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+tufli/Telo_3_tuflya_L
+  rotate: false
+  xy: 387, 166
+  size: 97, 53
+  orig: 97, 53
+  offset: 0, 0
+  index: -1
+tufli/Telo_3_tuflya_L_dop
+  rotate: false
+  xy: 904, 182
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+tufli/Telo_3_tuflya_R
+  rotate: false
+  xy: 966, 727
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1
+tufli/Telo_3_tuflya_R_dop
+  rotate: false
+  xy: 1049, 736
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+tufli/pijama_mejnog
+  rotate: false
+  xy: 1041, 476
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+tufli/pijama_noga_L
+  rotate: false
+  xy: 1240, 461
+  size: 83, 281
+  orig: 83, 281
+  offset: 0, 0
+  index: -1
+tufli/pijama_noga_R
+  rotate: false
+  xy: 1222, 744
+  size: 87, 278
+  orig: 87, 278
+  offset: 0, 0
+  index: -1
+tufli/pijama_tapochek_L
+  rotate: false
+  xy: 1132, 484
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+tufli/pijama_tapochek_R
+  rotate: false
+  xy: 1116, 10
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1

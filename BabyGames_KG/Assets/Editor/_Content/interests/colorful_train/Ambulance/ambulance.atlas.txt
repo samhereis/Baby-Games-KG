@@ -1,0 +1,41 @@
+
+ambulance.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ambulance_BODY
+  rotate: false
+  xy: 2, 138
+  size: 524, 340
+  orig: 524, 340
+  offset: 0, 0
+  index: -1
+ambulance_FARA_LIGHT_L
+  rotate: false
+  xy: 395, 27
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+ambulance_FARA_LIGHT_R
+  rotate: false
+  xy: 292, 15
+  size: 101, 121
+  orig: 101, 121
+  offset: 0, 0
+  index: -1
+ambulance_SIRENA_LIGHT
+  rotate: false
+  xy: 2, 11
+  size: 152, 125
+  orig: 152, 125
+  offset: 0, 0
+  index: -1
+ambulance_W_L
+  rotate: false
+  xy: 156, 2
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,411 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Default_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7fb3ed1c7610af94b87b841348c7787e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1290709483880185961
+  m_TableData:
+  - m_Id: 22
+    m_Localized: FULL ACCESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23
+    m_Localized: About us
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24
+    m_Localized: Meet the passionate minds behind Saratan Animations Studio. Our
+      team is a diverse group of creative individuals dedicated to developing educational
+      and entertaining apps for children. Our current app, Lalafun Baby Games, inspires
+      young minds through fun and interactive activities. Join us on our journey
+      towards creating joyful learning experiences for children worldwide.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25
+    m_Localized: Why Parents Trust Us
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26
+    m_Localized: No Ads
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27
+    m_Localized: Our applications are ad-free, providing a secure and uninterrupted 
+      learning experience for your child.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28
+    m_Localized: Safe Content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29
+    m_Localized: Our content is meticulously designed to ensure it is both safe and
+      suitable for children.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30
+    m_Localized: Preschool-Aged Kids
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31
+    m_Localized: Our apps are dedicated for children aged 2 to 5, making them perfect
+      for preschool-aged kids.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32
+    m_Localized: Localization in Apps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33
+    m_Localized: Our apps support multiple languages, making them accessible to children
+      worldwide.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34
+    m_Localized: Interactive Learning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35
+    m_Localized: Our apps are interactive and educational, promoting development
+      and teaching essential skills.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36
+    m_Localized: Free Games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37
+    m_Localized: Try our games for free and support your child's growth. Discover
+      a world of fun and educational activities!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38
+    m_Localized: Engjoying our apps?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39
+    m_Localized: Please help us to get better!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40
+    m_Localized: Rate Us
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41
+    m_Localized: FAQ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42
+    m_Localized: 'If you have any questions? please write us: {emailName}'
+    m_Metadata:
+      m_Items:
+      - rid: 1290709483880185961
+  - m_Id: 43
+    m_Localized: 'How can I purchase this app? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44
+    m_Localized: 'Please ensure that you have a valid payment method and active internet
+      connection prior to app launch. Then, tap on the locked content, pass through
+      the parental gate and follow the standard purchasing flow. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45
+    m_Localized: How can I restore/transfer my purchase?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46
+    m_Localized: 'Please follow these steps:
+
+      1. Set up the account from which
+      the purchase was initially performed.
+
+      2. Download the app using that
+      account.
+
+      3. Ensure internet connection is ON.
+
+      4. Launch the app.
+
+      Note:
+      IAPs restoration is only possible within the original store'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47
+    m_Localized: How can I share my in-app purchases using the Apple Family Sharing
+      Program?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48
+    m_Localized: 'To set up Family Sharing:
+
+      1. Open Settings.
+
+      2. Tap
+      your name.
+
+      3. Select Family Sharing.
+
+      4. Choose "Set Up Your Family."
+
+      Follow
+      the onscreen instructions to set up your family and invite members. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49
+    m_Localized: How do I get a refund for an accidental purchase?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50
+    m_Localized: We have no authority over any payment-related procedures. Please,
+      refer to the store's refund policy and contact the App Store support team for
+      payment-related issues or refund requests.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51
+    m_Localized: How can I cancel my subscription?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53
+    m_Localized: Are your apps available for a single payment or are they subscription-based?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54
+    m_Localized: Most of our apps offer one-time in-app purchases, granting you unlimited
+      access without any additional charges. This application - 'Lalafun Baby Games'
+      offers one-time purchase. However, we do have (or will have in the future)
+      some apps that utilize a subscription model.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55
+    m_Localized: Is an active internet connection required to use your apps?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56
+    m_Localized: 'An active internet connection is required to download and install
+      our apps from the application stores. However, once the app is installed on
+      your device, you can turn OFF the internet connection and use it. Exceptions:
+      Some of our apps may need internet connection to sync game progress, to get
+      updates or to get new content.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57
+    m_Localized: Do you have any advertisements within your apps?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58
+    m_Localized: 'Our apps are completely ad-free. There is only the "More Apps"
+      section, which is protected by a parental gate, making it inaccessible to children.
+      You can disable this section by turning off the internet connection before
+      launching the app. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74
+    m_Localized: Contact Us
+    m_Metadata:
+      m_Items: []
+  - m_Id: 75
+    m_Localized: Google Play Refund policy & Contact Link.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76
+    m_Localized: Apple Support.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 77
+    m_Localized: Is the app free?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 78
+    m_Localized: The app is free to download and includes a variety of games, coloring
+      pages and animations. Additional content can be purchased as optional in-app
+      packs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 79
+    m_Localized: Is the app safe for kids?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80
+    m_Localized: Yes, the app is designed specifically for children with strict safety
+      measures. It has no ads, no external links, and does not collect personal data.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81
+    m_Localized: How often is new content added?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82
+    m_Localized: New coloring pages and animations are added regularly to keep the
+      app fresh and engaging for your child.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83
+    m_Localized: What if the app crashes or has a problem?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84
+    m_Localized: If you encounter any issues, you can contact our support team at
+      {supportLink} or visit our help center at {websiteLink}. We are here to assist
+      you!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85
+    m_Localized: 'How can I purchase this app? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86
+    m_Localized: 'Please ensure that you have a valid payment method and active internet
+      connection prior to app launch. Then, tap on the locked content, pass through
+      the parental gate and follow the standard purchasing flow. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87
+    m_Localized: How can I restore/transfer my purchase?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88
+    m_Localized: 'Please follow these steps:
+
+      1. Set up the account from which
+      the purchase was initially performed.
+
+      2. Download the app using that
+      account.
+
+      3. Ensure internet connection is ON.
+
+      4. Launch the app.
+
+      Note:
+      IAPs restoration is only possible within the original store'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89
+    m_Localized: Can I share my in-app purchases using the Google Play Family Library?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90
+    m_Localized: 'Unfortunately, it''s not eligible to share in-app purchases in
+      the Google Play Family Library. Each app store has its own sharing capabilities
+      and that goes beyond our control. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91
+    m_Localized: How do I get a refund for an accidental purchase?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92
+    m_Localized: We have no authority over any payment-related procedures. If you
+      use Android, kindly adhere to the store's refund policy and directly reach
+      out to the Google Play support team for assistance regarding payment concerns
+      or refund inquiries.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93
+    m_Localized: How can I cancel my subscription?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94
+    m_Localized: "In this application, there is no subscription option. The 'Lalafun
+      Baby Games' app offers a one-time purchase to unlock all content and tools
+      for lifetime access. For our other apps that include subscription plans, please
+      follow these instructions to cancel a subscription:\n1. Open the Google Play
+      app.\n2. Tap the profile icon at the top right.\n3. Go to Payments & subscriptions,
+      then Subscriptions. \n4. Choose the subscription to cancel.\n5. Tap Cancel
+      Subscription.\nFollow the instructions."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95
+    m_Localized: Are your apps available for a single payment or are they subscription-based?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96
+    m_Localized: Most of our apps offer one-time in-app purchases, giving you unlimited
+      access without any additional fees. This app - 'Lalafun Baby Games' offers
+      a monthly or annual subscription.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97
+    m_Localized: Is an active internet connection required to use your apps?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98
+    m_Localized: 'An active internet connection is required to download and install
+      our apps from the application stores. However, once the app is installed on
+      your device, you can turn OFF the internet connection and use it. Exceptions:
+      Some of our apps may need internet connection to sync game progress, to get
+      updates or to get new content.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99
+    m_Localized: Do you have any advertisements within your apps?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100
+    m_Localized: 'Our apps are completely ad-free. There is only the "More Apps"
+      section, which is protected by a parental gate, making it inaccessible to children.
+      You can disable this section by turning off the internet connection before
+      launching the app. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101
+    m_Localized: Is the app free?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102
+    m_Localized: The app is free to download and includes a variety of coloring pages
+      and animations. Additional content can be purchased as optional in-app packs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 103
+    m_Localized: Is the app safe for kids?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104
+    m_Localized: Yes, the app is designed specifically for children with strict safety
+      measures. It has no ads, no external links, and does not collect personal data.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 105
+    m_Localized: How often is new content added?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106
+    m_Localized: New coloring pages and animations are added regularly to keep the
+      app fresh and engaging for your child.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107
+    m_Localized: What if the app crashes or has a problem?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108
+    m_Localized: If you encounter any issues, you can contact our support team at
+      {supportLink} or visit our help center at {websiteLink}. We are here to assist
+      you!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1290709483880185961
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 42

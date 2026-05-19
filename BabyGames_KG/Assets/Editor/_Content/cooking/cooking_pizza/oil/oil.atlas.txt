@@ -1,0 +1,41 @@
+
+oil.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+oil_Bottle
+  rotate: false
+  xy: 2, 5
+  size: 167, 490
+  orig: 167, 490
+  offset: 0, 0
+  index: -1
+oil_Water1
+  rotate: false
+  xy: 334, 61
+  size: 53, 434
+  orig: 53, 434
+  offset: 0, 0
+  index: -1
+oil_Water2
+  rotate: false
+  xy: 389, 61
+  size: 53, 434
+  orig: 53, 434
+  offset: 0, 0
+  index: -1
+oil_WaterIN
+  rotate: false
+  xy: 171, 74
+  size: 161, 421
+  orig: 161, 421
+  offset: 0, 0
+  index: -1
+oil_krishka
+  rotate: false
+  xy: 171, 2
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1

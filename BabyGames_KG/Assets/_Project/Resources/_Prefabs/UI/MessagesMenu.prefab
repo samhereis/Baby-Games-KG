@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5067942570471862459
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3205673990021575834}
+  - component: {fileID: 3507359650739978150}
+  m_Layer: 0
+  m_Name: MessagesMenu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3205673990021575834
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5067942570471862459}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3507359650739978150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5067942570471862459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aca8da1f273cd2b4aa6591ab97060cd1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _messages:
+  - key: no_internet_connection-tall
+    value: {fileID: 7944368040561629013, guid: 4e1d306404e604a4496a265083768cc7, type: 3}
+  - key: no_internet_connection-wide
+    value: {fileID: 55283486676936437, guid: e61076adb667f9544bee74eb4282e8ef, type: 3}
+  - key: no_purchase-tall
+    value: {fileID: 55283486676936437, guid: b062ba036c7a0e242bc13468ff96cba0, type: 3}
+  - key: no_purchase-wide
+    value: {fileID: 7081906435488317088, guid: 6ab25fa550b892341a3210e386fe834f, type: 3}
+  - key: server_error-tall
+    value: {fileID: 1812404031202053073, guid: 79a21a567df21ac469cfbeffafbecce4, type: 3}
+  - key: server_error-wide
+    value: {fileID: 55283486676936437, guid: 9389da9abc9effc40a25dd6f6c7c3169, type: 3}
+  _spawnedMessages: []

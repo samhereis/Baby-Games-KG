@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 011f4a03ded95bc4b85c5e0f719e106a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1399771114576156704
+    second: PUPPY_0
+  - first:
+      213: 7874586748095156951
+    second: PUPPY_1
+  - first:
+      213: 8056951782831206090
+    second: PUPPY_2
+  - first:
+      213: -6117048764020859696
+    second: PUPPY_3
+  - first:
+      213: -4538261623836075869
+    second: PUPPY_4
+  - first:
+      213: 5916770932305365276
+    second: PUPPY_5
+  - first:
+      213: -1097508747564479207
+    second: PUPPY_6
+  - first:
+      213: 700034832502270026
+    second: PUPPY_7
+  - first:
+      213: 7308732912271245338
+    second: PUPPY_8
+  - first:
+      213: 7478435359458203811
+    second: PUPPY_9
+  - first:
+      213: 2123770397638926627
+    second: PUPPY_10
+  - first:
+      213: 2419585926049327048
+    second: PUPPY_11
+  - first:
+      213: -2384409540837209227
+    second: PUPPY_12
+  - first:
+      213: 3777219790361259274
+    second: PUPPY_13
+  - first:
+      213: -2688473661110220835
+    second: PUPPY_14
+  - first:
+      213: 3669779066885802276
+    second: PUPPY_15
+  - first:
+      213: 842459136822295584
+    second: PUPPY_16
+  - first:
+      213: 5829627368952433177
+    second: PUPPY_17
+  - first:
+      213: 8025273726362277739
+    second: PUPPY_18
+  - first:
+      213: 5801973714381876347
+    second: PUPPY_19
+  - first:
+      213: -3844805362480544103
+    second: PUPPY_20
+  - first:
+      213: 1781747970784199379
+    second: PUPPY_21
+  - first:
+      213: -8170557005767282311
+    second: PUPPY_22
+  - first:
+      213: -1801252887363026003
+    second: PUPPY_23
+  - first:
+      213: -4929203648206123892
+    second: PUPPY_24
+  - first:
+      213: 386530910309679095
+    second: PUPPY_25
+  - first:
+      213: 6334448359043362391
+    second: PUPPY_26
+  - first:
+      213: 4402035390031493701
+    second: PUPPY_27
+  - first:
+      213: 610433335379978163
+    second: PUPPY_28
+  - first:
+      213: 6045564932187962184
+    second: PUPPY_29
+  - first:
+      213: 6885824034983199586
+    second: PUPPY_30
+  - first:
+      213: 4721688134039350791
+    second: PUPPY_31
+  - first:
+      213: -8374780320860316722
+    second: PUPPY_32
+  - first:
+      213: -5313054189688009872
+    second: PUPPY_33
+  - first:
+      213: -1049319026562901986
+    second: PUPPY_34
+  - first:
+      213: 8992067751468208190
+    second: PUPPY_35
+  - first:
+      213: 7646417086638740768
+    second: PUPPY_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PUPPY_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281a23996cfc6310800000000000000
+      internalID: 1399771114576156704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 150
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2d5311de6284d60800000000000000
+      internalID: 7874586748095156951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 234
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceaa1c75fa00df60800000000000000
+      internalID: 8056951782831206090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 145
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc5bc20f80eb1ba0800000000000000
+      internalID: -6117048764020859696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 234
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8967d091bd401c0800000000000000
+      internalID: -4538261623836075869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 230
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c190b6580d79c1250800000000000000
+      internalID: 5916770932305365276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 230
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d0983eb9dd4c0f0800000000000000
+      internalID: -1097508747564479207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 230
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48a2b1a8f507b900800000000000000
+      internalID: 700034832502270026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 230
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1042224cd5dd6560800000000000000
+      internalID: 7308732912271245338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 229
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a81a34465db8c760800000000000000
+      internalID: 7478435359458203811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 229
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32122c7ace5297d10800000000000000
+      internalID: 2123770397638926627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 229
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c764b98498149120800000000000000
+      internalID: 2419585926049327048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 196
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b885fd720e8eed0800000000000000
+      internalID: -2384409540837209227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_13
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 195
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dee0303616b6430800000000000000
+      internalID: 3777219790361259274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_14
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 196
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd70889037f90bad0800000000000000
+      internalID: -2688473661110220835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 195
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42984e53e9cade230800000000000000
+      internalID: 3669779066885802276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 182
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c33141f1401bb00800000000000000
+      internalID: 842459136822295584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 145
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a0e43943ff6e050800000000000000
+      internalID: 5829627368952433177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 181
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6759153fef7f5f60800000000000000
+      internalID: 8025273726362277739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 144
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ca2e16a50c48050800000000000000
+      internalID: 5801973714381876347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 181
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99684dab4e184aac0800000000000000
+      internalID: -3844805362480544103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 144
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d28dddd65a0ab810800000000000000
+      internalID: 1781747970784199379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_22
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 167
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971792651b95c9e80800000000000000
+      internalID: -8170557005767282311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 167
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3841ada0aa007e0800000000000000
+      internalID: -1801252887363026003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 156
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c4d13e563f79bb0800000000000000
+      internalID: -4929203648206123892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 119
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff77b3a0db3d5500800000000000000
+      internalID: 386530910309679095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 116
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ee5d0a83b78e750800000000000000
+      internalID: 6334448359043362391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 116
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a768f3ddb271d30800000000000000
+      internalID: 4402035390031493701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 116
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7616262e1b87800800000000000000
+      internalID: 610433335379978163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 104
+        width: 121
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b3f99664926e350800000000000000
+      internalID: 6045564932187962184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 94
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26345072a7c5f8f50800000000000000
+      internalID: 6885824034983199586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_31
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 131
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ea791675ec68140800000000000000
+      internalID: 4721688134039350791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 188
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb503f6badc6cb80800000000000000
+      internalID: -8374780320860316722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_33
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bce3f3d5d3446b0800000000000000
+      internalID: -5313054189688009872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18d8a5a7e11071f0800000000000000
+      internalID: -1049319026562901986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30128a5afd3acc70800000000000000
+      internalID: 8992067751468208190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PUPPY_36
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025549de3d78d1a60800000000000000
+      internalID: 7646417086638740768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PUPPY_0: 1399771114576156704
+      PUPPY_1: 7874586748095156951
+      PUPPY_10: 2123770397638926627
+      PUPPY_11: 2419585926049327048
+      PUPPY_12: -2384409540837209227
+      PUPPY_13: 3777219790361259274
+      PUPPY_14: -2688473661110220835
+      PUPPY_15: 3669779066885802276
+      PUPPY_16: 842459136822295584
+      PUPPY_17: 5829627368952433177
+      PUPPY_18: 8025273726362277739
+      PUPPY_19: 5801973714381876347
+      PUPPY_2: 8056951782831206090
+      PUPPY_20: -3844805362480544103
+      PUPPY_21: 1781747970784199379
+      PUPPY_22: -8170557005767282311
+      PUPPY_23: -1801252887363026003
+      PUPPY_24: -4929203648206123892
+      PUPPY_25: 386530910309679095
+      PUPPY_26: 6334448359043362391
+      PUPPY_27: 4402035390031493701
+      PUPPY_28: 610433335379978163
+      PUPPY_29: 6045564932187962184
+      PUPPY_3: -6117048764020859696
+      PUPPY_30: 6885824034983199586
+      PUPPY_31: 4721688134039350791
+      PUPPY_32: -8374780320860316722
+      PUPPY_33: -5313054189688009872
+      PUPPY_34: -1049319026562901986
+      PUPPY_35: 8992067751468208190
+      PUPPY_36: 7646417086638740768
+      PUPPY_4: -4538261623836075869
+      PUPPY_5: 5916770932305365276
+      PUPPY_6: -1097508747564479207
+      PUPPY_7: 700034832502270026
+      PUPPY_8: 7308732912271245338
+      PUPPY_9: 7478435359458203811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

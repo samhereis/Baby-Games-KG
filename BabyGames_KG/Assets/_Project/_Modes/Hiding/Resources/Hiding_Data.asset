@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85618773f7e3a544187b229c12553f27, type: 3}
+  m_Name: Hiding_Data
+  m_EditorClassIdentifier: 
+  _panelItemMaterial_Gray:
+    <key>k__BackingField: HidingAllInOneMaterial_UI_Gray
+    cachingMode: 0
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: HidingAllInOneMaterial_UI_Gray
+    reference_Resources: {fileID: 2100000, guid: e1ad18e58067d084ebc6e1dc494384a9, type: 2}
+    reference_Resources_Debug: {fileID: 2100000, guid: e1ad18e58067d084ebc6e1dc494384a9, type: 2}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  _panelItemMaterial_Normal:
+    <key>k__BackingField: HidingAllInOneMaterial_UI_Normal
+    cachingMode: 0
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: HidingAllInOneMaterial_UI_Normal
+    reference_Resources: {fileID: 2100000, guid: d3db3a304ca98464ea0b2b217ba69d81, type: 2}
+    reference_Resources_Debug: {fileID: 2100000, guid: d3db3a304ca98464ea0b2b217ba69d81, type: 2}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0

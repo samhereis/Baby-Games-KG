@@ -1,0 +1,13 @@
+
+Bliks.png
+size: 32,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shine polishing
+  rotate: false
+  xy: 2, 2
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,314 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ce8a03e9d3e1f348bbb89a24cd17255, type: 3}
+  m_Name: Pattern
+  m_EditorClassIdentifier: 
+  toolType: 4
+  colorInfo:
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 0198410197fc61a46a4e0baccd393a16, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 18de341adf0b062469b3eb32db59f1fa, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 0
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: d73ed85a1b38d944eb9638e99f98f1de, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 97bf74075d2e8594fbccdc92ba652432, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 1
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: b3c2f79577b1b7142ab10e570f1b2678, type: 3}
+    paletteIcon: {fileID: 21300000, guid: bf62b1ac605c6ce43911eb4471499f6d, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 2
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: ddc92673946a42947a9616d860e3e356, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 5395b9bdd44f9b244b4ca49e83e8e11c, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 3
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 8d9fa9d87aa5ca8418eaf63289f5d7e8, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 4c92a3ab911052b4985b86a1c48f3783, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 4
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 501b4d2aa5d8fba41b4b3209e1e25531, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 79790051c73d60b4b847981ac4c37b50, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 5
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 026bf5cc8de3b904eb001a451be39eb0, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 8914f1ad2d2ccc94a9697ea111ed5994, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 6
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 63b361fb855663e4e9cd4a7779283dfe, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 1d5fba547409e724789bbebfcd7e20d5, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 7
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: c9e94f39ae073364eb36315fae07b5f5, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 1ba1c13ecf3bd8040aae0a83a0be8cad, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 8
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 76ff301d64a93694487c7dd157fefb21, type: 3}
+    paletteIcon: {fileID: 21300000, guid: b136a89ff3049d840bb983b0ae616950, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 9
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 32572d88f52b046418a3d3eb105e52c8, type: 3}
+    paletteIcon: {fileID: 21300000, guid: c7aa34bf938c6a64c9d18b9d3bf4e1f6, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 10
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 6506e9b5a26138149b4f03090515445f, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 41325fce4d2b7f84393e71ea8b636f20, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 11
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 9eb2d9dec7677404eb78497a40e3547e, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 18f700c4f0a14344daaf9d06ee04831a, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 12
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 2b753a903c05f4f4188a9f53a018b8f8, type: 3}
+    paletteIcon: {fileID: 21300000, guid: fde918a00f0888a4e8c9a692921b2fb2, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 13
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 021ccc93e1eafb74eb43ddf79d33840b, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 29184fb1af918d9438c585ee3aaecf8e, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 14
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: dfd4aefc55fcee544a74db4bbca31c97, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 5633c1d2dc74be544a602fd97c570079, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 15
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 8c1c4fe3524c5c245ae21c791fd99501, type: 3}
+    paletteIcon: {fileID: 21300000, guid: f5605279d45f8d0458753ff7cc6f4384, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 16
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 719d7d02b277503408955765bf3addc4, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 0fd96b2a43527a84786ec86fd97c6db4, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 17
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: bedf4d369e8245248b1a5e3e2e8242f8, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 29e86728e00fc24459a80776c53012c0, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 18
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: f839536e721d5b342b281de01a9e3550, type: 3}
+    paletteIcon: {fileID: 21300000, guid: d826bc0581336dd41b4b02237014228a, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 19
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 319da93ac6c9d1943b42515a211ab9e8, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 1cc93b5f1d677384db63faf02db92bfd, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 20
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 516a45b9619344040a4fa05cead1522b, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 25d52e03bb2ced645bfa7ac883ae49f8, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 21
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 9e7825ac7658a504bade5c6001c0f874, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 148903c512816724db05d62dbacb250d, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 22
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 4e7741bbbaafa3b4ba30ac5f8b40a8e8, type: 3}
+    paletteIcon: {fileID: 21300000, guid: f751d9a97d7c8364aa9feb349e26f50a, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 23
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: a7ad1070fdea8de43a5420ab585e9560, type: 3}
+    paletteIcon: {fileID: 21300000, guid: e3b6e85ddca525a4ab59f186236a06e8, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 24
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 42fd4f3c05088f647b62e08a4afae280, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 8a2306d8b4f0acb429d6b4747d6b73dd, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 25
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: ad311d91ecafce44eba44c955d2f7a76, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 4443eb49665a7fa4c9b785998172a12a, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 26
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 6bac57a1b818a5b42b51a968c0f0ad3b, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 2d784e840b5e5ee4caea270f0aea2071, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 27
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 601a8b3b66aea4f44931d55b7efb5bec, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 40e2e182e8e5357428fdff87868ba2da, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 28
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: ec1d280222bdff240817b444f7029ec3, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 1d9757d2568ebd84eb5250a674314257, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 29
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: dd6b8cc4f6f0f7142915a7a5f05bf35f, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 274c44b3f19d0be48bd88687662fc9bc, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 30
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 6692ed06bd795b7478e8c991e45f61a9, type: 3}
+    paletteIcon: {fileID: 21300000, guid: e250704b8976a244aa98a49aa29690d4, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 31
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 678d34299e3b2764da19e6ffc36a0ed1, type: 3}
+    paletteIcon: {fileID: 21300000, guid: fbfb7990e33a88740bf32024b50459da, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 32
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: cbe154c0900bf0944868fb9c8858f2db, type: 3}
+    paletteIcon: {fileID: 21300000, guid: dcf9854ec87356b459919f9d5829c480, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 33
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: bd33e1b05b46a124aab809ac9fb59308, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 527930279cdedaf45a8d9a24157b718d, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 34
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 438e65f81748b584bb0ef3b490dae225, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 26f920c71f9c1f945bc5e1db48a11e2a, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 35
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: d172bc2603601b0438960422cff66efa, type: 3}
+    paletteIcon: {fileID: 21300000, guid: e29dc00bf8c739445827a659daeec44a, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 36
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: cb4cd134627602b4088360cf9334eaeb, type: 3}
+    paletteIcon: {fileID: 21300000, guid: ca91005220b8533468d50736f23e854e, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 37
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 1840ffc281b11784aa837ee10ae30c38, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 74ef82699fc29144e8baa836d6daca80, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 38
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 77149b0cb4f9e4e4a920f5f17c979baa, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 439035b825aaa784db35f6bde023262a, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 39
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 2a0fa68e5b480e2449f79caa6673c6f6, type: 3}
+    paletteIcon: {fileID: 21300000, guid: 6be0a1e49ed0a4a41a2da126d614939e, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 40
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 836b542bb65ecf1429184354d36e33d9, type: 3}
+    paletteIcon: {fileID: 21300000, guid: ba15fd941457e4c4eb2a47d44804870c, type: 3}
+    instrumentIcon: {fileID: 0}
+    index: 41
+  sprites:
+  - {fileID: 21300000, guid: 0198410197fc61a46a4e0baccd393a16, type: 3}
+  - {fileID: 21300000, guid: d73ed85a1b38d944eb9638e99f98f1de, type: 3}
+  - {fileID: 21300000, guid: b3c2f79577b1b7142ab10e570f1b2678, type: 3}
+  - {fileID: 21300000, guid: ddc92673946a42947a9616d860e3e356, type: 3}
+  - {fileID: 21300000, guid: 8d9fa9d87aa5ca8418eaf63289f5d7e8, type: 3}
+  - {fileID: 21300000, guid: 501b4d2aa5d8fba41b4b3209e1e25531, type: 3}
+  - {fileID: 21300000, guid: 026bf5cc8de3b904eb001a451be39eb0, type: 3}
+  - {fileID: 21300000, guid: 63b361fb855663e4e9cd4a7779283dfe, type: 3}
+  - {fileID: 21300000, guid: c9e94f39ae073364eb36315fae07b5f5, type: 3}
+  - {fileID: 21300000, guid: 76ff301d64a93694487c7dd157fefb21, type: 3}
+  - {fileID: 21300000, guid: 32572d88f52b046418a3d3eb105e52c8, type: 3}
+  - {fileID: 21300000, guid: 6506e9b5a26138149b4f03090515445f, type: 3}
+  - {fileID: 21300000, guid: 9eb2d9dec7677404eb78497a40e3547e, type: 3}
+  - {fileID: 21300000, guid: 2b753a903c05f4f4188a9f53a018b8f8, type: 3}
+  - {fileID: 21300000, guid: 021ccc93e1eafb74eb43ddf79d33840b, type: 3}
+  - {fileID: 21300000, guid: dfd4aefc55fcee544a74db4bbca31c97, type: 3}
+  - {fileID: 21300000, guid: 8c1c4fe3524c5c245ae21c791fd99501, type: 3}
+  - {fileID: 21300000, guid: 719d7d02b277503408955765bf3addc4, type: 3}
+  - {fileID: 21300000, guid: bedf4d369e8245248b1a5e3e2e8242f8, type: 3}
+  - {fileID: 21300000, guid: f839536e721d5b342b281de01a9e3550, type: 3}
+  - {fileID: 21300000, guid: 319da93ac6c9d1943b42515a211ab9e8, type: 3}
+  - {fileID: 21300000, guid: 516a45b9619344040a4fa05cead1522b, type: 3}
+  - {fileID: 21300000, guid: 9e7825ac7658a504bade5c6001c0f874, type: 3}
+  - {fileID: 21300000, guid: 4e7741bbbaafa3b4ba30ac5f8b40a8e8, type: 3}
+  - {fileID: 21300000, guid: a7ad1070fdea8de43a5420ab585e9560, type: 3}
+  - {fileID: 21300000, guid: 42fd4f3c05088f647b62e08a4afae280, type: 3}
+  - {fileID: 21300000, guid: ad311d91ecafce44eba44c955d2f7a76, type: 3}
+  - {fileID: 21300000, guid: 6bac57a1b818a5b42b51a968c0f0ad3b, type: 3}
+  - {fileID: 21300000, guid: 601a8b3b66aea4f44931d55b7efb5bec, type: 3}
+  - {fileID: 21300000, guid: ec1d280222bdff240817b444f7029ec3, type: 3}
+  - {fileID: 21300000, guid: dd6b8cc4f6f0f7142915a7a5f05bf35f, type: 3}
+  - {fileID: 21300000, guid: 6692ed06bd795b7478e8c991e45f61a9, type: 3}
+  - {fileID: 21300000, guid: 678d34299e3b2764da19e6ffc36a0ed1, type: 3}
+  - {fileID: 21300000, guid: cbe154c0900bf0944868fb9c8858f2db, type: 3}
+  - {fileID: 21300000, guid: bd33e1b05b46a124aab809ac9fb59308, type: 3}
+  - {fileID: 21300000, guid: 438e65f81748b584bb0ef3b490dae225, type: 3}
+  - {fileID: 21300000, guid: d172bc2603601b0438960422cff66efa, type: 3}
+  - {fileID: 21300000, guid: cb4cd134627602b4088360cf9334eaeb, type: 3}
+  - {fileID: 21300000, guid: 1840ffc281b11784aa837ee10ae30c38, type: 3}
+  - {fileID: 21300000, guid: 77149b0cb4f9e4e4a920f5f17c979baa, type: 3}
+  - {fileID: 21300000, guid: 2a0fa68e5b480e2449f79caa6673c6f6, type: 3}
+  - {fileID: 21300000, guid: 836b542bb65ecf1429184354d36e33d9, type: 3}
+  - {fileID: 21300000, guid: 18de341adf0b062469b3eb32db59f1fa, type: 3}
+  - {fileID: 21300000, guid: 97bf74075d2e8594fbccdc92ba652432, type: 3}
+  - {fileID: 21300000, guid: bf62b1ac605c6ce43911eb4471499f6d, type: 3}
+  - {fileID: 21300000, guid: 5395b9bdd44f9b244b4ca49e83e8e11c, type: 3}
+  - {fileID: 21300000, guid: 4c92a3ab911052b4985b86a1c48f3783, type: 3}
+  - {fileID: 21300000, guid: 79790051c73d60b4b847981ac4c37b50, type: 3}
+  - {fileID: 21300000, guid: 8914f1ad2d2ccc94a9697ea111ed5994, type: 3}
+  - {fileID: 21300000, guid: 1d5fba547409e724789bbebfcd7e20d5, type: 3}
+  - {fileID: 21300000, guid: 1ba1c13ecf3bd8040aae0a83a0be8cad, type: 3}
+  - {fileID: 21300000, guid: b136a89ff3049d840bb983b0ae616950, type: 3}
+  - {fileID: 21300000, guid: c7aa34bf938c6a64c9d18b9d3bf4e1f6, type: 3}
+  - {fileID: 21300000, guid: 41325fce4d2b7f84393e71ea8b636f20, type: 3}
+  - {fileID: 21300000, guid: 18f700c4f0a14344daaf9d06ee04831a, type: 3}
+  - {fileID: 21300000, guid: fde918a00f0888a4e8c9a692921b2fb2, type: 3}
+  - {fileID: 21300000, guid: 29184fb1af918d9438c585ee3aaecf8e, type: 3}
+  - {fileID: 21300000, guid: 5633c1d2dc74be544a602fd97c570079, type: 3}
+  - {fileID: 21300000, guid: f5605279d45f8d0458753ff7cc6f4384, type: 3}
+  - {fileID: 21300000, guid: 0fd96b2a43527a84786ec86fd97c6db4, type: 3}
+  - {fileID: 21300000, guid: 29e86728e00fc24459a80776c53012c0, type: 3}
+  - {fileID: 21300000, guid: d826bc0581336dd41b4b02237014228a, type: 3}
+  - {fileID: 21300000, guid: 1cc93b5f1d677384db63faf02db92bfd, type: 3}
+  - {fileID: 21300000, guid: 25d52e03bb2ced645bfa7ac883ae49f8, type: 3}
+  - {fileID: 21300000, guid: 148903c512816724db05d62dbacb250d, type: 3}
+  - {fileID: 21300000, guid: f751d9a97d7c8364aa9feb349e26f50a, type: 3}
+  - {fileID: 21300000, guid: e3b6e85ddca525a4ab59f186236a06e8, type: 3}
+  - {fileID: 21300000, guid: 8a2306d8b4f0acb429d6b4747d6b73dd, type: 3}
+  - {fileID: 21300000, guid: 4443eb49665a7fa4c9b785998172a12a, type: 3}
+  - {fileID: 21300000, guid: 2d784e840b5e5ee4caea270f0aea2071, type: 3}
+  - {fileID: 21300000, guid: 40e2e182e8e5357428fdff87868ba2da, type: 3}
+  - {fileID: 21300000, guid: 1d9757d2568ebd84eb5250a674314257, type: 3}
+  - {fileID: 21300000, guid: 274c44b3f19d0be48bd88687662fc9bc, type: 3}
+  - {fileID: 21300000, guid: e250704b8976a244aa98a49aa29690d4, type: 3}
+  - {fileID: 21300000, guid: fbfb7990e33a88740bf32024b50459da, type: 3}
+  - {fileID: 21300000, guid: dcf9854ec87356b459919f9d5829c480, type: 3}
+  - {fileID: 21300000, guid: 527930279cdedaf45a8d9a24157b718d, type: 3}
+  - {fileID: 21300000, guid: 26f920c71f9c1f945bc5e1db48a11e2a, type: 3}
+  - {fileID: 21300000, guid: e29dc00bf8c739445827a659daeec44a, type: 3}
+  - {fileID: 21300000, guid: ca91005220b8533468d50736f23e854e, type: 3}
+  - {fileID: 21300000, guid: 74ef82699fc29144e8baa836d6daca80, type: 3}
+  - {fileID: 21300000, guid: 439035b825aaa784db35f6bde023262a, type: 3}
+  - {fileID: 21300000, guid: 6be0a1e49ed0a4a41a2da126d614939e, type: 3}
+  - {fileID: 21300000, guid: ba15fd941457e4c4eb2a47d44804870c, type: 3}
+  globalAlpha: 0.99
+  globalColor: {r: 1, g: 1, b: 1, a: 1}
+  colorCenter: {x: 0, y: 0}

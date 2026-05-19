@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7a04bbc35d484a798423531879e71d9c
+timeCreated: 1696727209
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260186
+  packageName: UI Spline Renderer
+  packageVersion: 1.16
+  assetPath: Assets/UI Spline Renderer/Runtime/Scripts/Jobs/NativeCurve.cs
+  uploadId: 838278

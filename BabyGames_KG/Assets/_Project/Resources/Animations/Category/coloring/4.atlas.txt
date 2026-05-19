@@ -1,0 +1,83 @@
+
+4.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_siren_red
+  rotate: false
+  xy: 505, 122
+  size: 386, 387
+  orig: 386, 387
+  offset: 0, 0
+  index: -1
+T-REX
+  rotate: false
+  xy: 893, 207
+  size: 230, 302
+  orig: 230, 302
+  offset: 0, 0
+  index: -1
+T-REX_eye_close
+  rotate: false
+  xy: 505, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+T-REX_eye_open
+  rotate: false
+  xy: 642, 51
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+edinorog
+  rotate: false
+  xy: 1125, 220
+  size: 273, 289
+  orig: 273, 289
+  offset: 0, 0
+  index: -1
+edinorog_eye_close
+  rotate: false
+  xy: 531, 7
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+edinorog_eye_open
+  rotate: false
+  xy: 642, 85
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+krug_4
+  rotate: false
+  xy: 2, 8
+  size: 501, 501
+  orig: 501, 501
+  offset: 0, 0
+  index: -1
+police car
+  rotate: false
+  xy: 893, 26
+  size: 354, 179
+  orig: 354, 179
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 642, 21
+  size: 241, 28
+  orig: 241, 28
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 505, 25
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1

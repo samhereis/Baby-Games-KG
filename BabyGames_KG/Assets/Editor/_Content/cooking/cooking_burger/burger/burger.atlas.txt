@@ -1,0 +1,104 @@
+
+burger.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackDown
+  rotate: false
+  xy: 715, 337
+  size: 194, 92
+  orig: 194, 92
+  offset: 0, 0
+  index: -1
+blackUp
+  rotate: false
+  xy: 396, 219
+  size: 194, 119
+  orig: 194, 119
+  offset: 0, 0
+  index: -1
+cheese
+  rotate: false
+  xy: 2, 36
+  size: 207, 182
+  orig: 207, 182
+  offset: 0, 0
+  index: -1
+chese
+  rotate: false
+  xy: 757, 195
+  size: 148, 140
+  orig: 148, 140
+  offset: 0, 0
+  index: -1
+greyDown
+  rotate: false
+  xy: 323, 340
+  size: 194, 89
+  orig: 194, 89
+  offset: 0, 0
+  index: -1
+greyUp
+  rotate: false
+  xy: 2, 221
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+ketchup
+  rotate: false
+  xy: 211, 35
+  size: 207, 182
+  orig: 207, 182
+  offset: 0, 0
+  index: -1
+kotleta
+  rotate: false
+  xy: 2, 341
+  size: 213, 88
+  orig: 213, 88
+  offset: 0, 0
+  index: -1
+lightDown
+  rotate: false
+  xy: 519, 340
+  size: 194, 89
+  orig: 194, 89
+  offset: 0, 0
+  index: -1
+lightUp
+  rotate: false
+  xy: 199, 220
+  size: 195, 118
+  orig: 195, 118
+  offset: 0, 0
+  index: -1
+mayo
+  rotate: false
+  xy: 420, 26
+  size: 207, 182
+  orig: 207, 182
+  offset: 0, 0
+  index: -1
+pickl
+  rotate: false
+  xy: 217, 341
+  size: 104, 88
+  orig: 104, 88
+  offset: 0, 0
+  index: -1
+salatik
+  rotate: false
+  xy: 629, 2
+  size: 183, 191
+  orig: 183, 191
+  offset: 0, 0
+  index: -1
+tomato
+  rotate: false
+  xy: 592, 210
+  size: 163, 125
+  orig: 163, 125
+  offset: 0, 0
+  index: -1

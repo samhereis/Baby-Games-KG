@@ -1,0 +1,118 @@
+
+bottle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caramelBottle
+  rotate: false
+  xy: 2, 308
+  size: 185, 375
+  orig: 185, 375
+  offset: 0, 0
+  index: -1
+chocoBottle
+  rotate: false
+  xy: 189, 308
+  size: 185, 375
+  orig: 185, 375
+  offset: 0, 0
+  index: -1
+rainbowBottle
+  rotate: false
+  xy: 376, 308
+  size: 185, 375
+  orig: 185, 375
+  offset: 0, 0
+  index: -1
+strawberryBottle
+  rotate: false
+  xy: 563, 308
+  size: 185, 375
+  orig: 185, 375
+  offset: 0, 0
+  index: -1
+syrup_line_caramel_1
+  rotate: false
+  xy: 750, 379
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_caramel_2
+  rotate: false
+  xy: 750, 73
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_caramel_3
+  rotate: false
+  xy: 2, 2
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_chokolate_1
+  rotate: false
+  xy: 67, 2
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_chokolate_2
+  rotate: false
+  xy: 132, 2
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_chokolate_3
+  rotate: false
+  xy: 197, 2
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_rainbow_1
+  rotate: false
+  xy: 262, 2
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_rainbow_2
+  rotate: false
+  xy: 327, 2
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_rainbow_3
+  rotate: false
+  xy: 392, 2
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_strawberry_1
+  rotate: false
+  xy: 457, 2
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_strawberry_2
+  rotate: false
+  xy: 522, 2
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1
+syrup_line_strawberry_3
+  rotate: false
+  xy: 587, 2
+  size: 63, 304
+  orig: 63, 304
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Lithuanian (lt)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Asset-Tables-Lithuanian (lt)
+  m_GUID: 7fc521c71f9a90c4c9694b504da1b7d4
+  m_SerializeEntries: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: b721fdfdc08536242bf29c7e2281821d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 273838bc98eb4064a979d703f8cca6d6, type: 2}
+    - {fileID: 11400000, guid: c236e076309c83b498095470f1f89f81, type: 2}

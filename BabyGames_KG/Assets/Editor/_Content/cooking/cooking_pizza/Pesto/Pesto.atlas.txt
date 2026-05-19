@@ -1,0 +1,27 @@
+
+Pesto.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sous_Pesto
+  rotate: false
+  xy: 208, 272
+  size: 155, 480
+  orig: 155, 480
+  offset: 0, 0
+  index: -1
+sous_Pesto_Water1
+  rotate: false
+  xy: 2, 2
+  size: 101, 750
+  orig: 101, 750
+  offset: 0, 0
+  index: -1
+sous_Pesto_Water2
+  rotate: false
+  xy: 105, 2
+  size: 101, 750
+  orig: 101, 750
+  offset: 0, 0
+  index: -1

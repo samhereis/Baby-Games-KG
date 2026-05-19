@@ -1,0 +1,416 @@
+
+FON.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 1966
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 39, 1965
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 79, 1959
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 143, 1954
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+bliki na peske
+  rotate: false
+  xy: 2, 2
+  size: 1922, 356
+  orig: 1922, 356
+  offset: 0, 0
+  index: -1
+blue1
+  rotate: false
+  xy: 1492, 1297
+  size: 266, 281
+  orig: 266, 281
+  offset: 0, 0
+  index: -1
+bubbles1
+  rotate: false
+  xy: 242, 1947
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubbles10
+  rotate: false
+  xy: 660, 1929
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+bubbles11
+  rotate: false
+  xy: 213, 1952
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+bubbles12
+  rotate: false
+  xy: 310, 1947
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubbles2
+  rotate: false
+  xy: 382, 1942
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+bubbles3
+  rotate: false
+  xy: 344, 1943
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+bubbles4
+  rotate: false
+  xy: 556, 1929
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+bubbles5
+  rotate: false
+  xy: 608, 1929
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+bubbles6
+  rotate: false
+  xy: 460, 1933
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+bubbles7
+  rotate: false
+  xy: 276, 1947
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bubbles8
+  rotate: false
+  xy: 421, 1942
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+bubbles9
+  rotate: false
+  xy: 508, 1933
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+coral1
+  rotate: false
+  xy: 675, 1370
+  size: 376, 245
+  orig: 376, 245
+  offset: 0, 0
+  index: -1
+coral2
+  rotate: false
+  xy: 1344, 1821
+  size: 114, 158
+  orig: 114, 158
+  offset: 0, 0
+  index: -1
+coral5
+  rotate: false
+  xy: 1406, 1580
+  size: 368, 215
+  orig: 368, 215
+  offset: 0, 0
+  index: -1
+coral6
+  rotate: false
+  xy: 2, 1503
+  size: 368, 215
+  orig: 368, 215
+  offset: 0, 0
+  index: -1
+coral7
+  rotate: false
+  xy: 2, 1252
+  size: 359, 249
+  orig: 359, 249
+  offset: 0, 0
+  index: -1
+coral9
+  rotate: false
+  xy: 1298, 527
+  size: 292, 436
+  orig: 292, 436
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 1729, 1797
+  size: 146, 182
+  orig: 146, 182
+  offset: 0, 0
+  index: -1
+kamen
+  rotate: false
+  xy: 1079, 1606
+  size: 325, 213
+  orig: 325, 213
+  offset: 0, 0
+  index: -1
+kamen 2
+  rotate: false
+  xy: 802, 1062
+  size: 426, 273
+  orig: 426, 273
+  offset: 0, 0
+  index: -1
+kamen1
+  rotate: false
+  xy: 363, 1126
+  size: 437, 242
+  orig: 437, 242
+  offset: 0, 0
+  index: -1
+kamen7
+  rotate: false
+  xy: 2, 1758
+  size: 277, 187
+  orig: 277, 187
+  offset: 0, 0
+  index: -1
+kamni
+  rotate: false
+  xy: 1230, 965
+  size: 363, 330
+  orig: 363, 330
+  offset: 0, 0
+  index: -1
+kust
+  rotate: false
+  xy: 1460, 1804
+  size: 267, 175
+  orig: 267, 175
+  offset: 0, 0
+  index: -1
+kust2
+  rotate: false
+  xy: 851, 1843
+  size: 119, 136
+  orig: 119, 136
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 972, 1827
+  size: 240, 152
+  orig: 240, 152
+  offset: 0, 0
+  index: -1
+rock1
+  rotate: false
+  xy: 712, 1919
+  size: 137, 60
+  orig: 137, 60
+  offset: 0, 0
+  index: -1
+rocks
+  rotate: false
+  xy: 694, 1617
+  size: 383, 208
+  orig: 383, 208
+  offset: 0, 0
+  index: -1
+rocks 1
+  rotate: false
+  xy: 281, 1720
+  size: 236, 211
+  orig: 236, 211
+  offset: 0, 0
+  index: -1
+rocks 2
+  rotate: false
+  xy: 1760, 1163
+  size: 268, 342
+  orig: 268, 342
+  offset: 0, 0
+  index: -1
+rocks 3
+  rotate: false
+  xy: 372, 1466
+  size: 301, 238
+  orig: 301, 238
+  offset: 0, 0
+  index: -1
+sand
+  rotate: false
+  xy: 2, 459
+  size: 1175, 203
+  orig: 1175, 203
+  offset: 0, 0
+  index: -1
+tree_1
+  rotate: false
+  xy: 1592, 360
+  size: 419, 444
+  orig: 419, 444
+  offset: 0, 0
+  index: -1
+tree_3
+  rotate: false
+  xy: 348, 767
+  size: 354, 357
+  orig: 354, 357
+  offset: 0, 0
+  index: -1
+trees
+  rotate: false
+  xy: 1776, 1507
+  size: 247, 260
+  orig: 247, 260
+  offset: 0, 0
+  index: -1
+trees1
+  rotate: false
+  xy: 1595, 806
+  size: 430, 355
+  orig: 430, 355
+  offset: 0, 0
+  index: -1
+violet
+  rotate: false
+  xy: 2, 920
+  size: 344, 330
+  orig: 344, 330
+  offset: 0, 0
+  index: -1
+violet1
+  rotate: false
+  xy: 1877, 1769
+  size: 169, 210
+  orig: 169, 210
+  offset: 0, 0
+  index: -1
+violet2
+  rotate: false
+  xy: 1053, 1337
+  size: 437, 241
+  orig: 437, 241
+  offset: 0, 0
+  index: -1
+violet_bouqet_1
+  rotate: false
+  xy: 1214, 1824
+  size: 128, 155
+  orig: 128, 155
+  offset: 0, 0
+  index: -1
+violet_bouqet_2
+  rotate: false
+  xy: 519, 1706
+  size: 173, 221
+  orig: 173, 221
+  offset: 0, 0
+  index: -1
+vodorosli_purple
+  rotate: false
+  xy: 704, 664
+  size: 592, 299
+  orig: 592, 299
+  offset: 0, 0
+  index: -1
+
+FON2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MB1
+  rotate: false
+  xy: 2, 567
+  size: 1922, 1082
+  orig: 1922, 1082
+  offset: 0, 0
+  index: -1
+shadows
+  rotate: false
+  xy: 2, 2
+  size: 1922, 563
+  orig: 1922, 563
+  offset: 0, 0
+  index: -1
+
+FON3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bliki
+  rotate: false
+  xy: 2, 1086
+  size: 1586, 473
+  orig: 1586, 473
+  offset: 0, 0
+  index: -1
+svet_1
+  rotate: false
+  xy: 1590, 477
+  size: 413, 1082
+  orig: 413, 1082
+  offset: 0, 0
+  index: -1
+svet_2
+  rotate: false
+  xy: 679, 2
+  size: 613, 1082
+  orig: 613, 1082
+  offset: 0, 0
+  index: -1
+svet_3
+  rotate: false
+  xy: 2, 35
+  size: 675, 1049
+  orig: 675, 1049
+  offset: 0, 0
+  index: -1
+
+FON4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fon
+  rotate: false
+  xy: 2, 2
+  size: 1871, 699
+  orig: 1871, 699
+  offset: 0, 0
+  index: -1

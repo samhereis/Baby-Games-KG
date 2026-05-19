@@ -1,0 +1,454 @@
+
+2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Telo_2/Telo_2_body
+  rotate: false
+  xy: 470, 27
+  size: 242, 158
+  orig: 242, 158
+  offset: 0, 0
+  index: -1
+Telo_2/Telo_2_plecho_L
+  rotate: false
+  xy: 1407, 6
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+Telo_2/Telo_2_plecho_R
+  rotate: false
+  xy: 1498, 6
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+Telo_2/Telo_2_yubka
+  rotate: false
+  xy: 1204, 283
+  size: 369, 227
+  orig: 369, 227
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 882, 51
+  size: 239, 140
+  orig: 239, 140
+  offset: 0, 0
+  index: -1
+diademas/diadema_3
+  rotate: false
+  xy: 147, 12
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+eff/kont_diadema_3
+  rotate: false
+  xy: 286, 12
+  size: 137, 89
+  orig: 137, 89
+  offset: 0, 0
+  index: -1
+emotion/brow_grust'_L
+  rotate: false
+  xy: 1345, 3
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+emotion/brow_grust'_R
+  rotate: false
+  xy: 1314, 2
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+emotion/brow_neitr_L
+  rotate: false
+  xy: 1358, 86
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+emotion/brow_neitr_R
+  rotate: false
+  xy: 1376, 3
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+emotion/rot_grust
+  rotate: false
+  xy: 1379, 73
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+emotion/rot_neitral
+  rotate: false
+  xy: 147, 2
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+emotion/rot_udivlenie
+  rotate: false
+  xy: 752, 2
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+emotion/rot_ulybka
+  rotate: false
+  xy: 1358, 99
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+emotion/rot_ulybka-smeh
+  rotate: false
+  xy: 534, 3
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+emotion/veko_poluzakrytye_L
+  rotate: false
+  xy: 1410, 255
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+emotion/veko_poluzakrytye_R
+  rotate: false
+  xy: 1459, 255
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+emotion/veko_prishurennye_L
+  rotate: false
+  xy: 576, 4
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+emotion/veko_prishurennye_R
+  rotate: false
+  xy: 622, 5
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+emotion/veko_prishurennye_dop_L
+  rotate: false
+  xy: 668, 9
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+emotion/veko_prishurennye_dop_R
+  rotate: false
+  xy: 711, 9
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+emotion/veko_ulybka_L
+  rotate: false
+  xy: 888, 197
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+emotion/veko_ulybka_R
+  rotate: false
+  xy: 973, 2
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+emotion/veko_zakrytye_L
+  rotate: false
+  xy: 1221, 9
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+emotion/veko_zakrytye_R
+  rotate: false
+  xy: 1025, 3
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+helicopter_BODY
+  rotate: false
+  xy: 739, 244
+  size: 463, 266
+  orig: 463, 266
+  offset: 0, 0
+  index: -1
+helicopter_LOPAST_DOT
+  rotate: false
+  xy: 425, 80
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+helicopter_LOPAST_L
+  rotate: false
+  xy: 940, 200
+  size: 180, 42
+  orig: 180, 42
+  offset: 0, 0
+  index: -1
+helicopter_WINT_DOP
+  rotate: false
+  xy: 2, 9
+  size: 143, 92
+  orig: 143, 92
+  offset: 0, 0
+  index: -1
+krug_3
+  rotate: false
+  xy: 2, 103
+  size: 407, 407
+  orig: 407, 407
+  offset: 0, 0
+  index: -1
+ojerelies/T1_ojerelie
+  rotate: false
+  xy: 1077, 4
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+other/belki_L
+  rotate: false
+  xy: 821, 2
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+other/belki_R
+  rotate: false
+  xy: 864, 2
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+other/eye_L
+  rotate: false
+  xy: 1589, 89
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+other/eye_R
+  rotate: false
+  xy: 1589, 63
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+other/hair_back
+  rotate: false
+  xy: 411, 187
+  size: 326, 323
+  orig: 326, 323
+  offset: 0, 0
+  index: -1
+other/hair_front
+  rotate: false
+  xy: 1358, 115
+  size: 223, 137
+  orig: 223, 137
+  offset: 0, 0
+  index: -1
+other/head
+  rotate: false
+  xy: 1123, 55
+  size: 233, 187
+  orig: 233, 187
+  offset: 0, 0
+  index: -1
+other/kist_L_1
+  rotate: false
+  xy: 1156, 9
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+other/kist_R_1
+  rotate: false
+  xy: 907, 2
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+other/noga_L
+  rotate: false
+  xy: 793, 42
+  size: 87, 146
+  orig: 87, 146
+  offset: 0, 0
+  index: -1
+other/noga_R
+  rotate: false
+  xy: 714, 32
+  size: 77, 153
+  orig: 77, 153
+  offset: 0, 0
+  index: -1
+other/nos
+  rotate: false
+  xy: 1358, 68
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+other/plecho_L
+  rotate: false
+  xy: 837, 193
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+other/plecho_L_dot
+  rotate: false
+  xy: 1272, 13
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+other/plecho_R
+  rotate: false
+  xy: 1644, 192
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+other/plecho_R_dot
+  rotate: false
+  xy: 425, 37
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+other/predpleche_L
+  rotate: false
+  xy: 411, 110
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+other/predpleche_L_dot
+  rotate: false
+  xy: 1282, 249
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+other/predpleche_R
+  rotate: false
+  xy: 1583, 180
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+other/predpleche_R_dot
+  rotate: false
+  xy: 1316, 249
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+other/rumyana_L
+  rotate: false
+  xy: 1350, 254
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+other/rumyana_R
+  rotate: false
+  xy: 789, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+other/zrachok_L
+  rotate: false
+  xy: 1381, 254
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+other/zrachok_R
+  rotate: false
+  xy: 1507, 255
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+sergi/T1_serga_L
+  rotate: false
+  xy: 1314, 17
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sergi/T1_serga_R
+  rotate: false
+  xy: 1352, 17
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+shadow princess
+  rotate: false
+  xy: 425, 3
+  size: 107, 22
+  orig: 107, 22
+  offset: 0, 0
+  index: -1
+shadow_car
+  rotate: false
+  xy: 1536, 256
+  size: 149, 25
+  orig: 149, 25
+  offset: 0, 0
+  index: -1
+tufli/Telo_2_tuflya_L
+  rotate: false
+  xy: 739, 190
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+tufli/Telo_2_tuflya_L_dop
+  rotate: false
+  xy: 1204, 246
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+tufli/Telo_2_tuflya_R
+  rotate: false
+  xy: 1583, 116
+  size: 81, 62
+  orig: 81, 62
+  offset: 0, 0
+  index: -1
+tufli/Telo_2_tuflya_R_dop
+  rotate: false
+  xy: 1244, 246
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1

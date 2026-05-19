@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5b8b8289e327e42b666dc4b1cc0ae9, type: 3}
+  m_Name: GameConfigs_Coloring_SO
+  m_EditorClassIdentifier: 
+  eyeSettings:
+    eyeMaxRadius: 0.1
+    eyeMovementSpeed: 10
+    resetTargetPositionDelay: 999999
+    eyesOpenDuration: {x: 2, y: 10}
+    eyesClosedDuration: {x: 0.1, y: 0.2}
+  drawSettings:
+    undoMaxCount: 5
+    toolHitData:
+    - toolType: 0
+      frequencyType: 5
+      interval: 20
+    - toolType: 1
+      frequencyType: 0
+      interval: 20
+    - toolType: 3
+      frequencyType: 0
+      interval: 20
+    - toolType: 4
+      frequencyType: 5
+      interval: 20
+    - toolType: 5
+      frequencyType: 0
+      interval: 25
+    - toolType: 6
+      frequencyType: 0
+      interval: 20
+    - toolType: 7
+      frequencyType: 5
+      interval: 20
+    settings_float:
+    - _GlitterAlpha
+    - _SparklesNoiseScale
+    - _SparklesNoiseScale_Multiplier
+    - _SparklesPower
+    - _SparklesSpeed
+    - _StarsNoiseScale
+    - _StarsNoiseScale_Multiplier
+    - _StarsPower
+    - _StarsSpeed
+    - _ZWrite
+    - _ZWriteControl
+    - _ZTest
+    - _QueueControl
+  palleteData:
+    _palleteDefaults:
+    - <toolType>k__BackingField: 3
+      <index>k__BackingField: 1
+    - <toolType>k__BackingField: 5
+      <index>k__BackingField: 4
+    - <toolType>k__BackingField: 1
+      <index>k__BackingField: 7
+    - <toolType>k__BackingField: 2
+      <index>k__BackingField: 9
+    - <toolType>k__BackingField: 4
+      <index>k__BackingField: 21
+    - <toolType>k__BackingField: 7
+      <index>k__BackingField: 3
+  ui_eraser:
+    onSprite: {fileID: 21300000, guid: 27096b45a0ddd5947849f172a25df6b1, type: 3}
+    offSprite: {fileID: 21300000, guid: 27096b45a0ddd5947849f172a25df6b1, type: 3}
+    offAlpha: 0.75
+    onOnYPosition: 100
+    onOffYPosition: 50
+  linkSettings:
+    website: https://lalafun.net
+    youtubeLink: https://www.youtube.com/@lalafun-kids-nursery-rhymes
+    spotifyLink: https://open.spotify.com/artist/1K5y5lfaAHcWpeKxiLCvzR
+    privacyPolicy: https://lalafun.net/privacy-policy
+    termsOfUse: https://lalafun.net/terms
+  screenTimeout: 5
+  backgroundColorX: 1
+  backgroundColorY: 1
+  backgroundColorZ: 1
+  backgroundColorA: 1
+  onAnimationMusicFadeValue: 0.1
+  onAnimationMusicFadeDuration: 0.5
+  hint_delayDraw: 10
+  hint_delayPlayAnimation: 10
+  nonGlitterAlpha: 0.99
+  spineDefaultSortingOrder: 0
+  layerMask_Spine:
+    serializedVersion: 2
+    m_Bits: 64
+  layerMask_allDrawables:
+    serializedVersion: 2
+    m_Bits: 72
+  decalsHitSpacing: 1.5
+  decalsRadius: 1
+  snapshot_BorderWith: 45
+  snapshot_Color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  snapshot_CornerRadius: 45

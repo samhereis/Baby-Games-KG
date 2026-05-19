@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7619223918539127037
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 10
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: robot boy_Material
+  m_Shader: {fileID: -6465566751694194690, guid: 94e6756e33b2f4846954bd2a3d68d15a, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ALPHATEST_ON
+  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - SHADOWCASTER
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 407fd3b4a01a9bd46bf5097cd567e766, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 1
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _CastShadows: 0
+    - _ColorMask: 15
+    - _Cull: 0
+    - _Cutoff: 0.1
+    - _DstBlend: 10
+    - _DstBlendAlpha: 10
+    - _GlitterActive: 0
+    - _GlitterAlpha: 0.97
+    - _OutlineMipLevel: 0
+    - _OutlineReferenceTexWidth: 1024
+    - _OutlineSmoothness: 1
+    - _OutlineWidth: 3
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _SparklesNoiseScale: 5
+    - _SparklesNoiseScale_Multiplier: 0.15
+    - _SparklesPower: 10
+    - _SparklesSpeed: 0.05
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+    - _StarsNoiseScale: 5
+    - _StarsNoiseScale_Multiplier: 0.15
+    - _StarsPower: 10
+    - _StarsSpeed: 0.05
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilRef: 1
+    - _StencilWriteMask: 255
+    - _StraightAlphaInput: 0
+    - _Surface: 1
+    - _ThresholdEnd: 0.25
+    - _UIMaskSoftnessX: 1
+    - _UIMaskSoftnessY: 1
+    - _Use8Neighbourhood: 1
+    - _XRMotionVectorsPass: 1
+    - _ZTest: 8
+    - _ZWrite: 1
+    - _ZWriteControl: 1
+    m_Colors:
+    - _ClipRect: {r: 0, g: 0, b: 0, a: 0}
+    - _OutlineColor: {r: 1, g: 1, b: 0, a: 1}
+    - _SparklesColor: {r: 1, g: 1, b: 1, a: 1}
+    - _StarsColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

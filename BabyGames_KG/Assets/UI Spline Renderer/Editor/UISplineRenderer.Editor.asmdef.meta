@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba3c2b61e54e2994595f1bd021287b42
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260186
+  packageName: UI Spline Renderer
+  packageVersion: 1.16
+  assetPath: Assets/UI Spline Renderer/Editor/UISplineRenderer.Editor.asmdef
+  uploadId: 838278

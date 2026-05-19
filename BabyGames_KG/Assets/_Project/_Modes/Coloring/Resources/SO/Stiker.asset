@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ce8a03e9d3e1f348bbb89a24cd17255, type: 3}
+  m_Name: Stiker
+  m_EditorClassIdentifier: 
+  toolType: 7
+  colorInfo:
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 83f2f439b1706e44c913df5fac9cbd4e, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 0
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 5c275d68bb9dddc41aafda83dff7697a, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 1
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 8840db8a24af408489ec9476d9b1d46f, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 2
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 999ed528e87ac754f9dd900d0eb712b1, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 3
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: d32c50836f54bda438d1f27fb545a664, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 4
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 782f7b57b48a80c419f7c6af9314ba8b, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 5
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 42f4cf941944eed4b84581234a076477, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 6
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: c1f6009151f20a84293caabfe1a8233c, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 7
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: c6cc4491a9c433645ae50b3c80c33c3e, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 8
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 79650df1cab3b5c4bb1c2d3a2747d6ec, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 9
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 4ee3a60fbf80a7244a4c6aabd6db0af0, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 10
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: ea51ea01935c58d4ba5916723d372b9a, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 11
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 36e57844ec83e6f40b1913689e309e47, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 12
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: c4ac279cd716dac4185dea65c9291b05, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 13
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: dc3d63d058542024caaf632ad967e90e, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 14
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 03e5a9ed39e841e46b55fe0b367ebe83, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 15
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: 5c704d424da0d7140977ab2d2cb1ea81, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 16
+  - color: {r: 1, g: 1, b: 1, a: 0.99}
+    pattern: {fileID: 21300000, guid: a6c48bd7fe04dd74a96e626e0ae8d242, type: 3}
+    paletteIcon: {fileID: 0}
+    instrumentIcon: {fileID: 0}
+    index: 17
+  sprites:
+  - {fileID: 21300000, guid: 83f2f439b1706e44c913df5fac9cbd4e, type: 3}
+  - {fileID: 21300000, guid: 5c275d68bb9dddc41aafda83dff7697a, type: 3}
+  - {fileID: 21300000, guid: 8840db8a24af408489ec9476d9b1d46f, type: 3}
+  - {fileID: 21300000, guid: 999ed528e87ac754f9dd900d0eb712b1, type: 3}
+  - {fileID: 21300000, guid: d32c50836f54bda438d1f27fb545a664, type: 3}
+  - {fileID: 21300000, guid: 782f7b57b48a80c419f7c6af9314ba8b, type: 3}
+  - {fileID: 21300000, guid: 42f4cf941944eed4b84581234a076477, type: 3}
+  - {fileID: 21300000, guid: c1f6009151f20a84293caabfe1a8233c, type: 3}
+  - {fileID: 21300000, guid: c6cc4491a9c433645ae50b3c80c33c3e, type: 3}
+  - {fileID: 21300000, guid: 79650df1cab3b5c4bb1c2d3a2747d6ec, type: 3}
+  - {fileID: 21300000, guid: 4ee3a60fbf80a7244a4c6aabd6db0af0, type: 3}
+  - {fileID: 21300000, guid: ea51ea01935c58d4ba5916723d372b9a, type: 3}
+  - {fileID: 21300000, guid: 36e57844ec83e6f40b1913689e309e47, type: 3}
+  - {fileID: 21300000, guid: c4ac279cd716dac4185dea65c9291b05, type: 3}
+  - {fileID: 21300000, guid: dc3d63d058542024caaf632ad967e90e, type: 3}
+  - {fileID: 21300000, guid: 03e5a9ed39e841e46b55fe0b367ebe83, type: 3}
+  - {fileID: 21300000, guid: 5c704d424da0d7140977ab2d2cb1ea81, type: 3}
+  - {fileID: 21300000, guid: a6c48bd7fe04dd74a96e626e0ae8d242, type: 3}
+  - {fileID: 21300000, guid: 50db796bc77333c45a67502cf1721ef0, type: 3}
+  - {fileID: 21300000, guid: eb3bfb192aef12446bb89e93f119b1cd, type: 3}
+  globalAlpha: 0.99
+  globalColor: {r: 1, g: 1, b: 1, a: 1}
+  colorCenter: {x: 0, y: 0}

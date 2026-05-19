@@ -1,0 +1,55 @@
+
+duhovka.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_1
+  rotate: false
+  xy: 364, 2
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+button_2
+  rotate: false
+  xy: 401, 2
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+door_close
+  rotate: false
+  xy: 943, 256
+  size: 335, 236
+  orig: 335, 236
+  offset: 0, 0
+  index: -1
+door_open
+  rotate: false
+  xy: 2, 21
+  size: 360, 122
+  orig: 360, 122
+  offset: 0, 0
+  index: -1
+korpus_b
+  rotate: false
+  xy: 537, 199
+  size: 404, 293
+  orig: 404, 293
+  offset: 0, 0
+  index: -1
+korpus_f
+  rotate: false
+  xy: 2, 145
+  size: 533, 347
+  orig: 533, 347
+  offset: 0, 0
+  index: -1
+setka
+  rotate: false
+  xy: 364, 69
+  size: 395, 74
+  orig: 395, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: dc9bafc64654435dbb8449a419cc415a
+timeCreated: 1745935333
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318802
+  packageName: Smart UI Selection for Unity 6
+  packageVersion: 6.0.3
+  assetPath: Assets/Kamgam/SmartUISelection/Editor/Scripts/RectTransformHighlighter.cs
+  uploadId: 855148

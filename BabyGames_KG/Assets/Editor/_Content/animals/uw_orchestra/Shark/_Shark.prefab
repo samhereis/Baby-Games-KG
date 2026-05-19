@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8067340376833389310
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[1].searchMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[1].animationName
+      value: idle_krug
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[1].giveAnimation
+      value: give_krug
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[2].animationName
+      value: idle_saxophone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[2].giveAnimation
+      value: give_saxophone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[3].animationName
+      value: idle_tube
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[3].giveAnimation
+      value: give_tube
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[1].finalAnimation
+      value: final_krug
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[1].instrumentName
+      value: krug
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[2].finalAnimation
+      value: final_saxophone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[2].instrumentName
+      value: saxophone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[3].finalAnimation
+      value: final_tube
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[3].instrumentName
+      value: tube
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[1].objectNames.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[1].objectNames.Array.data[1].value
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[2].objectNames.Array.data[0].value
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[3].objectNames.Array.data[0].value
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: waveData.Array.data[1].objectNames.Array.data[1].key.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: 'waveData.Array.data[1].objectNames.Array.data[0].key.Array.data[0]'
+      value: krug_back
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: 'waveData.Array.data[1].objectNames.Array.data[1].key.Array.data[0]'
+      value: krug_front
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: 'waveData.Array.data[2].objectNames.Array.data[0].key.Array.data[0]'
+      value: saxophone
+      objectReference: {fileID: 0}
+    - target: {fileID: 1876643060775321491, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: 'waveData.Array.data[3].objectNames.Array.data[0].key.Array.data[0]'
+      value: tube
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114545224307186667, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114545224307186667, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114545224307186667, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114545224307186667, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114545224307186667, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114545224307186667, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114545224307186667, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114545224307186667, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114545224307186667, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5114545224307186667, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5700818212617705672, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a93da882c2de3cc4cb263f57f90c9540, type: 2}
+    - target: {fileID: 5883257269100947363, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: skeletonDataAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: c27a12e6ee80f4b498b430b9771f8027, type: 2}
+    - target: {fileID: 6489341858968466408, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: m_Name
+      value: _Shark
+      objectReference: {fileID: 0}
+    - target: {fileID: 6862526420317552038, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a93da882c2de3cc4cb263f57f90c9540, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 90f76451ee5fa4a028b5f056a2b2384c, type: 3}

@@ -1,0 +1,27 @@
+
+FON_itog.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_siren
+  rotate: false
+  xy: 2, 2
+  size: 749, 799
+  orig: 749, 799
+  offset: 0, 0
+  index: -1
+2_siren_vkl
+  rotate: false
+  xy: 2, 803
+  size: 161, 152
+  orig: 161, 152
+  offset: 0, 0
+  index: -1
+2_siren_vykl
+  rotate: false
+  xy: 165, 803
+  size: 161, 152
+  orig: 161, 152
+  offset: 0, 0
+  index: -1

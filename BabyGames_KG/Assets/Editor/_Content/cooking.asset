@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83fedfba14c461740aced5bcd31f6d98, type: 3}
+  m_Name: cooking
+  m_EditorClassIdentifier: 
+  <activityCategoryName>k__BackingField: cooking
+  <icon>k__BackingField: {fileID: 0}
+  <activities>k__BackingField:
+  - <activityName>k__BackingField: cooking-cooking_burger
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: cooking
+    <activityFolder>k__BackingField: cooking_burger
+    <type>k__BackingField: 11
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <icon>k__BackingField: cooking-cooking_burger-icon.png
+    <isAlwaysUnlocked>k__BackingField: 1
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_burger/cooking-cooking_burger.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/cooking/cooking_burger/cooking-cooking_burger.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/cooking/cooking_burger/cooking-cooking_burger.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/cooking/cooking_burger/cooking-cooking_burger.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: cooking_burger
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: mini_game_burger
+    prefab_reference: {fileID: 7682305460393591535, guid: ec07c924e6555ff4580fda1a4245de63, type: 3}
+    icon_reference: {fileID: 2800000, guid: 29e3e2427bed7a9409406a48694069d1, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: cooking-cooking_cake
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: cooking
+    <activityFolder>k__BackingField: cooking_cake
+    <type>k__BackingField: 11
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <icon>k__BackingField: cooking-cooking_cake-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_cake/cooking-cooking_cake.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/cooking/cooking_cake/cooking-cooking_cake.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/cooking/cooking_cake/cooking-cooking_cake.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/cooking/cooking_cake/cooking-cooking_cake.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: cooking_cake
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: mini_game_cake
+    prefab_reference: {fileID: 6008719737352891438, guid: 42010621fe9462e449b6fe0235a6c695, type: 3}
+    icon_reference: {fileID: 2800000, guid: eb735adcb0a71964f9b30c85cb6d5d61, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: cooking-cooking_feeding
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: cooking
+    <activityFolder>k__BackingField: cooking_feeding
+    <type>k__BackingField: 11
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <icon>k__BackingField: cooking-cooking_feeding-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_feeding/cooking-cooking_feeding.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/cooking/cooking_feeding/cooking-cooking_feeding.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/cooking/cooking_feeding/cooking-cooking_feeding.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/cooking/cooking_feeding/cooking-cooking_feeding.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: cooking_pet_food
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: mini_game_pet_food
+    prefab_reference: {fileID: 5078221742464334558, guid: 3957bd70b37b6814fa78cb7cee6370de, type: 3}
+    icon_reference: {fileID: 2800000, guid: e52fcca31c999a14f95f68c712b71dc0, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: cooking-cooking_icecream
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: cooking
+    <activityFolder>k__BackingField: cooking_icecream
+    <type>k__BackingField: 11
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <icon>k__BackingField: cooking-cooking_icecream-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_icecream/cooking-cooking_icecream.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/cooking/cooking_icecream/cooking-cooking_icecream.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/cooking/cooking_icecream/cooking-cooking_icecream.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/cooking/cooking_icecream/cooking-cooking_icecream.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: cooking_ice_cream
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: mini_game_ice_cream
+    prefab_reference: {fileID: 7731694017483528485, guid: d98a8b0262f4de246b74a9554227c0a9, type: 3}
+    icon_reference: {fileID: 2800000, guid: 9e022e6a7df7f214a9ed59d01c8c3cb1, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: cooking-cooking_pizza
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: cooking
+    <activityFolder>k__BackingField: cooking_pizza
+    <type>k__BackingField: 11
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <icon>k__BackingField: cooking-cooking_pizza-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_pizza/cooking-cooking_pizza.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/cooking/cooking_pizza/cooking-cooking_pizza.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/cooking/cooking_pizza/cooking-cooking_pizza.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/cooking/cooking_pizza/cooking-cooking_pizza.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: cooking_pizza
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: mini_game_pizza
+    prefab_reference: {fileID: 6993156873189206996, guid: 0fb1267af2b9d9f4ca08d203604c1281, type: 3}
+    icon_reference: {fileID: 2800000, guid: 59195ad043109624dba7d8578405f18d, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: cooking-cooking_salade
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: cooking
+    <activityFolder>k__BackingField: cooking_salade
+    <type>k__BackingField: 11
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <icon>k__BackingField: cooking-cooking_salade-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_salade/cooking-cooking_salade.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/cooking/cooking_salade/cooking-cooking_salade.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/cooking/cooking_salade/cooking-cooking_salade.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/cooking/cooking_salade/cooking-cooking_salade.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: cooking_salade
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: mini_game_salad
+    prefab_reference: {fileID: 1860213852547082370, guid: 4b4e98cb923fd0249be1fdaae8ec7480, type: 3}
+    icon_reference: {fileID: 2800000, guid: 77d5211c2dba0a446881f9d890dda82b, type: 3}
+    _errorList: []
+  <stringSettings>k__BackingField: []
+  <intSettings>k__BackingField: []
+  <floatSettings>k__BackingField:
+  - key: delayBeforeFinalAnimation
+    value: 0.75
+  - key: hiding_dropDIstance
+    value: 1
+  <vector3Settings>k__BackingField:
+  - key: cooking-cooking_burger_iconScale
+    value: {x: 1.05, y: 1.05, z: 1.05}
+  - key: cooking-cooking_burger_iconOffset
+    value: {x: 10, y: 0, z: 0}
+  - key: cooking-cooking_pizza_iconScale
+    value: {x: 1.05, y: 1.05, z: 1.05}
+  - key: cooking-cooking_pizza_iconOffset
+    value: {x: -5, y: 0, z: 0}
+  - key: cooking-cooking_cake_iconScale
+    value: {x: 1.05, y: 1.05, z: 1.05}
+  - key: cooking-cooking_cake_iconOffset
+    value: {x: 15, y: 0, z: 0}
+  - key: cooking-cooking_icecream_iconScale
+    value: {x: 1.05, y: 1.05, z: 1.05}
+  - key: cooking-cooking_icecream_iconOffset
+    value: {x: 15, y: 0, z: 0}
+  - key: cooking-cooking_salade_iconScale
+    value: {x: 1.05, y: 1.05, z: 1.05}
+  - key: cooking-cooking_salade_iconOffset
+    value: {x: 20, y: 0, z: 0}
+  <iconOffsets>k__BackingField:
+  - key: cooking-cooking_burger
+    value: {x: 0, y: 0, z: 0}
+  - key: cooking-cooking_pizza
+    value: {x: -20, y: 0, z: 0}
+  - key: cooking-cooking_cake
+    value: {x: 0, y: 0, z: 0}
+  - key: cooking-cooking_icecream
+    value: {x: 0, y: 0, z: 0}
+  - key: cooking-cooking_salade
+    value: {x: 10, y: 0, z: 0}
+  <iconScales>k__BackingField:
+  - key: cooking-cooking_burger
+    value: {x: 1.05, y: 1.05, z: 1.05}
+  - key: cooking-cooking_pizza
+    value: {x: 1.05, y: 1.05, z: 1.05}
+  - key: cooking-cooking_cake
+    value: {x: 1.05, y: 1.05, z: 1.05}
+  - key: cooking-cooking_icecream
+    value: {x: 1.05, y: 1.05, z: 1.05}
+  - key: cooking-cooking_salade
+    value: {x: 1.05, y: 1.05, z: 1.05}
+  contentPath: Assets/Editor/_Content/cooking

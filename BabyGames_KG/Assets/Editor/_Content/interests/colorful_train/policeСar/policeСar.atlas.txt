@@ -1,0 +1,48 @@
+
+policeСar.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+policeСar_BODY
+  rotate: false
+  xy: 2, 2
+  size: 678, 249
+  orig: 678, 249
+  offset: 0, 0
+  index: -1
+policeСar_LIGHT_BLUE
+  rotate: false
+  xy: 1038, 35
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+policeСar_LIGHT_L
+  rotate: false
+  xy: 682, 37
+  size: 196, 214
+  orig: 196, 214
+  offset: 0, 0
+  index: -1
+policeСar_LIGHT_R
+  rotate: false
+  xy: 880, 98
+  size: 156, 153
+  orig: 156, 153
+  offset: 0, 0
+  index: -1
+policeСar_LIGHT_RED
+  rotate: false
+  xy: 1141, 35
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+policeСar_W_L
+  rotate: false
+  xy: 1038, 135
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1

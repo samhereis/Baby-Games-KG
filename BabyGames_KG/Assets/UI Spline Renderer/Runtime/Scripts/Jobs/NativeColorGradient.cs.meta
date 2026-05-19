@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: baf1300b266e4ca887cad7e70d1a70cb
+timeCreated: 1690408892
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260186
+  packageName: UI Spline Renderer
+  packageVersion: 1.16
+  assetPath: Assets/UI Spline Renderer/Runtime/Scripts/Jobs/NativeColorGradient.cs
+  uploadId: 838278

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bc7f22c11927a054690bce364dda0652
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260186
+  packageName: UI Spline Renderer
+  packageVersion: 1.16
+  assetPath: Assets/UI Spline Renderer/Example/Scripts/UISplineRendererExample.cs
+  uploadId: 838278

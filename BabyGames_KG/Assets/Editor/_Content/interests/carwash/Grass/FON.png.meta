@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 84a8804674a02544999ea899f660e880
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9054248327520743514
+    second: FON_0
+  - first:
+      213: -3184221230897179110
+    second: FON_1
+  - first:
+      213: 5287125420949551291
+    second: FON_2
+  - first:
+      213: -8574331489877115698
+    second: FON_3
+  - first:
+      213: -8770238710698991420
+    second: FON_4
+  - first:
+      213: 2002650717326368740
+    second: FON_5
+  - first:
+      213: 579270286216935123
+    second: FON_6
+  - first:
+      213: -767547378428696978
+    second: FON_7
+  - first:
+      213: 4719975857166864918
+    second: FON_8
+  - first:
+      213: -4841779414138242331
+    second: FON_9
+  - first:
+      213: 8548977017231271310
+    second: FON_10
+  - first:
+      213: -8119885055819311571
+    second: FON_11
+  - first:
+      213: -8738681613144669177
+    second: FON_12
+  - first:
+      213: -2638608067519320732
+    second: FON_13
+  - first:
+      213: 8300785477432618940
+    second: FON_14
+  - first:
+      213: -4249773807714506815
+    second: FON_15
+  - first:
+      213: -8965455702809595344
+    second: FON_16
+  - first:
+      213: 5313260171282755272
+    second: FON_17
+  - first:
+      213: 2004903770063357244
+    second: FON_18
+  - first:
+      213: -2640788801063998593
+    second: FON_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FON_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1901
+        width: 262
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a507c06e1e627ad70800000000000000
+      internalID: 9054248327520743514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1901
+        width: 267
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16dd1649af5fc3d0800000000000000
+      internalID: -3184221230897179110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1901
+        width: 157
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8b2a6de84af5940800000000000000
+      internalID: 5287125420949551291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1911
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccbd6f40fad10980800000000000000
+      internalID: -8574331489877115698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_4
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1901
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0286dfb5ad94680800000000000000
+      internalID: -8770238710698991420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1896
+        width: 110
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef5b678738dacb10800000000000000
+      internalID: 2002650717326368740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_6
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1802
+        width: 370
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d636e6914bf90800800000000000000
+      internalID: 579270286216935123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1725
+        width: 712
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66a978d9bf1955f0800000000000000
+      internalID: -767547378428696978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1802
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612d9dad809b08140800000000000000
+      internalID: 4719975857166864918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_9
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1632
+        width: 407
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eabd73964b8eccb0800000000000000
+      internalID: -4841779414138242331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1424
+        width: 439
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856c018d4114a670800000000000000
+      internalID: 8548977017231271310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1051
+        width: 643
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2613ee009f505f80800000000000000
+      internalID: -8119885055819311571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1424
+        width: 505
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70446435f57f9b680800000000000000
+      internalID: -8738681613144669177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_13
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1051
+        width: 244
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46de70a41f7c16bd0800000000000000
+      internalID: -2638608067519320732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_14
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1051
+        width: 207
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfa71b8960523370800000000000000
+      internalID: 8300785477432618940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_15
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1051
+        width: 178
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7ea67fc35c505c0800000000000000
+      internalID: -4249773807714506815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 615
+        width: 1971
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b8801a8d449380800000000000000
+      internalID: -8965455702809595344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_17
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1051
+        width: 274
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2a8499fd7cb940800000000000000
+      internalID: 5313260171282755272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_18
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1051
+        width: 134
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c77f3b59d2db10800000000000000
+      internalID: 2004903770063357244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 1971
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b20c1b3980a5bd0800000000000000
+      internalID: -2640788801063998593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FON_0: 9054248327520743514
+      FON_1: -3184221230897179110
+      FON_10: 8548977017231271310
+      FON_11: -8119885055819311571
+      FON_12: -8738681613144669177
+      FON_13: -2638608067519320732
+      FON_14: 8300785477432618940
+      FON_15: -4249773807714506815
+      FON_16: -8965455702809595344
+      FON_17: 5313260171282755272
+      FON_18: 2004903770063357244
+      FON_19: -2640788801063998593
+      FON_2: 5287125420949551291
+      FON_3: -8574331489877115698
+      FON_4: -8770238710698991420
+      FON_5: 2002650717326368740
+      FON_6: 579270286216935123
+      FON_7: -767547378428696978
+      FON_8: 4719975857166864918
+      FON_9: -4841779414138242331
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

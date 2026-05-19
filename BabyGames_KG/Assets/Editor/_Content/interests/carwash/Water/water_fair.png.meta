@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 7b8ef26ddbb0882419e6a9b6c7563efc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1414005579685145901
+    second: water_fair_0
+  - first:
+      213: 9092307934413952281
+    second: water_fair_1
+  - first:
+      213: 913832312806867032
+    second: water_fair_2
+  - first:
+      213: 8534383371463619171
+    second: water_fair_3
+  - first:
+      213: 7662343428146064187
+    second: water_fair_4
+  - first:
+      213: -8597921609885866747
+    second: water_fair_5
+  - first:
+      213: 4960136092373673114
+    second: water_fair_6
+  - first:
+      213: 3057796453899578177
+    second: water_fair_7
+  - first:
+      213: -1884420921683014527
+    second: water_fair_8
+  - first:
+      213: -47387359397595515
+    second: water_fair_9
+  - first:
+      213: 5493753937571874239
+    second: water_fair_10
+  - first:
+      213: 517685783644255805
+    second: water_fair_11
+  - first:
+      213: 7161571227261661455
+    second: water_fair_12
+  - first:
+      213: 7207795084021040697
+    second: water_fair_13
+  - first:
+      213: -5271922668322247615
+    second: water_fair_14
+  - first:
+      213: -455720420097891633
+    second: water_fair_15
+  - first:
+      213: 291482013934911120
+    second: water_fair_16
+  - first:
+      213: 4250027834436811746
+    second: water_fair_17
+  - first:
+      213: -1109952060459742039
+    second: water_fair_18
+  - first:
+      213: 5852081722045100525
+    second: water_fair_19
+  - first:
+      213: -230202238646712146
+    second: water_fair_20
+  - first:
+      213: -5834491800120651933
+    second: water_fair_21
+  - first:
+      213: -4545843515312546276
+    second: water_fair_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water_fair_0
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 467
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dad8f359e8f9310800000000000000
+      internalID: 1414005579685145901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 264
+        width: 233
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915953ba4ed5e2e70800000000000000
+      internalID: 9092307934413952281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_2
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 452
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850802595a59eac00800000000000000
+      internalID: 913832312806867032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 243
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362f6119578307670800000000000000
+      internalID: 8534383371463619171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 238
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3be1b540cc165a60800000000000000
+      internalID: 7662343428146064187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 244
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505291c79db0ea880800000000000000
+      internalID: -8597921609885866747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 233
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94e68ffe71f5d440800000000000000
+      internalID: 4960136092373673114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 239
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b22268ca97f6a20800000000000000
+      internalID: 3057796453899578177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 240
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c05c3e72139d5e0800000000000000
+      internalID: -1884420921683014527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 216
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586334c9275a75ff0800000000000000
+      internalID: -47387359397595515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 9
+        width: 244
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5006c591cbd3c40800000000000000
+      internalID: 5493753937571874239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 233
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36b2673a703f2700800000000000000
+      internalID: 517685783644255805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 226
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01f69a6613036360800000000000000
+      internalID: 7161571227261661455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 237
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93681ecb07b370460800000000000000
+      internalID: 7207795084021040697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 217
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ca257d34e56d6b0800000000000000
+      internalID: -5271922668322247615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 10
+        width: 250
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc26c2341b4fca9f0800000000000000
+      internalID: -455720420097891633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e710be85d8b0400800000000000000
+      internalID: 291482013934911120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 195
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebf02d3cc12bfa30800000000000000
+      internalID: 4250027834436811746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_18
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 195
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac85965b78a890f0800000000000000
+      internalID: -1109952060459742039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 195
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1fd0f0255c63150800000000000000
+      internalID: 5852081722045100525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 166
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea886fa98482eccf0800000000000000
+      internalID: -230202238646712146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_21
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 175
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f01e8ce98b70fa0800000000000000
+      internalID: -5834491800120651933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_fair_22
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 177
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e5841686be9e0c0800000000000000
+      internalID: -4545843515312546276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      water_fair_0: 1414005579685145901
+      water_fair_1: 9092307934413952281
+      water_fair_10: 5493753937571874239
+      water_fair_11: 517685783644255805
+      water_fair_12: 7161571227261661455
+      water_fair_13: 7207795084021040697
+      water_fair_14: -5271922668322247615
+      water_fair_15: -455720420097891633
+      water_fair_16: 291482013934911120
+      water_fair_17: 4250027834436811746
+      water_fair_18: -1109952060459742039
+      water_fair_19: 5852081722045100525
+      water_fair_2: 913832312806867032
+      water_fair_20: -230202238646712146
+      water_fair_21: -5834491800120651933
+      water_fair_22: -4545843515312546276
+      water_fair_3: 8534383371463619171
+      water_fair_4: 7662343428146064187
+      water_fair_5: -8597921609885866747
+      water_fair_6: 4960136092373673114
+      water_fair_7: 3057796453899578177
+      water_fair_8: -1884420921683014527
+      water_fair_9: -47387359397595515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

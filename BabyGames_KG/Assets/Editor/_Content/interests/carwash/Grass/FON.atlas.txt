@@ -1,0 +1,146 @@
+
+FON.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud 1
+  rotate: false
+  xy: 1548, 394
+  size: 405, 168
+  orig: 405, 168
+  offset: 0, 0
+  index: -1
+cloud 2
+  rotate: false
+  xy: 1227, 80
+  size: 265, 125
+  orig: 265, 125
+  offset: 0, 0
+  index: -1
+holm1
+  rotate: false
+  xy: 1274, 564
+  size: 710, 174
+  orig: 710, 174
+  offset: 0, 0
+  index: -1
+holm2
+  rotate: false
+  xy: 1548, 225
+  size: 368, 167
+  orig: 368, 167
+  offset: 0, 0
+  index: -1
+kamen2
+  rotate: false
+  xy: 2, 987
+  size: 1969, 434
+  orig: 1969, 434
+  offset: 0, 0
+  index: -1
+kust1
+  rotate: false
+  xy: 631, 66
+  size: 437, 299
+  orig: 437, 299
+  offset: 0, 0
+  index: -1
+kust2
+  rotate: false
+  xy: 631, 367
+  size: 641, 371
+  orig: 641, 371
+  offset: 0, 0
+  index: -1
+kust3
+  rotate: false
+  xy: 1274, 207
+  size: 272, 355
+  orig: 272, 355
+  offset: 0, 0
+  index: -1
+kust4
+  rotate: false
+  xy: 1548, 19
+  size: 132, 204
+  orig: 132, 204
+  offset: 0, 0
+  index: -1
+kust5
+  rotate: false
+  xy: 2, 2
+  size: 503, 206
+  orig: 503, 206
+  offset: 0, 0
+  index: -1
+kust6
+  rotate: false
+  xy: 1918, 836
+  size: 108, 149
+  orig: 108, 149
+  offset: 0, 0
+  index: -1
+kust7
+  rotate: false
+  xy: 1682, 80
+  size: 260, 143
+  orig: 260, 143
+  offset: 0, 0
+  index: -1
+plant
+  rotate: false
+  xy: 1070, 275
+  size: 165, 90
+  orig: 165, 90
+  offset: 0, 0
+  index: -1
+plant2
+  rotate: false
+  xy: 1070, 172
+  size: 155, 101
+  orig: 155, 101
+  offset: 0, 0
+  index: -1
+road30
+  rotate: false
+  xy: 2, 740
+  size: 1914, 245
+  orig: 1914, 245
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 387, 215
+  size: 140, 92
+  orig: 140, 92
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 2, 1423
+  size: 1969, 608
+  orig: 1969, 608
+  offset: 0, 0
+  index: -1
+tree 1
+  rotate: false
+  xy: 387, 309
+  size: 242, 429
+  orig: 242, 429
+  offset: 0, 0
+  index: -1
+tree 2
+  rotate: false
+  xy: 180, 240
+  size: 205, 498
+  orig: 205, 498
+  offset: 0, 0
+  index: -1
+tree 3
+  rotate: false
+  xy: 2, 210
+  size: 176, 528
+  orig: 176, 528
+  offset: 0, 0
+  index: -1

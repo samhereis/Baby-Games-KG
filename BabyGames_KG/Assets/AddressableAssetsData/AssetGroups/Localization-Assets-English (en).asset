@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-English (en)
+  m_GUID: 6662c5041afbed3469d64a8e02d1d1d0
+  m_SerializeEntries:
+  - m_GUID: 055c1567c6c4fcd44b7c980e77bcc3b0
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0726c181e47bbc64786bbb538839ec68
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b51aff1460e30d44ab010d3665cbf41
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15b8a38e270153c4f9848dd3d174276b
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 186b6cbfa5b3d9f49a89d65b00a21985
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f2098e02d2c6f14bab3bec5257636d5
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 271e1c88314122e42a8361571e321d60
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5392843221f635842a57d0e9c6c4f31c
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d717c76d469c9f4080c704c2da225c8
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62842e449ca9e468ca690eda78c07895
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63b88be3c15e15c45aafc10aff1741b0
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 745cbbc86b7ec0b4bb1051fefb944e07
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90af30f83c1cf5b4eb4f56417b33f06f
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9479171338bb06d4887b9f00ede0f12d
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 996e73700facdda489bb8de4c2eca4c2
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ead06ab3056fbe4484e2097d9435182
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ffd65ce11b07f7469bc6f718329b130
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae39355bdb72adc49b3c2e67c33db6a7
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af4dfcc031039244bb44d0e225401894
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb482f80029747f44a5c483801226a8e
+    m_Address: BirthdayParty_English(en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: b721fdfdc08536242bf29c7e2281821d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5b8be798a6778f648be664a46cb2408d, type: 2}
+    - {fileID: 11400000, guid: de27a521bf8fba440bf6ee3bc59b048b, type: 2}

@@ -1,0 +1,55 @@
+
+bubble_pop.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 695, 33
+  size: 214, 211
+  orig: 214, 211
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 228, 219
+  orig: 228, 219
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 454, 7
+  size: 239, 222
+  orig: 239, 222
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 232, 3
+  size: 220, 218
+  orig: 220, 218
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 592, 246
+  size: 266, 263
+  orig: 266, 263
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 309, 231
+  size: 281, 278
+  orig: 281, 278
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 223
+  size: 305, 286
+  orig: 305, 286
+  offset: 0, 0
+  index: -1

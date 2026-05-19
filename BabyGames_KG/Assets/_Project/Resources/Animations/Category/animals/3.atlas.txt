@@ -1,0 +1,160 @@
+
+3.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barash
+  rotate: false
+  xy: 988, 222
+  size: 341, 284
+  orig: 341, 284
+  offset: 0, 0
+  index: -1
+crab
+  rotate: false
+  xy: 1036, 43
+  size: 230, 177
+  orig: 230, 177
+  offset: 0, 0
+  index: -1
+glasses_L
+  rotate: false
+  xy: 505, 17
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+glasses_R
+  rotate: false
+  xy: 638, 17
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+krug_2
+  rotate: false
+  xy: 2, 5
+  size: 501, 501
+  orig: 501, 501
+  offset: 0, 0
+  index: -1
+shadow_barash
+  rotate: false
+  xy: 771, 115
+  size: 215, 33
+  orig: 215, 33
+  offset: 0, 0
+  index: -1
+shadow_krab
+  rotate: false
+  xy: 771, 80
+  size: 175, 33
+  orig: 175, 33
+  offset: 0, 0
+  index: -1
+shadow_utka
+  rotate: false
+  xy: 771, 45
+  size: 175, 33
+  orig: 175, 33
+  offset: 0, 0
+  index: -1
+utka
+  rotate: false
+  xy: 505, 150
+  size: 282, 356
+  orig: 282, 356
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_L
+  rotate: false
+  xy: 948, 65
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_R
+  rotate: false
+  xy: 961, 15
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+veko_prishurennye_U_L
+  rotate: false
+  xy: 771, 6
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+veko_prishurennye_U_R
+  rotate: false
+  xy: 844, 6
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+veko_ulybka_L
+  rotate: false
+  xy: 789, 432
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+veko_ulybka_L2
+  rotate: false
+  xy: 917, 2
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+veko_ulybka_R
+  rotate: false
+  xy: 865, 432
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+veko_ulybka_R2
+  rotate: false
+  xy: 941, 465
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+veko_ulybka_R3
+  rotate: false
+  xy: 941, 349
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+veko_zakrytye_L
+  rotate: false
+  xy: 789, 356
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+veko_zakrytye_R
+  rotate: false
+  xy: 865, 356
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+zrachok_L
+  rotate: false
+  xy: 941, 425
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+zrachok_R
+  rotate: false
+  xy: 941, 385
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

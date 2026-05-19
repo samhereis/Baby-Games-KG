@@ -1,0 +1,714 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: febbd8cde50bb42d39fb6bf12a9f1a59, type: 3}
+  m_Name: SoundConfig_SO
+  m_EditorClassIdentifier: 
+  data:
+  - name: Default
+    soundEffects:
+    - key: 0
+      value:
+        sounds:
+        - <key>k__BackingField: success
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 5b18a52f9a96d9b47ad5c51345d36490, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        <data>k__BackingField:
+          <isMain>k__BackingField: 0
+          <delay>k__BackingField: 0
+          <loop>k__BackingField: 0
+          <disableOthers>k__BackingField: 0
+          <volume>k__BackingField: 1
+          <maxDistance>k__BackingField: 50
+          <minDistance>k__BackingField: 0
+    - key: 1
+      value:
+        sounds:
+        - <key>k__BackingField: No 2
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: cf1d5cdf34fa8a04a95ab6bf820de98c, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: No
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 238e28bbfb7e0e2459a6b692511c81c8, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: Oops! not correct
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: e1a3b5b95be45cc498833bf00118f3dd, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        <data>k__BackingField:
+          <isMain>k__BackingField: 0
+          <delay>k__BackingField: 0
+          <loop>k__BackingField: 0
+          <disableOthers>k__BackingField: 0
+          <volume>k__BackingField: 1
+          <maxDistance>k__BackingField: 50
+          <minDistance>k__BackingField: 0
+    - key: 3
+      value:
+        sounds:
+        - <key>k__BackingField: "\u0417\u0432\u0443\u043A \u0432\u0441\u0442\u0430\u0432\u043B\u0435\u043D\u0438\u044F
+            \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u0430 2"
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 14bdca2b46071c14dabe22caa2fe0d7f, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        <data>k__BackingField:
+          <isMain>k__BackingField: 0
+          <delay>k__BackingField: 0
+          <loop>k__BackingField: 0
+          <disableOthers>k__BackingField: 0
+          <volume>k__BackingField: 1
+          <maxDistance>k__BackingField: 50
+          <minDistance>k__BackingField: 0
+    - key: 2
+      value:
+        sounds:
+        - <key>k__BackingField: FeelStrikeSuccess
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 09d78e259785d574da0a500b35abafed, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        <data>k__BackingField:
+          <isMain>k__BackingField: 0
+          <delay>k__BackingField: 0
+          <loop>k__BackingField: 0
+          <disableOthers>k__BackingField: 0
+          <volume>k__BackingField: 1
+          <maxDistance>k__BackingField: 50
+          <minDistance>k__BackingField: 0
+    - key: 4
+      value:
+        sounds:
+        - <key>k__BackingField: Bye
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: d30e2f18a8cfd8542868c98575ec571d, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: Bye 2
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: be2fa9bd7bd07b941a9e54cd6d310e09, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        <data>k__BackingField:
+          <isMain>k__BackingField: 0
+          <delay>k__BackingField: 0
+          <loop>k__BackingField: 0
+          <disableOthers>k__BackingField: 0
+          <volume>k__BackingField: 1
+          <maxDistance>k__BackingField: 50
+          <minDistance>k__BackingField: 0
+    - key: 5
+      value:
+        sounds:
+        - <key>k__BackingField: Lets go
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 6f615cab1e7cab046bd8ab802fceb1ad, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: Lets go 2
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 0f268296a42531c4f8f41d1f09c43f75, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        <data>k__BackingField:
+          <isMain>k__BackingField: 0
+          <delay>k__BackingField: 0
+          <loop>k__BackingField: 0
+          <disableOthers>k__BackingField: 0
+          <volume>k__BackingField: 1
+          <maxDistance>k__BackingField: 50
+          <minDistance>k__BackingField: 0
+    - key: 6
+      value:
+        sounds:
+        - <key>k__BackingField: Hey
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: b5ba8e2fd6c81fc42a703ff28ffb74de, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: Hey 2
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 88b54152c7bf0ba478c27a9d80a0e042, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        <data>k__BackingField:
+          <isMain>k__BackingField: 0
+          <delay>k__BackingField: 0
+          <loop>k__BackingField: 0
+          <disableOthers>k__BackingField: 0
+          <volume>k__BackingField: 1
+          <maxDistance>k__BackingField: 50
+          <minDistance>k__BackingField: 0
+    - key: 7
+      value:
+        sounds:
+        - <key>k__BackingField: You made it!1
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 3c742cffe080c8447a257881cabc4ea7, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: well done
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 194eb010b7d213d48a0fa38e92309408, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: Yaay!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: a29467bd09b014c4f9ed0ab8241505f8, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: You made it 2
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 4cde36eb9535f7140bfb0ad30be84e05, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: Taddaa!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 91d05dd1039d7f54f9922ebfe4647e17, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: YaaAy!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: d2c8d96c44fc639419e5c609900da8b4, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: great job!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 6f833b8361e1be248b7892e28b5a011d, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: That`s cute!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 6c11aa2dfb8aef04faf72f9d2ee55dd4, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: So colorful!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 4fe155396705b4042bd1bf65b04bbfaa, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        <data>k__BackingField:
+          <isMain>k__BackingField: 0
+          <delay>k__BackingField: 0
+          <loop>k__BackingField: 0
+          <disableOthers>k__BackingField: 0
+          <volume>k__BackingField: 1
+          <maxDistance>k__BackingField: 50
+          <minDistance>k__BackingField: 0
+    - key: 8
+      value:
+        sounds:
+        - <key>k__BackingField: poping_3
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: a2e6e3dd224d74045801e73f5314db32, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: poping_4
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: e3d45c9a4d9163746ae7050807b9f7ed, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: poping_1
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: a00c38e5dd200bd4b8cc049646a0cf1e, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: poping_2
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 18b362694c2e88241a3b298b482bbe9e, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        <data>k__BackingField:
+          <isMain>k__BackingField: 0
+          <delay>k__BackingField: 0
+          <loop>k__BackingField: 0
+          <disableOthers>k__BackingField: 0
+          <volume>k__BackingField: 1
+          <maxDistance>k__BackingField: 50
+          <minDistance>k__BackingField: 0
+  - name: Cooking
+    soundEffects:
+    - key: 7
+      value:
+        sounds:
+        - <key>k__BackingField: Mmm tasty
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: c9b296e2969a87a4997a81ba9edcdb0c, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: great job!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 6f833b8361e1be248b7892e28b5a011d, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: That`s cute!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 6c11aa2dfb8aef04faf72f9d2ee55dd4, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: well done
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 194eb010b7d213d48a0fa38e92309408, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: Taddaa!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 91d05dd1039d7f54f9922ebfe4647e17, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: Yaay!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: a29467bd09b014c4f9ed0ab8241505f8, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: YaaAy!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: d2c8d96c44fc639419e5c609900da8b4, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: So colorful!
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 4fe155396705b4042bd1bf65b04bbfaa, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: You made it!1
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 3c742cffe080c8447a257881cabc4ea7, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        - <key>k__BackingField: You made it 2
+          cachingMode: 0
+          referenceMode: 0
+          <errorsList>k__BackingField: []
+          reference: {fileID: 8300000, guid: 4cde36eb9535f7140bfb0ad30be84e05, type: 3}
+          resourcePath: 
+          reference_Resources: {fileID: 0}
+          reference_Resources_Debug: {fileID: 0}
+          addressableReference:
+            m_AssetGUID: 
+            m_SubObjectName: 
+            m_SubObjectType: 
+            m_SubObjectGUID: 
+            m_EditorAssetChanged: 0
+        <data>k__BackingField:
+          <isMain>k__BackingField: 0
+          <delay>k__BackingField: 0
+          <loop>k__BackingField: 0
+          <disableOthers>k__BackingField: 0
+          <volume>k__BackingField: 1
+          <maxDistance>k__BackingField: 50
+          <minDistance>k__BackingField: 0
+  pannelSounds:
+  - key: 1
+    value:
+      sounds:
+      - <key>k__BackingField: poping_4
+        cachingMode: 0
+        referenceMode: 0
+        <errorsList>k__BackingField: []
+        reference: {fileID: 8300000, guid: e3d45c9a4d9163746ae7050807b9f7ed, type: 3}
+        resourcePath: 
+        reference_Resources: {fileID: 0}
+        reference_Resources_Debug: {fileID: 0}
+        addressableReference:
+          m_AssetGUID: 
+          m_SubObjectName: 
+          m_SubObjectType: 
+          m_SubObjectGUID: 
+          m_EditorAssetChanged: 0
+      - <key>k__BackingField: poping_1
+        cachingMode: 0
+        referenceMode: 0
+        <errorsList>k__BackingField: []
+        reference: {fileID: 8300000, guid: a00c38e5dd200bd4b8cc049646a0cf1e, type: 3}
+        resourcePath: 
+        reference_Resources: {fileID: 0}
+        reference_Resources_Debug: {fileID: 0}
+        addressableReference:
+          m_AssetGUID: 
+          m_SubObjectName: 
+          m_SubObjectType: 
+          m_SubObjectGUID: 
+          m_EditorAssetChanged: 0
+      - <key>k__BackingField: poping_2
+        cachingMode: 0
+        referenceMode: 0
+        <errorsList>k__BackingField: []
+        reference: {fileID: 8300000, guid: 18b362694c2e88241a3b298b482bbe9e, type: 3}
+        resourcePath: 
+        reference_Resources: {fileID: 0}
+        reference_Resources_Debug: {fileID: 0}
+        addressableReference:
+          m_AssetGUID: 
+          m_SubObjectName: 
+          m_SubObjectType: 
+          m_SubObjectGUID: 
+          m_EditorAssetChanged: 0
+      - <key>k__BackingField: poping_3
+        cachingMode: 0
+        referenceMode: 0
+        <errorsList>k__BackingField: []
+        reference: {fileID: 8300000, guid: a2e6e3dd224d74045801e73f5314db32, type: 3}
+        resourcePath: 
+        reference_Resources: {fileID: 0}
+        reference_Resources_Debug: {fileID: 0}
+        addressableReference:
+          m_AssetGUID: 
+          m_SubObjectName: 
+          m_SubObjectType: 
+          m_SubObjectGUID: 
+          m_EditorAssetChanged: 0
+      <data>k__BackingField:
+        <isMain>k__BackingField: 0
+        <delay>k__BackingField: 0
+        <loop>k__BackingField: 0
+        <disableOthers>k__BackingField: 0
+        <volume>k__BackingField: 1
+        <maxDistance>k__BackingField: 50
+        <minDistance>k__BackingField: 0
+  - key: 0
+    value:
+      sounds:
+      - <key>k__BackingField: "\u0437\u0432\u0443\u043A \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F
+          \u043F\u0430\u043D\u0435\u043B\u0435\u0439"
+        cachingMode: 0
+        referenceMode: 0
+        <errorsList>k__BackingField: []
+        reference: {fileID: 8300000, guid: 2b012e2030744414a9addb4dc9091711, type: 3}
+        resourcePath: 
+        reference_Resources: {fileID: 0}
+        reference_Resources_Debug: {fileID: 0}
+        addressableReference:
+          m_AssetGUID: 
+          m_SubObjectName: 
+          m_SubObjectType: 
+          m_SubObjectGUID: 
+          m_EditorAssetChanged: 0
+      <data>k__BackingField:
+        <isMain>k__BackingField: 0
+        <delay>k__BackingField: 0
+        <loop>k__BackingField: 0
+        <disableOthers>k__BackingField: 0
+        <volume>k__BackingField: 1
+        <maxDistance>k__BackingField: 50
+        <minDistance>k__BackingField: 0

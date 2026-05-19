@@ -1,0 +1,146 @@
+
+chicken.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belok
+  rotate: false
+  xy: 118, 16
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+brow_grust'
+  rotate: false
+  xy: 240, 13
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+brow_neitr_R
+  rotate: false
+  xy: 81, 2
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 81, 15
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 238, 117
+  size: 119, 137
+  orig: 119, 137
+  offset: 0, 0
+  index: -1
+hoholok
+  rotate: false
+  xy: 359, 128
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+klyuv_1
+  rotate: false
+  xy: 259, 24
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+klyuv_2
+  rotate: false
+  xy: 259, 8
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+krylo
+  rotate: false
+  xy: 297, 28
+  size: 122, 87
+  orig: 122, 87
+  offset: 0, 0
+  index: -1
+noga_1
+  rotate: false
+  xy: 359, 183
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+noga_2
+  rotate: false
+  xy: 255, 41
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+rumyana
+  rotate: false
+  xy: 191, 2
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+telo
+  rotate: false
+  xy: 2, 52
+  size: 234, 202
+  orig: 234, 202
+  offset: 0, 0
+  index: -1
+veko_poluzakrytyi
+  rotate: false
+  xy: 178, 27
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+veko_prishurennyi
+  rotate: false
+  xy: 217, 32
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+veko_prishurennyi_dop
+  rotate: false
+  xy: 154, 2
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+veko_ulybka
+  rotate: false
+  xy: 2, 12
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+veko_zakrytyi
+  rotate: false
+  xy: 42, 13
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+visyul'ka
+  rotate: false
+  xy: 154, 18
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+zrachok
+  rotate: false
+  xy: 216, 3
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1

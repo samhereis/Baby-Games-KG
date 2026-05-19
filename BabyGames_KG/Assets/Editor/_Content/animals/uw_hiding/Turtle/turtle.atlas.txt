@@ -1,0 +1,153 @@
+
+turtle.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belok
+  rotate: false
+  xy: 224, 200
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+brow_grust'
+  rotate: false
+  xy: 273, 100
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+brow_neitr_R
+  rotate: false
+  xy: 261, 157
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 223, 258
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 148
+  size: 162, 157
+  orig: 162, 157
+  offset: 0, 0
+  index: -1
+last_1
+  rotate: false
+  xy: 2, 2
+  size: 147, 144
+  orig: 147, 144
+  offset: 0, 0
+  index: -1
+last_2
+  rotate: false
+  xy: 151, 11
+  size: 133, 63
+  orig: 133, 63
+  offset: 0, 0
+  index: -1
+pancyr
+  rotate: false
+  xy: 2, 307
+  size: 302, 203
+  orig: 302, 203
+  offset: 0, 0
+  index: -1
+rot_grust'
+  rotate: false
+  xy: 286, 159
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+rot_neitral
+  rotate: false
+  xy: 223, 248
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+rot_udivlenie
+  rotate: false
+  xy: 272, 132
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+rot_ulybka
+  rotate: false
+  xy: 273, 116
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+rot_ulybka-smeh
+  rotate: false
+  xy: 239, 99
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+rumyana
+  rotate: false
+  xy: 166, 154
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+sheya
+  rotate: false
+  xy: 151, 76
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+veko_poluzakrytyi
+  rotate: false
+  xy: 203, 157
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+veko_prishurennyi
+  rotate: false
+  xy: 261, 172
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+veko_prishurennyi_dop
+  rotate: false
+  xy: 239, 77
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+veko_ulybka
+  rotate: false
+  xy: 166, 248
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+veko_zakrytyi
+  rotate: false
+  xy: 166, 191
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+zrachok
+  rotate: false
+  xy: 239, 124
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

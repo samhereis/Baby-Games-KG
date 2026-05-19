@@ -1,0 +1,20 @@
+
+motorbike.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+motorbike_BODY
+  rotate: false
+  xy: 2, 2
+  size: 479, 246
+  orig: 479, 246
+  offset: 0, 0
+  index: -1
+motorbike_W_L
+  rotate: false
+  xy: 483, 85
+  size: 162, 163
+  orig: 162, 163
+  offset: 0, 0
+  index: -1

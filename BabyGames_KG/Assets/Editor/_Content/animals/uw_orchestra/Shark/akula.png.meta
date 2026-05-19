@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: f530490c43c1bb44cb10483b0195c640
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7547584578952167996
+    second: akula_0
+  - first:
+      213: -2904042743350357988
+    second: akula_1
+  - first:
+      213: -5538993446674891375
+    second: akula_2
+  - first:
+      213: -3910440312262228062
+    second: akula_3
+  - first:
+      213: 94477409503071193
+    second: akula_4
+  - first:
+      213: -3905740672537646361
+    second: akula_5
+  - first:
+      213: -7494763109518186798
+    second: akula_6
+  - first:
+      213: -2360483274841236471
+    second: akula_7
+  - first:
+      213: 6835999894354505662
+    second: akula_8
+  - first:
+      213: 7331419693850421814
+    second: akula_9
+  - first:
+      213: 5493903908386874621
+    second: akula_10
+  - first:
+      213: 4850856234878618152
+    second: akula_11
+  - first:
+      213: 1742547736167249351
+    second: akula_12
+  - first:
+      213: -1308588032887313347
+    second: akula_13
+  - first:
+      213: 3233288285186934801
+    second: akula_14
+  - first:
+      213: -6976126141958569410
+    second: akula_15
+  - first:
+      213: 4518150704579817975
+    second: akula_16
+  - first:
+      213: 5210793722288788566
+    second: akula_17
+  - first:
+      213: -1088479309930802101
+    second: akula_18
+  - first:
+      213: 7718347869978647781
+    second: akula_19
+  - first:
+      213: -4232757137229537071
+    second: akula_20
+  - first:
+      213: -883204582681476493
+    second: akula_21
+  - first:
+      213: -4321163349314691052
+    second: akula_22
+  - first:
+      213: -3375220084138313977
+    second: akula_23
+  - first:
+      213: -4448706838526276019
+    second: akula_24
+  - first:
+      213: -7278345729892975801
+    second: akula_25
+  - first:
+      213: -5761255573954606547
+    second: akula_26
+  - first:
+      213: 7223418898067721594
+    second: akula_27
+  - first:
+      213: -5410627129551402855
+    second: akula_28
+  - first:
+      213: 2371471154837301266
+    second: akula_29
+  - first:
+      213: -8193003447291697078
+    second: akula_30
+  - first:
+      213: 8905949915170186130
+    second: akula_31
+  - first:
+      213: -4152878824749905294
+    second: akula_32
+  - first:
+      213: -1569082087936216283
+    second: akula_33
+  - first:
+      213: -2932334926196892054
+    second: akula_34
+  - first:
+      213: -5895954256308816936
+    second: akula_35
+  - first:
+      213: 4053119347138361889
+    second: akula_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akula_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 502
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3209ac8f286eb860800000000000000
+      internalID: 7547584578952167996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c101d0ed284c2b7d0800000000000000
+      internalID: -2904042743350357988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 498
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19df9bd9eca8123b0800000000000000
+      internalID: -5538993446674891375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 495
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a70e3021435bb9c0800000000000000
+      internalID: -3910440312262228062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 495
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbcab014b6af4100800000000000000
+      internalID: 94477409503071193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 492
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea29944d850cc9c0800000000000000
+      internalID: -3905740672537646361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 477
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6677d29a04df790800000000000000
+      internalID: -7494763109518186798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 474
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c56d8c7f0ed3fd0800000000000000
+      internalID: -2360483274841236471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 474
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfab9b6fa95ede50800000000000000
+      internalID: 6835999894354505662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 474
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ae1473e5f6eb560800000000000000
+      internalID: 7331419693850421814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_10
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 296
+        width: 438
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4a7892f744e3c40800000000000000
+      internalID: 5493903908386874621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 444
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82acd607b04b15340800000000000000
+      internalID: 4850856234878618152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 431
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5f8620fe5ce2810800000000000000
+      internalID: 1742547736167249351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 431
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cac660e16f6dde0800000000000000
+      internalID: -1308588032887313347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 431
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118cffe8092fedc20800000000000000
+      internalID: 3233288285186934801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 431
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e324e382c32df2f90800000000000000
+      internalID: -6976126141958569410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 431
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1392ca022b3be30800000000000000
+      internalID: 4518150704579817975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 431
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654dbde4845705840800000000000000
+      internalID: 5210793722288788566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_18
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 431
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44563aa5d1f4e0f0800000000000000
+      internalID: -1088479309930802101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 474
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec58f28e741d1b60800000000000000
+      internalID: 7718347869978647781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 455
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d02fee4fc93245c0800000000000000
+      internalID: -4232757137229537071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_21
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 455
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37206498c1a3eb3f0800000000000000
+      internalID: -883204582681476493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 436
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41029ab04d42804c0800000000000000
+      internalID: -4321163349314691052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 431
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707fb26573fc821d0800000000000000
+      internalID: -3375220084138313977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 296
+        width: 34
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e4acb53b40342c0800000000000000
+      internalID: -4448706838526276019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_25
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 296
+        width: 22
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7f39fe1f1efa90800000000000000
+      internalID: -7278345729892975801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_26
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 289
+        width: 438
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a42367498eb00b0800000000000000
+      internalID: -5761255573954606547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_27
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1
+        width: 292
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d8b2b673dbe3460800000000000000
+      internalID: 7223418898067721594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_28
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 296
+        width: 45
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9984ffada4799e4b0800000000000000
+      internalID: -5410627129551402855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_29
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 199
+        width: 202
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218a923637829e020800000000000000
+      internalID: 2371471154837301266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_30
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1
+        width: 126
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48a0a8e5ca9c4e80800000000000000
+      internalID: -8193003447291697078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_31
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 189
+        width: 219
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293a329134a489b70800000000000000
+      internalID: 8905949915170186130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_32
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 172
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a4a8736b20e56c0800000000000000
+      internalID: -4152878824749905294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_33
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1
+        width: 318
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52332258720893ae0800000000000000
+      internalID: -1569082087936216283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_34
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 172
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e1099bbe04e47d0800000000000000
+      internalID: -2932334926196892054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_35
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 172
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3b2cc87dc5d2ea0800000000000000
+      internalID: -5895954256308816936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akula_36
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1
+        width: 154
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12af17662929f3830800000000000000
+      internalID: 4053119347138361889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akula_0: 7547584578952167996
+      akula_1: -2904042743350357988
+      akula_10: 5493903908386874621
+      akula_11: 4850856234878618152
+      akula_12: 1742547736167249351
+      akula_13: -1308588032887313347
+      akula_14: 3233288285186934801
+      akula_15: -6976126141958569410
+      akula_16: 4518150704579817975
+      akula_17: 5210793722288788566
+      akula_18: -1088479309930802101
+      akula_19: 7718347869978647781
+      akula_2: -5538993446674891375
+      akula_20: -4232757137229537071
+      akula_21: -883204582681476493
+      akula_22: -4321163349314691052
+      akula_23: -3375220084138313977
+      akula_24: -4448706838526276019
+      akula_25: -7278345729892975801
+      akula_26: -5761255573954606547
+      akula_27: 7223418898067721594
+      akula_28: -5410627129551402855
+      akula_29: 2371471154837301266
+      akula_3: -3910440312262228062
+      akula_30: -8193003447291697078
+      akula_31: 8905949915170186130
+      akula_32: -4152878824749905294
+      akula_33: -1569082087936216283
+      akula_34: -2932334926196892054
+      akula_35: -5895954256308816936
+      akula_36: 4053119347138361889
+      akula_4: 94477409503071193
+      akula_5: -3905740672537646361
+      akula_6: -7494763109518186798
+      akula_7: -2360483274841236471
+      akula_8: 6835999894354505662
+      akula_9: 7331419693850421814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

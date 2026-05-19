@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: cc0381fdd1a1f2647a34df196263f58f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5676273016466271711
+    second: dirt29_0
+  - first:
+      213: 5053726877282009399
+    second: dirt29_1
+  - first:
+      213: 2237984260544725700
+    second: dirt29_2
+  - first:
+      213: -2371124183390426298
+    second: dirt29_3
+  - first:
+      213: -7846999469409961548
+    second: dirt29_4
+  - first:
+      213: 2875492736367564832
+    second: dirt29_5
+  - first:
+      213: -7069857629893623833
+    second: dirt29_6
+  - first:
+      213: 4784316244963191637
+    second: dirt29_7
+  - first:
+      213: 2596330383135260144
+    second: dirt29_8
+  - first:
+      213: 8742360535426495509
+    second: dirt29_9
+  - first:
+      213: -3234183127162656527
+    second: dirt29_10
+  - first:
+      213: -2857439470268537633
+    second: dirt29_11
+  - first:
+      213: -6797344732587953102
+    second: dirt29_12
+  - first:
+      213: -7675113349781771781
+    second: dirt29_13
+  - first:
+      213: -7722126847565341410
+    second: dirt29_14
+  - first:
+      213: -2297205613890602149
+    second: dirt29_15
+  - first:
+      213: -1476441548180396444
+    second: dirt29_16
+  - first:
+      213: -2791066746885740898
+    second: dirt29_17
+  - first:
+      213: 6077772720687357743
+    second: dirt29_18
+  - first:
+      213: 4097061706421531590
+    second: dirt29_19
+  - first:
+      213: -72560528706227676
+    second: dirt29_20
+  - first:
+      213: -1709594224266349406
+    second: dirt29_21
+  - first:
+      213: -1356938777592898276
+    second: dirt29_22
+  - first:
+      213: -71035974286895086
+    second: dirt29_23
+  - first:
+      213: -5963646856638057622
+    second: dirt29_24
+  - first:
+      213: -7817764765751541848
+    second: dirt29_25
+  - first:
+      213: -4287838829411313016
+    second: dirt29_26
+  - first:
+      213: -4663917510052130438
+    second: dirt29_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dirt29_0
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 426
+        width: 120
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122946504c3d931b0800000000000000
+      internalID: -5676273016466271711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_1
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 336
+        width: 167
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7310d30b1d1722640800000000000000
+      internalID: 5053726877282009399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 309
+        width: 105
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c20faed3daee0f10800000000000000
+      internalID: 2237984260544725700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 383
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64beca23e13181fd0800000000000000
+      internalID: -2371124183390426298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 317
+        width: 111
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9f329ce8bd91390800000000000000
+      internalID: -7846999469409961548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 220
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0289761a86dc7e720800000000000000
+      internalID: 2875492736367564832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 228
+        width: 180
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7effa9d71f1d2ed90800000000000000
+      internalID: -7069857629893623833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_7
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 210
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b6922c64e456240800000000000000
+      internalID: 4784316244963191637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_8
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 261
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdb45e3ab4080420800000000000000
+      internalID: 2596330383135260144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_9
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 186
+        width: 154
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5147d74869a135970800000000000000
+      internalID: 8742360535426495509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f868eec49fdd13d0800000000000000
+      internalID: -3234183127162656527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4a67fe0f55858d0800000000000000
+      internalID: -2857439470268537633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 137
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234f836cafafaa1a0800000000000000
+      internalID: -6797344732587953102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 92
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf92667a2158c7590800000000000000
+      internalID: -7675113349781771781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_14
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 151
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d5c54bb8e75d490800000000000000
+      internalID: -7722126847565341410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_15
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 92
+        width: 163
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b74005aafae10e0800000000000000
+      internalID: -2297205613890602149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 63
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46664150c30a28be0800000000000000
+      internalID: -1476441548180396444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_17
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 148
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e966877d4932449d0800000000000000
+      internalID: -2791066746885740898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_18
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 93
+        width: 163
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f112a8616985450800000000000000
+      internalID: 6077772720687357743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_19
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 52
+        width: 81
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c37c123aefabd830800000000000000
+      internalID: 4097061706421531590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_20
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 42
+        width: 61
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42230c565963efef0800000000000000
+      internalID: -72560528706227676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_21
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 92
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a47b806c1d4648e0800000000000000
+      internalID: -1709594224266349406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_22
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 117
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d5f930f5f2b2de0800000000000000
+      internalID: -1356938777592898276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 30
+        width: 105
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2181b526821a30ff0800000000000000
+      internalID: -71035974286895086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 14
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63b638d7cedc3da0800000000000000
+      internalID: -5963646856638057622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_25
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 93
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af70d7ad58b18390800000000000000
+      internalID: -7817764765751541848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88adfc67d498e74c0800000000000000
+      internalID: -4287838829411313016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dirt29_27
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 0
+        width: 134
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a715e9f2cbf664fb0800000000000000
+      internalID: -4663917510052130438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dirt29_0: -5676273016466271711
+      dirt29_1: 5053726877282009399
+      dirt29_10: -3234183127162656527
+      dirt29_11: -2857439470268537633
+      dirt29_12: -6797344732587953102
+      dirt29_13: -7675113349781771781
+      dirt29_14: -7722126847565341410
+      dirt29_15: -2297205613890602149
+      dirt29_16: -1476441548180396444
+      dirt29_17: -2791066746885740898
+      dirt29_18: 6077772720687357743
+      dirt29_19: 4097061706421531590
+      dirt29_2: 2237984260544725700
+      dirt29_20: -72560528706227676
+      dirt29_21: -1709594224266349406
+      dirt29_22: -1356938777592898276
+      dirt29_23: -71035974286895086
+      dirt29_24: -5963646856638057622
+      dirt29_25: -7817764765751541848
+      dirt29_26: -4287838829411313016
+      dirt29_27: -4663917510052130438
+      dirt29_3: -2371124183390426298
+      dirt29_4: -7846999469409961548
+      dirt29_5: 2875492736367564832
+      dirt29_6: -7069857629893623833
+      dirt29_7: 4784316244963191637
+      dirt29_8: 2596330383135260144
+      dirt29_9: 8742360535426495509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

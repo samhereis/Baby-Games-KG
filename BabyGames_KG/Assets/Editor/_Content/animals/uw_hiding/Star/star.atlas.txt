@@ -1,0 +1,181 @@
+
+star.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belki
+  rotate: false
+  xy: 288, 97
+  size: 103, 53
+  orig: 103, 53
+  offset: 0, 0
+  index: -1
+brow_grust'_L
+  rotate: false
+  xy: 344, 87
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+brow_grust'_R
+  rotate: false
+  xy: 396, 192
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+brow_neitr_L
+  rotate: false
+  xy: 318, 86
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+brow_neitr_R
+  rotate: false
+  xy: 396, 163
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 288, 152
+  size: 106, 56
+  orig: 106, 56
+  offset: 0, 0
+  index: -1
+rot_grust'
+  rotate: false
+  xy: 396, 177
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+rot_neitral
+  rotate: false
+  xy: 396, 150
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+rot_udivlenie
+  rotate: false
+  xy: 461, 98
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+rot_ulybka
+  rotate: false
+  xy: 288, 78
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+rot_ulybka-smeh
+  rotate: false
+  xy: 457, 75
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+rumyana
+  rotate: false
+  xy: 288, 210
+  size: 131, 52
+  orig: 131, 52
+  offset: 0, 0
+  index: -1
+telo
+  rotate: false
+  xy: 2, 2
+  size: 284, 260
+  orig: 284, 260
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_L
+  rotate: false
+  xy: 421, 125
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_R
+  rotate: false
+  xy: 464, 152
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+veko_prishurennye_L
+  rotate: false
+  xy: 421, 153
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+veko_prishurennye_R
+  rotate: false
+  xy: 461, 126
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+veko_prishurennye_dop_L
+  rotate: false
+  xy: 420, 82
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+veko_prishurennye_dop_R
+  rotate: false
+  xy: 420, 104
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+veko_ulybka_L
+  rotate: false
+  xy: 421, 222
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+veko_ulybka_R
+  rotate: false
+  xy: 421, 180
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+veko_zakrytye_L
+  rotate: false
+  xy: 464, 222
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+veko_zakrytye_R
+  rotate: false
+  xy: 463, 180
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+zrachok_L
+  rotate: false
+  xy: 393, 123
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+zrachok_R
+  rotate: false
+  xy: 393, 97
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1

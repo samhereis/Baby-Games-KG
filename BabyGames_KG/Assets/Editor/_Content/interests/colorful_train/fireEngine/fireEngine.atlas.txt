@@ -1,0 +1,48 @@
+
+fireEngine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fireEngine_BODY
+  rotate: false
+  xy: 2, 14
+  size: 509, 215
+  orig: 509, 215
+  offset: 0, 0
+  index: -1
+fireEngine_W_L
+  rotate: false
+  xy: 513, 133
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+water 1
+  rotate: false
+  xy: 302, 233
+  size: 309, 269
+  orig: 309, 269
+  offset: 0, 0
+  index: -1
+water 2
+  rotate: false
+  xy: 2, 231
+  size: 298, 271
+  orig: 298, 271
+  offset: 0, 0
+  index: -1
+water 3
+  rotate: false
+  xy: 613, 249
+  size: 291, 253
+  orig: 291, 253
+  offset: 0, 0
+  index: -1
+water 4
+  rotate: false
+  xy: 613, 2
+  size: 271, 245
+  orig: 271, 245
+  offset: 0, 0
+  index: -1

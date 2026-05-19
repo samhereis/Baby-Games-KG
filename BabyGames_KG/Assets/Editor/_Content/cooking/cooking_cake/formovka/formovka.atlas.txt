@@ -1,0 +1,34 @@
+
+formovka.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+formovka_b
+  rotate: false
+  xy: 2, 178
+  size: 345, 293
+  orig: 345, 293
+  offset: 0, 0
+  index: -1
+formovka_biskvit
+  rotate: false
+  xy: 2, 2
+  size: 314, 174
+  orig: 314, 174
+  offset: 0, 0
+  index: -1
+formovka_f
+  rotate: false
+  xy: 349, 215
+  size: 345, 256
+  orig: 345, 256
+  offset: 0, 0
+  index: -1
+formovka_testo
+  rotate: false
+  xy: 318, 30
+  size: 303, 146
+  orig: 303, 146
+  offset: 0, 0
+  index: -1

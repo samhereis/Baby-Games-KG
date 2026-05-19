@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Kyrgyz (ky)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Asset-Tables-Kyrgyz (ky)
+  m_GUID: 30a006860a699460b85dfa5171e1b52f
+  m_SerializeEntries:
+  - m_GUID: 8ca60cfff56c34eb894acbad7c4e8e37
+    m_Address: Categories_Sprite_ky
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ky
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: b721fdfdc08536242bf29c7e2281821d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9bd34e3cccb5446cc9c4cc3c4f271149, type: 2}
+    - {fileID: 11400000, guid: 8cb1bd4f9dbb74708af5c4f1d6f2d04f, type: 2}

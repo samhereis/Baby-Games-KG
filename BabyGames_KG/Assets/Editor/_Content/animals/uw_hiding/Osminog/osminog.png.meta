@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: eee4cc8cb1b53be4cb6af25730a390f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1025938017688972927
+    second: osminog_0
+  - first:
+      213: 4492359755846909050
+    second: osminog_1
+  - first:
+      213: -1190847361878284131
+    second: osminog_2
+  - first:
+      213: 6156018845102838532
+    second: osminog_3
+  - first:
+      213: 263438902352357180
+    second: osminog_4
+  - first:
+      213: -7874024291309575378
+    second: osminog_5
+  - first:
+      213: 3814490011874770895
+    second: osminog_6
+  - first:
+      213: -6660802009664194900
+    second: osminog_7
+  - first:
+      213: -4471458566992199374
+    second: osminog_8
+  - first:
+      213: -9104782191381337989
+    second: osminog_9
+  - first:
+      213: 5616730761702898091
+    second: osminog_10
+  - first:
+      213: 6048039087314273096
+    second: osminog_11
+  - first:
+      213: -1912807087301858750
+    second: osminog_12
+  - first:
+      213: -83982014331698989
+    second: osminog_13
+  - first:
+      213: -212406614037477177
+    second: osminog_14
+  - first:
+      213: -6308509422767073723
+    second: osminog_15
+  - first:
+      213: -4323395901759987918
+    second: osminog_16
+  - first:
+      213: 1603053768067887012
+    second: osminog_17
+  - first:
+      213: -8917334565148148882
+    second: osminog_18
+  - first:
+      213: 7224974857606848054
+    second: osminog_19
+  - first:
+      213: -9097711758788316189
+    second: osminog_20
+  - first:
+      213: -1700568936055862835
+    second: osminog_21
+  - first:
+      213: 1615782615272783323
+    second: osminog_22
+  - first:
+      213: 1740724513344676222
+    second: osminog_23
+  - first:
+      213: -4549583177464051173
+    second: osminog_24
+  - first:
+      213: 3646151319299097521
+    second: osminog_25
+  - first:
+      213: -4387891005408772207
+    second: osminog_26
+  - first:
+      213: -6772697342538828030
+    second: osminog_27
+  - first:
+      213: 7344213811040057370
+    second: osminog_28
+  - first:
+      213: 7465152664250420224
+    second: osminog_29
+  - first:
+      213: -4028237739212410892
+    second: osminog_30
+  - first:
+      213: -5102425271199061624
+    second: osminog_31
+  - first:
+      213: -7071557545837107738
+    second: osminog_32
+  - first:
+      213: 4203610934352466895
+    second: osminog_33
+  - first:
+      213: 548421503968991789
+    second: osminog_34
+  - first:
+      213: 7740859234468849187
+    second: osminog_35
+  - first:
+      213: -3794045713026888006
+    second: osminog_36
+  - first:
+      213: -883507600105678494
+    second: osminog_37
+  - first:
+      213: -8031692423973640848
+    second: osminog_38
+  - first:
+      213: -853415457331897165
+    second: osminog_39
+  - first:
+      213: -7901739848970603714
+    second: osminog_40
+  - first:
+      213: 7729897884728504703
+    second: osminog_41
+  - first:
+      213: 6249948360646926499
+    second: osminog_42
+  - first:
+      213: -3338368345046754646
+    second: osminog_43
+  - first:
+      213: -8876719097176517844
+    second: osminog_44
+  - first:
+      213: -7759364203192623343
+    second: osminog_45
+  - first:
+      213: 220791436087307198
+    second: osminog_46
+  - first:
+      213: 1552677005715039524
+    second: osminog_47
+  - first:
+      213: 5248120295948549785
+    second: osminog_48
+  - first:
+      213: 3169674667213540621
+    second: osminog_49
+  - first:
+      213: 3244706023340228291
+    second: osminog_50
+  - first:
+      213: -6221847347589646974
+    second: osminog_51
+  - first:
+      213: -8032963510973658963
+    second: osminog_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: osminog_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 468
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181941efec223c1f0800000000000000
+      internalID: -1025938017688972927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 468
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cf38a7561185e30800000000000000
+      internalID: 4492359755846909050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 468
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98a88d32a2497fe0800000000000000
+      internalID: -1190847361878284131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 468
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40317fc06829e6550800000000000000
+      internalID: 6156018845102838532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 499
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c372bb2394ce7a300800000000000000
+      internalID: 263438902352357180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 468
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2322bb10a8d9b290800000000000000
+      internalID: -7874024291309575378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 462
+        width: 145
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf321da47acfe430800000000000000
+      internalID: 3814490011874770895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 484
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f1c6dcd31093a0800000000000000
+      internalID: -6660802009664194900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 475
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2318d86cf1032f1c0800000000000000
+      internalID: -4471458566992199374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_9
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 389
+        width: 215
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78a96d06d055a180800000000000000
+      internalID: -9104782191381337989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 462
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba97f4a7ed2a2fd40800000000000000
+      internalID: 5616730761702898091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 459
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8438b0b8183fee350800000000000000
+      internalID: 6048039087314273096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_12
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 475
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ae58da6185475e0800000000000000
+      internalID: -1912807087301858750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 473
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0cc3c8dc2a5def0800000000000000
+      internalID: -83982014331698989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 473
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c84a565f416d0df0800000000000000
+      internalID: -212406614037477177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_15
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 473
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54693c99a1ca378a0800000000000000
+      internalID: -6308509422767073723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_16
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 412
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f573c65563004c0800000000000000
+      internalID: -4323395901759987918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_17
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 412
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afa981a8e03f3610800000000000000
+      internalID: 1603053768067887012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_18
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 296
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b380585734f3480800000000000000
+      internalID: -8917334565148148882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 259
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ed8ca7a54444460800000000000000
+      internalID: 7224974857606848054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 431
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3378c6b5f6eb180800000000000000
+      internalID: -9097711758788316189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 418
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9835a009d5668e0800000000000000
+      internalID: -1700568936055862835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 418
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddf5915ab96c6610800000000000000
+      internalID: 1615782615272783323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_23
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 443
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7169bdd8bb482810800000000000000
+      internalID: 1740724513344676222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_24
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 443
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a892f6432acd0c0800000000000000
+      internalID: -4549583177464051173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_25
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 443
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b305288e4bb99230800000000000000
+      internalID: 3646151319299097521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_26
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 440
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f7a7de0641b13c0800000000000000
+      internalID: -4387891005408772207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_27
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 455
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207bdb676ab8202a0800000000000000
+      internalID: -6772697342538828030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 455
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a187f81cc83ebe560800000000000000
+      internalID: 7344213811040057370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_29
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 441
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c05bacbcc899760800000000000000
+      internalID: 7465152664250420224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 315
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffeb636e13d818c0800000000000000
+      internalID: -4028237739212410892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 183
+        width: 298
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8892439ef3b8039b0800000000000000
+      internalID: -5102425271199061624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 418
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e565a7f0e7ccdd90800000000000000
+      internalID: -7071557545837107738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_33
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 418
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3d6048fd9365a30800000000000000
+      internalID: 4203610934352466895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_34
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 418
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ad143c3726c9700800000000000000
+      internalID: 548421503968991789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_35
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 418
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32661def57e0d6b60800000000000000
+      internalID: 7740859234468849187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_36
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 418
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe40759687d85bc0800000000000000
+      internalID: -3794045713026888006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_37
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 322
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269d75bc4862db3f0800000000000000
+      internalID: -883507600105678494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_38
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 135
+        width: 283
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075eadb4b42b98090800000000000000
+      internalID: -8031692423973640848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_39
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 322
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc97e3c92f0824f0800000000000000
+      internalID: -853415457331897165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_40
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 322
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33fe8af871675290800000000000000
+      internalID: -7901739848970603714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_41
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 322
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f713941eb2d164b60800000000000000
+      internalID: 7729897884728504703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_42
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 298
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a025ec9be64cb650800000000000000
+      internalID: 6249948360646926499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_43
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 194
+        width: 115
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa54187dabbba1d0800000000000000
+      internalID: -3338368345046754646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_44
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c231ed1130f8fc480800000000000000
+      internalID: -8876719097176517844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_45
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 131
+        width: 221
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f52d93e53315490800000000000000
+      internalID: -7759364203192623343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_46
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 234
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbae6d24a8601300800000000000000
+      internalID: 220791436087307198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 464
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425ef80a2873c8510800000000000000
+      internalID: 1552677005715039524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_48
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 135
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ef78a7a9115d840800000000000000
+      internalID: 5248120295948549785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_49
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 200
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d41d0f052fcfb20800000000000000
+      internalID: 3169674667213540621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_50
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ceb3c1efe2870d20800000000000000
+      internalID: 3244706023340228291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_51
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1
+        width: 200
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28576385dce87a9a0800000000000000
+      internalID: -6221847347589646974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: osminog_52
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1
+        width: 200
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da88dba4f3e258090800000000000000
+      internalID: -8032963510973658963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      osminog_0: -1025938017688972927
+      osminog_1: 4492359755846909050
+      osminog_10: 5616730761702898091
+      osminog_11: 6048039087314273096
+      osminog_12: -1912807087301858750
+      osminog_13: -83982014331698989
+      osminog_14: -212406614037477177
+      osminog_15: -6308509422767073723
+      osminog_16: -4323395901759987918
+      osminog_17: 1603053768067887012
+      osminog_18: -8917334565148148882
+      osminog_19: 7224974857606848054
+      osminog_2: -1190847361878284131
+      osminog_20: -9097711758788316189
+      osminog_21: -1700568936055862835
+      osminog_22: 1615782615272783323
+      osminog_23: 1740724513344676222
+      osminog_24: -4549583177464051173
+      osminog_25: 3646151319299097521
+      osminog_26: -4387891005408772207
+      osminog_27: -6772697342538828030
+      osminog_28: 7344213811040057370
+      osminog_29: 7465152664250420224
+      osminog_3: 6156018845102838532
+      osminog_30: -4028237739212410892
+      osminog_31: -5102425271199061624
+      osminog_32: -7071557545837107738
+      osminog_33: 4203610934352466895
+      osminog_34: 548421503968991789
+      osminog_35: 7740859234468849187
+      osminog_36: -3794045713026888006
+      osminog_37: -883507600105678494
+      osminog_38: -8031692423973640848
+      osminog_39: -853415457331897165
+      osminog_4: 263438902352357180
+      osminog_40: -7901739848970603714
+      osminog_41: 7729897884728504703
+      osminog_42: 6249948360646926499
+      osminog_43: -3338368345046754646
+      osminog_44: -8876719097176517844
+      osminog_45: -7759364203192623343
+      osminog_46: 220791436087307198
+      osminog_47: 1552677005715039524
+      osminog_48: 5248120295948549785
+      osminog_49: 3169674667213540621
+      osminog_5: -7874024291309575378
+      osminog_50: 3244706023340228291
+      osminog_51: -6221847347589646974
+      osminog_52: -8032963510973658963
+      osminog_6: 3814490011874770895
+      osminog_7: -6660802009664194900
+      osminog_8: -4471458566992199374
+      osminog_9: -9104782191381337989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

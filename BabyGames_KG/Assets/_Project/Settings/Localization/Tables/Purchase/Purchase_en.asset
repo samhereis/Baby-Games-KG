@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Purchase_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e8ab013b3b573b94eaade5570b42eb25, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7385784070351880239
+  m_TableData:
+  - m_Id: 22
+    m_Localized: FULL ACCESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Localized: UNLOCK FULL VERSION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62
+    m_Localized: Lifetime access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64
+    m_Localized: UNLOCK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Localized: RESTORE SUBSCRIPTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66
+    m_Localized: Privacy policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Localized: Terms of use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Localized: Regular Updates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Localized: Ad-free and kids-safe content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109
+    m_Localized: Safe and diverse content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110
+    m_Localized: Available in 39 languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111
+    m_Localized: More than 50 games and Nursery Rhymes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112
+    m_Localized: Learning through play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113
+    m_Localized: Works without internet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114
+    m_Localized: Development of fine motor skills
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115
+    m_Localized: Development of child logic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116
+    m_Localized: Full access by subscription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117
+    m_Localized: Bright animation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118
+    m_Localized: Regular updates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119
+    m_Localized: Created for children 1.5-4 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120
+    m_Localized: Professional children's content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121
+    m_Localized: Your subscription will end soon.
+    m_Metadata:
+      m_Items:
+      - rid: 7385784070351880239
+  - m_Id: 122
+    m_Localized: '{data.expData} your subscription will end. To ensure your child
+      can continue playing and developing, please renew in your personal account.'
+    m_Metadata:
+      m_Items:
+      - rid: 7385784070351880239
+  - m_Id: 123
+    m_Localized: Your subscription has ended
+    m_Metadata:
+      m_Items:
+      - rid: 7385784070351880239
+  - m_Id: 124
+    m_Localized: 'End date:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125
+    m_Localized: Renewing your subscription will allow your child to continue playing
+      and developing. Please go to your personal account to renew.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126
+    m_Localized: Prolong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127
+    m_Localized: yearly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128
+    m_Localized: monthly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46323289604956160
+    m_Localized: FULL ACCESS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68075474754985984
+    m_Localized: SAVE {data.yearlySave}
+    m_Metadata:
+      m_Items:
+      - rid: 7385784070351880239
+  - m_Id: 68075474771763200
+    m_Localized: '{data.priceYearly} / year'
+    m_Metadata:
+      m_Items:
+      - rid: 7385784070351880239
+  - m_Id: 68075474775957504
+    m_Localized: '{data.priceMonthly} / month'
+    m_Metadata:
+      m_Items:
+      - rid: 7385784070351880239
+  - m_Id: 68075474775957505
+    m_Localized: 7 days free trial, then
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68075474775957506
+    m_Localized: 3-day free trial, then
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7385784070351880239
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 68075474775957504
+        - id: 68075474771763200
+        - id: 68075474754985984
+        - id: 121
+        - id: 123
+        - id: 122

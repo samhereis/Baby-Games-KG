@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 70ad0f216fa5499793e06998613a4133
+timeCreated: 1688923970
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260186
+  packageName: UI Spline Renderer
+  packageVersion: 1.16
+  assetPath: Assets/UI Spline Renderer/Runtime/Scripts/InternalUtility.cs
+  uploadId: 838278

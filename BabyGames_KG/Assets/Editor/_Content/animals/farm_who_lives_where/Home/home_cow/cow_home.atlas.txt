@@ -1,0 +1,27 @@
+
+cow_home.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cow_door
+  rotate: false
+  xy: 1454, 62
+  size: 116, 212
+  orig: 116, 212
+  offset: 0, 0
+  index: -1
+cow_home1
+  rotate: false
+  xy: 2, 2
+  size: 1450, 503
+  orig: 1450, 503
+  offset: 0, 0
+  index: -1
+cow_melnica
+  rotate: false
+  xy: 1454, 276
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1

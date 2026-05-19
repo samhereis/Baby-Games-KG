@@ -1,0 +1,41 @@
+
+candel.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candel_1
+  rotate: false
+  xy: 2, 12
+  size: 35, 143
+  orig: 35, 143
+  offset: 0, 0
+  index: -1
+candel_2
+  rotate: false
+  xy: 39, 12
+  size: 35, 143
+  orig: 35, 143
+  offset: 0, 0
+  index: -1
+candel_3
+  rotate: false
+  xy: 167, 12
+  size: 35, 143
+  orig: 35, 143
+  offset: 0, 0
+  index: -1
+candel_fair
+  rotate: false
+  xy: 76, 2
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+candel_light
+  rotate: false
+  xy: 76, 53
+  size: 89, 102
+  orig: 89, 102
+  offset: 0, 0
+  index: -1

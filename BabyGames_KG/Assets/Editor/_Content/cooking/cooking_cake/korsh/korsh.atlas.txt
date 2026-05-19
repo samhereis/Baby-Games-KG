@@ -1,0 +1,83 @@
+
+korsh.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glaze_belyi
+  rotate: false
+  xy: 950, 490
+  size: 476, 311
+  orig: 476, 311
+  offset: 0, 0
+  index: -1
+glaze_belyi_line
+  rotate: false
+  xy: 603, 937
+  size: 456, 65
+  orig: 456, 65
+  offset: 0, 0
+  index: -1
+glaze_chokolate
+  rotate: false
+  xy: 950, 177
+  size: 476, 311
+  orig: 476, 311
+  offset: 0, 0
+  index: -1
+glaze_chokolate_line
+  rotate: false
+  xy: 603, 870
+  size: 456, 65
+  orig: 456, 65
+  offset: 0, 0
+  index: -1
+glaze_klubnichnyi
+  rotate: false
+  xy: 1428, 691
+  size: 476, 311
+  orig: 476, 311
+  offset: 0, 0
+  index: -1
+glaze_klubnichnyi_line
+  rotate: false
+  xy: 603, 803
+  size: 456, 65
+  orig: 456, 65
+  offset: 0, 0
+  index: -1
+korsh
+  rotate: false
+  xy: 2, 348
+  size: 472, 344
+  orig: 472, 344
+  offset: 0, 0
+  index: -1
+krema_chokolate
+  rotate: false
+  xy: 2, 2
+  size: 472, 344
+  orig: 472, 344
+  offset: 0, 0
+  index: -1
+krema_klubnichnyi
+  rotate: false
+  xy: 476, 348
+  size: 472, 344
+  orig: 472, 344
+  offset: 0, 0
+  index: -1
+krema_slivochnyi
+  rotate: false
+  xy: 476, 2
+  size: 472, 344
+  orig: 472, 344
+  offset: 0, 0
+  index: -1
+podnos
+  rotate: false
+  xy: 2, 694
+  size: 599, 308
+  orig: 599, 308
+  offset: 0, 0
+  index: -1

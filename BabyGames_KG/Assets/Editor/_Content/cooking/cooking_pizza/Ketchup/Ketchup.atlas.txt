@@ -1,0 +1,34 @@
+
+Ketchup.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sous_Ketchup
+  rotate: false
+  xy: 2, 183
+  size: 233, 461
+  orig: 233, 461
+  offset: 0, 0
+  index: -1
+sous_Ketchup_Krihka
+  rotate: false
+  xy: 340, 2
+  size: 93, 45
+  orig: 93, 45
+  offset: 0, 0
+  index: -1
+sous_Ketchup_Water
+  rotate: false
+  xy: 237, 14
+  size: 101, 630
+  orig: 101, 630
+  offset: 0, 0
+  index: -1
+sous_Ketchup_Water2
+  rotate: false
+  xy: 340, 49
+  size: 92, 595
+  orig: 92, 595
+  offset: 0, 0
+  index: -1

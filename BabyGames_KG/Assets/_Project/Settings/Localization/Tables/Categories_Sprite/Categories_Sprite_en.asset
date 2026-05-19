@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: Categories_Sprite_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 97a753d4eca5de745bb4485697039bc1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 31842836480
+    m_Localized: '0b51aff1460e30d44ab010d3665cbf41[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1324007235584
+    m_Localized: '5d717c76d469c9f4080c704c2da225c8[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049357876666368
+    m_Localized: '9ffd65ce11b07f7469bc6f718329b130[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4013720338112512
+    m_Localized: 'af4dfcc031039244bb44d0e225401894[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4302309441609728
+    m_Localized: '1f2098e02d2c6f14bab3bec5257636d5[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7245401958326272
+    m_Localized: '15b8a38e270153c4f9848dd3d174276b[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7256160683630592
+    m_Localized: '9ead06ab3056fbe4484e2097d9435182[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261000050614272
+    m_Localized: '996e73700facdda489bb8de4c2eca4c2[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7263215955943424
+    m_Localized: '186b6cbfa5b3d9f49a89d65b00a21985[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7265452493053952
+    m_Localized: '745cbbc86b7ec0b4bb1051fefb944e07[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7266890690535424
+    m_Localized: '63b88be3c15e15c45aafc10aff1741b0[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270342023913472
+    m_Localized: 'cb482f80029747f44a5c483801226a8e[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270297706897408
+    m_Localized: '5392843221f635842a57d0e9c6c4f31c[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270349586243584
+    m_Localized: 'ae39355bdb72adc49b3c2e67c33db6a7[BirthdayParty_English(en)_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270390145163264
+    m_Localized: '055c1567c6c4fcd44b7c980e77bcc3b0[BirthdayParty_English(en)_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270369416912896
+    m_Localized: '9479171338bb06d4887b9f00ede0f12d[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11954278960406528
+    m_Localized: '0726c181e47bbc64786bbb538839ec68[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270416565084160
+    m_Localized: '271e1c88314122e42a8361571e321d60[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11997818146988032
+    m_Localized: '90af30f83c1cf5b4eb4f56417b33f06f[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12056890400825344
+    m_Localized: '62842e449ca9e468ca690eda78c07895[BirthdayParty_English(en)]'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

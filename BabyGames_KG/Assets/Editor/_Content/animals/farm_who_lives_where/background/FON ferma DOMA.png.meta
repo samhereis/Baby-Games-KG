@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: d82ee0f404e5d0b409705e07bd9d0dc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2681894861936438803
+    second: FON ferma DOMA_0
+  - first:
+      213: 7396890840609664894
+    second: FON ferma DOMA_1
+  - first:
+      213: 954369464643792844
+    second: FON ferma DOMA_2
+  - first:
+      213: -773516028666080210
+    second: FON ferma DOMA_3
+  - first:
+      213: 2828452900397656063
+    second: FON ferma DOMA_4
+  - first:
+      213: 6024393673532594931
+    second: FON ferma DOMA_5
+  - first:
+      213: 2454265468821030106
+    second: FON ferma DOMA_6
+  - first:
+      213: 6660274822141639493
+    second: FON ferma DOMA_7
+  - first:
+      213: 4784901160461794892
+    second: FON ferma DOMA_8
+  - first:
+      213: -612582625064362904
+    second: FON ferma DOMA_9
+  - first:
+      213: -8163567083015993709
+    second: FON ferma DOMA_10
+  - first:
+      213: -2906087173163406910
+    second: FON ferma DOMA_11
+  - first:
+      213: -7017139514354988261
+    second: FON ferma DOMA_12
+  - first:
+      213: 8803870879552227472
+    second: FON ferma DOMA_13
+  - first:
+      213: 6728230180750397989
+    second: FON ferma DOMA_14
+  - first:
+      213: -6767740375466427628
+    second: FON ferma DOMA_15
+  - first:
+      213: -1706945773641023825
+    second: FON ferma DOMA_16
+  - first:
+      213: -3064488471333716749
+    second: FON ferma DOMA_17
+  - first:
+      213: 7921120720979578965
+    second: FON ferma DOMA_18
+  - first:
+      213: 4663793568265299325
+    second: FON ferma DOMA_19
+  - first:
+      213: -6713635620946051229
+    second: FON ferma DOMA_20
+  - first:
+      213: 5582925028527200148
+    second: FON ferma DOMA_21
+  - first:
+      213: -7190594750165831473
+    second: FON ferma DOMA_22
+  - first:
+      213: -2527557825914170639
+    second: FON ferma DOMA_23
+  - first:
+      213: 8661014157678549475
+    second: FON ferma DOMA_24
+  - first:
+      213: 7889832210566744680
+    second: FON ferma DOMA_25
+  - first:
+      213: 3291424905202495020
+    second: FON ferma DOMA_26
+  - first:
+      213: 6958460867731524137
+    second: FON ferma DOMA_27
+  - first:
+      213: -6687223492615534443
+    second: FON ferma DOMA_28
+  - first:
+      213: -2197316627613625725
+    second: FON ferma DOMA_29
+  - first:
+      213: 4394799241915616757
+    second: FON ferma DOMA_30
+  - first:
+      213: 2824437793146539696
+    second: FON ferma DOMA_31
+  - first:
+      213: 7692695642030601368
+    second: FON ferma DOMA_32
+  - first:
+      213: -957677155093365411
+    second: FON ferma DOMA_33
+  - first:
+      213: 780710437333947659
+    second: FON ferma DOMA_34
+  - first:
+      213: 3132252860125624696
+    second: FON ferma DOMA_35
+  - first:
+      213: -4742638043500470765
+    second: FON ferma DOMA_36
+  - first:
+      213: 5134318639348764770
+    second: FON ferma DOMA_37
+  - first:
+      213: 4462099250259507565
+    second: FON ferma DOMA_38
+  - first:
+      213: 5282805785168894746
+    second: FON ferma DOMA_39
+  - first:
+      213: 5518040118075763457
+    second: FON ferma DOMA_40
+  - first:
+      213: 4331962586080340756
+    second: FON ferma DOMA_41
+  - first:
+      213: -7876822799595195465
+    second: FON ferma DOMA_42
+  - first:
+      213: -8939981846012849290
+    second: FON ferma DOMA_43
+  - first:
+      213: -5543750222875776413
+    second: FON ferma DOMA_44
+  - first:
+      213: -3458429590545891986
+    second: FON ferma DOMA_45
+  - first:
+      213: 915518913747430576
+    second: FON ferma DOMA_46
+  - first:
+      213: -7184678560957653237
+    second: FON ferma DOMA_47
+  - first:
+      213: -8337869097161389342
+    second: FON ferma DOMA_48
+  - first:
+      213: -2733609665474088915
+    second: FON ferma DOMA_49
+  - first:
+      213: -6663978494588137691
+    second: FON ferma DOMA_50
+  - first:
+      213: -3820693845297896742
+    second: FON ferma DOMA_51
+  - first:
+      213: 7231066732357711235
+    second: FON ferma DOMA_52
+  - first:
+      213: 4637995532572423829
+    second: FON ferma DOMA_53
+  - first:
+      213: -8857521002072736864
+    second: FON ferma DOMA_54
+  - first:
+      213: -5408427536820541834
+    second: FON ferma DOMA_55
+  - first:
+      213: 8397881956028771825
+    second: FON ferma DOMA_56
+  - first:
+      213: 4057496815455182020
+    second: FON ferma DOMA_57
+  - first:
+      213: 7361594674806008718
+    second: FON ferma DOMA_58
+  - first:
+      213: -6032168820929625973
+    second: FON ferma DOMA_59
+  - first:
+      213: -452267279493481705
+    second: FON ferma DOMA_60
+  - first:
+      213: -3041519216478796928
+    second: FON ferma DOMA_61
+  - first:
+      213: -5557194700680745514
+    second: FON ferma DOMA_62
+  - first:
+      213: 7126297895421702802
+    second: FON ferma DOMA_63
+  - first:
+      213: 6659078070300532766
+    second: FON ferma DOMA_64
+  - first:
+      213: -2389302457250702888
+    second: FON ferma DOMA_65
+  - first:
+      213: 6442164603375325373
+    second: FON ferma DOMA_66
+  - first:
+      213: 2329791469202743146
+    second: FON ferma DOMA_67
+  - first:
+      213: -1737341502593160365
+    second: FON ferma DOMA_68
+  - first:
+      213: -7747941151855894244
+    second: FON ferma DOMA_69
+  - first:
+      213: 3423316148612790798
+    second: FON ferma DOMA_70
+  - first:
+      213: -5571563715444436397
+    second: FON ferma DOMA_71
+  - first:
+      213: 3092193852463291159
+    second: FON ferma DOMA_72
+  - first:
+      213: -6677884139996920583
+    second: FON ferma DOMA_73
+  - first:
+      213: 7881372555464274835
+    second: FON ferma DOMA_74
+  - first:
+      213: -6753769375339185982
+    second: FON ferma DOMA_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FON ferma DOMA_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1695
+        width: 1036
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1555515def7cad0800000000000000
+      internalID: -2681894861936438803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1299
+        width: 1085
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f21e4770907a660800000000000000
+      internalID: 7396890840609664894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_2
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1315
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfa29cb8f99e3d00800000000000000
+      internalID: 954369464643792844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_3
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1329
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24994b254be345f0800000000000000
+      internalID: -773516028666080210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1326
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff720285deea04720800000000000000
+      internalID: 2828452900397656063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_5
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1300
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa5502a022fa9350800000000000000
+      internalID: 6024393673532594931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_6
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1318
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4c59dc07d4f0220800000000000000
+      internalID: 2454265468821030106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_7
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1305
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bfa30c9ac0e6c50800000000000000
+      internalID: 6660274822141639493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_8
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1290
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4efda20142676240800000000000000
+      internalID: 4784901160461794892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_9
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1285
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c567d195baf77f0800000000000000
+      internalID: -612582625064362904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_10
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1264
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39682cc8dfe25be80800000000000000
+      internalID: -8163567083015993709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_11
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1250
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9a645fc118ba7d0800000000000000
+      internalID: -2906087173163406910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_12
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1257
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b83834acc1e9e90800000000000000
+      internalID: -7017139514354988261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_13
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1184
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098cd188be1ad2a70800000000000000
+      internalID: 8803870879552227472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_14
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1208
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52290b2a3b97f5d50800000000000000
+      internalID: 6728230180750397989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_15
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1180
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b314c4cf72412a0800000000000000
+      internalID: -6767740375466427628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_16
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1130
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faeb547dcd5bf48e0800000000000000
+      internalID: -1706945773641023825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_17
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1171
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcbfdfb8ffb875d0800000000000000
+      internalID: -3064488471333716749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_18
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1158
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55059fce3597ded60800000000000000
+      internalID: 7921120720979578965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_19
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 854
+        width: 783
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75643e5a8f19b040800000000000000
+      internalID: 4663793568265299325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_20
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1118
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ff91e19ff54d2a0800000000000000
+      internalID: -6713635620946051229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 718
+        width: 901
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497500ddbb88a7d40800000000000000
+      internalID: 5582925028527200148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 495
+        width: 907
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0b3901c20e53c90800000000000000
+      internalID: -7190594750165831473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_23
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 621
+        width: 1106
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f290258c8f4cecd0800000000000000
+      internalID: -2527557825914170639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_24
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 554
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e91f070d7a123870800000000000000
+      internalID: 8661014157678549475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_25
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 568
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a0448e7905e7d60800000000000000
+      internalID: 7889832210566744680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_26
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 562
+        width: 85
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ee777338d7dad20800000000000000
+      internalID: 3291424905202495020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_27
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 594
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a089caa4b619060800000000000000
+      internalID: 6958460867731524137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 580
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5980105f9a53233a0800000000000000
+      internalID: -6687223492615534443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_29
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 529
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382d7084b209181e0800000000000000
+      internalID: -2197316627613625725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_30
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 549
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd498930a67dfc30800000000000000
+      internalID: 4394799241915616757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_31
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 505
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be00b6553b623720800000000000000
+      internalID: 2824437793146539696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_32
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 474
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894fd64cde1f1ca60800000000000000
+      internalID: 7692695642030601368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_33
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 521
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d372193b5a5b2f0800000000000000
+      internalID: -957677155093365411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_34
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 446
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05dab1a104a5da00800000000000000
+      internalID: 780710437333947659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_35
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 460
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8793d72816ff77b20800000000000000
+      internalID: 3132252860125624696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_36
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 482
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e96e6b3d3ce2eb0800000000000000
+      internalID: -4742638043500470765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_37
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 463
+        width: 133
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260dc068993c04740800000000000000
+      internalID: 5134318639348764770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_38
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 453
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69314c70af8ced30800000000000000
+      internalID: 4462099250259507565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 284
+        width: 496
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bde524fdb405940800000000000000
+      internalID: 5282805785168894746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 415
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ba2466044049c40800000000000000
+      internalID: 5518040118075763457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_41
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 386
+        width: 149
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41be99335093e1c30800000000000000
+      internalID: 4331962586080340756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_42
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 442
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b33e6f9567efa290800000000000000
+      internalID: -7876822799595195465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_43
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 412
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67396f980edcee380800000000000000
+      internalID: -8939981846012849290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_44
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 416
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a2ff95b84a013b0800000000000000
+      internalID: -5543750222875776413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_45
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 420
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dffc66c903100d0800000000000000
+      internalID: -3458429590545891986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_46
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 441
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc2117f99394bc00800000000000000
+      internalID: 915518913747430576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_47
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 438
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f11c43ae4ea4c90800000000000000
+      internalID: -7184678560957653237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 197
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea0df76b30f94c80800000000000000
+      internalID: -8337869097161389342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_49
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 400
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20b7d61e74401ad0800000000000000
+      internalID: -2733609665474088915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_50
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 434
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f4b3fcddac483a0800000000000000
+      internalID: -6663978494588137691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_51
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 184
+        width: 124
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad26f7bc03b2afac0800000000000000
+      internalID: -3820693845297896742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_52
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 376
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385735991e8e95460800000000000000
+      internalID: 7231066732357711235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_53
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 393
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596f3dc1d587d5040800000000000000
+      internalID: 4637995532572423829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_54
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 405
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab74e8e393c31580800000000000000
+      internalID: -8857521002072736864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_55
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 351
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676ee527fc761f4b0800000000000000
+      internalID: -5408427536820541834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_56
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 368
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fde1c625254b8470800000000000000
+      internalID: 8397881956028771825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_57
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 347
+        width: 86
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc1c7a2bdf1f4830800000000000000
+      internalID: 4057496815455182020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_58
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 339
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b28347a53a92660800000000000000
+      internalID: 7361594674806008718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_59
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 184
+        width: 452
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b808d4bca6e694ca0800000000000000
+      internalID: -6032168820929625973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_60
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 314
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b32463e4939b9f0800000000000000
+      internalID: -452267279493481705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_61
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 184
+        width: 396
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083c144236a5ac5d0800000000000000
+      internalID: -3041519216478796928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 231
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddad3eecd0e0e2b0800000000000000
+      internalID: -5557194700680745514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_63
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 173
+        width: 319
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292793cdd22b5e260800000000000000
+      internalID: 7126297895421702802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_64
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 175
+        width: 363
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e106bdf393cc96c50800000000000000
+      internalID: 6659078070300532766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_65
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 176
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d99a9ef21e77ded0800000000000000
+      internalID: -2389302457250702888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_66
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 103
+        width: 132
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db018c0239a276950800000000000000
+      internalID: 6442164603375325373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_67
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 103
+        width: 444
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f909a5ff4155020800000000000000
+      internalID: 2329791469202743146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_68
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 103
+        width: 352
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b2464bb19b3e7e0800000000000000
+      internalID: -1737341502593160365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11affe9298c97490800000000000000
+      internalID: -7747941151855894244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 103
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a7cef46ef028f20800000000000000
+      internalID: 3423316148612790798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_71
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 103
+        width: 142
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3529a79f154dda2b0800000000000000
+      internalID: -5571563715444436397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_72
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 103
+        width: 211
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b98b8fceda9ea20800000000000000
+      internalID: 3092193852463291159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_73
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 104
+        width: 139
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c44071c36353a0800000000000000
+      internalID: -6677884139996920583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_74
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 103
+        width: 231
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393f5f6f492406d60800000000000000
+      internalID: 7881372555464274835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON ferma DOMA_75
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 103
+        width: 148
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8feff398ac542a0800000000000000
+      internalID: -6753769375339185982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FON ferma DOMA_0: -2681894861936438803
+      FON ferma DOMA_1: 7396890840609664894
+      FON ferma DOMA_10: -8163567083015993709
+      FON ferma DOMA_11: -2906087173163406910
+      FON ferma DOMA_12: -7017139514354988261
+      FON ferma DOMA_13: 8803870879552227472
+      FON ferma DOMA_14: 6728230180750397989
+      FON ferma DOMA_15: -6767740375466427628
+      FON ferma DOMA_16: -1706945773641023825
+      FON ferma DOMA_17: -3064488471333716749
+      FON ferma DOMA_18: 7921120720979578965
+      FON ferma DOMA_19: 4663793568265299325
+      FON ferma DOMA_2: 954369464643792844
+      FON ferma DOMA_20: -6713635620946051229
+      FON ferma DOMA_21: 5582925028527200148
+      FON ferma DOMA_22: -7190594750165831473
+      FON ferma DOMA_23: -2527557825914170639
+      FON ferma DOMA_24: 8661014157678549475
+      FON ferma DOMA_25: 7889832210566744680
+      FON ferma DOMA_26: 3291424905202495020
+      FON ferma DOMA_27: 6958460867731524137
+      FON ferma DOMA_28: -6687223492615534443
+      FON ferma DOMA_29: -2197316627613625725
+      FON ferma DOMA_3: -773516028666080210
+      FON ferma DOMA_30: 4394799241915616757
+      FON ferma DOMA_31: 2824437793146539696
+      FON ferma DOMA_32: 7692695642030601368
+      FON ferma DOMA_33: -957677155093365411
+      FON ferma DOMA_34: 780710437333947659
+      FON ferma DOMA_35: 3132252860125624696
+      FON ferma DOMA_36: -4742638043500470765
+      FON ferma DOMA_37: 5134318639348764770
+      FON ferma DOMA_38: 4462099250259507565
+      FON ferma DOMA_39: 5282805785168894746
+      FON ferma DOMA_4: 2828452900397656063
+      FON ferma DOMA_40: 5518040118075763457
+      FON ferma DOMA_41: 4331962586080340756
+      FON ferma DOMA_42: -7876822799595195465
+      FON ferma DOMA_43: -8939981846012849290
+      FON ferma DOMA_44: -5543750222875776413
+      FON ferma DOMA_45: -3458429590545891986
+      FON ferma DOMA_46: 915518913747430576
+      FON ferma DOMA_47: -7184678560957653237
+      FON ferma DOMA_48: -8337869097161389342
+      FON ferma DOMA_49: -2733609665474088915
+      FON ferma DOMA_5: 6024393673532594931
+      FON ferma DOMA_50: -6663978494588137691
+      FON ferma DOMA_51: -3820693845297896742
+      FON ferma DOMA_52: 7231066732357711235
+      FON ferma DOMA_53: 4637995532572423829
+      FON ferma DOMA_54: -8857521002072736864
+      FON ferma DOMA_55: -5408427536820541834
+      FON ferma DOMA_56: 8397881956028771825
+      FON ferma DOMA_57: 4057496815455182020
+      FON ferma DOMA_58: 7361594674806008718
+      FON ferma DOMA_59: -6032168820929625973
+      FON ferma DOMA_6: 2454265468821030106
+      FON ferma DOMA_60: -452267279493481705
+      FON ferma DOMA_61: -3041519216478796928
+      FON ferma DOMA_62: -5557194700680745514
+      FON ferma DOMA_63: 7126297895421702802
+      FON ferma DOMA_64: 6659078070300532766
+      FON ferma DOMA_65: -2389302457250702888
+      FON ferma DOMA_66: 6442164603375325373
+      FON ferma DOMA_67: 2329791469202743146
+      FON ferma DOMA_68: -1737341502593160365
+      FON ferma DOMA_69: -7747941151855894244
+      FON ferma DOMA_7: 6660274822141639493
+      FON ferma DOMA_70: 3423316148612790798
+      FON ferma DOMA_71: -5571563715444436397
+      FON ferma DOMA_72: 3092193852463291159
+      FON ferma DOMA_73: -6677884139996920583
+      FON ferma DOMA_74: 7881372555464274835
+      FON ferma DOMA_75: -6753769375339185982
+      FON ferma DOMA_8: 4784901160461794892
+      FON ferma DOMA_9: -612582625064362904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

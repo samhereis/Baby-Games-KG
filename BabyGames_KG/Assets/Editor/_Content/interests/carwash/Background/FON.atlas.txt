@@ -1,0 +1,404 @@
+
+FON.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bus_dirt_L
+  rotate: false
+  xy: 199, 1640
+  size: 143, 109
+  orig: 143, 109
+  offset: 0, 0
+  index: -1
+bus_dirt_R
+  rotate: false
+  xy: 711, 1729
+  size: 143, 80
+  orig: 143, 80
+  offset: 0, 0
+  index: -1
+bus_mini
+  rotate: false
+  xy: 217, 1751
+  size: 156, 58
+  orig: 156, 58
+  offset: 0, 0
+  index: -1
+bus_wheel L
+  rotate: false
+  xy: 418, 1476
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+bus_wheel R
+  rotate: false
+  xy: 563, 1476
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+bus_window
+  rotate: false
+  xy: 2, 980
+  size: 1276, 217
+  orig: 1276, 217
+  offset: 0, 0
+  index: -1
+excavator
+  rotate: false
+  xy: 1125, 444
+  size: 455, 416
+  orig: 455, 416
+  offset: 0, 0
+  index: -1
+excavator_arm1
+  rotate: false
+  xy: 878, 1220
+  size: 120, 228
+  orig: 120, 228
+  offset: 0, 0
+  index: -1
+excavator_arm2
+  rotate: false
+  xy: 1414, 1587
+  size: 123, 127
+  orig: 123, 127
+  offset: 0, 0
+  index: -1
+excavator_arm3
+  rotate: false
+  xy: 1539, 1586
+  size: 227, 126
+  orig: 227, 126
+  offset: 0, 0
+  index: -1
+excavator_arm4
+  rotate: false
+  xy: 1951, 1271
+  size: 90, 324
+  orig: 90, 324
+  offset: 0, 0
+  index: -1
+excavator_arm5
+  rotate: false
+  xy: 1615, 1714
+  size: 225, 95
+  orig: 225, 95
+  offset: 0, 0
+  index: -1
+excavator_arm6
+  rotate: false
+  xy: 1974, 1597
+  size: 27, 212
+  orig: 27, 212
+  offset: 0, 0
+  index: -1
+excavator_arm7
+  rotate: false
+  xy: 375, 1748
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+excavator_bucket
+  rotate: false
+  xy: 1567, 1405
+  size: 172, 179
+  orig: 172, 179
+  offset: 0, 0
+  index: -1
+excavator_dirt_L
+  rotate: false
+  xy: 880, 1450
+  size: 170, 169
+  orig: 170, 169
+  offset: 0, 0
+  index: -1
+excavator_dirt_R
+  rotate: false
+  xy: 1396, 1413
+  size: 169, 171
+  orig: 169, 171
+  offset: 0, 0
+  index: -1
+excavator_dirt_kuzov
+  rotate: false
+  xy: 1579, 862
+  size: 380, 407
+  orig: 380, 407
+  offset: 0, 0
+  index: -1
+excavator_dirt_ruka1
+  rotate: false
+  xy: 115, 1646
+  size: 82, 104
+  orig: 82, 104
+  offset: 0, 0
+  index: -1
+excavator_dirt_ruka2
+  rotate: false
+  xy: 2, 1650
+  size: 111, 100
+  orig: 111, 100
+  offset: 0, 0
+  index: -1
+excavator_dirt_ruka3
+  rotate: false
+  xy: 927, 1717
+  size: 139, 92
+  orig: 139, 92
+  offset: 0, 0
+  index: -1
+excavator_dirt_ruka4
+  rotate: false
+  xy: 856, 1728
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+excavator_dirt_ruka5
+  rotate: false
+  xy: 708, 1472
+  size: 170, 147
+  orig: 170, 147
+  offset: 0, 0
+  index: -1
+excavator_grid
+  rotate: false
+  xy: 1068, 1717
+  size: 113, 92
+  orig: 113, 92
+  offset: 0, 0
+  index: -1
+excavator_ladder
+  rotate: false
+  xy: 344, 1633
+  size: 77, 113
+  orig: 77, 113
+  offset: 0, 0
+  index: -1
+excavator_mini
+  rotate: false
+  xy: 1842, 1711
+  size: 130, 98
+  orig: 130, 98
+  offset: 0, 0
+  index: -1
+excavator_wheel L
+  rotate: false
+  xy: 1052, 1420
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+excavator_wheel R
+  rotate: false
+  xy: 1224, 1420
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+excavator_windows
+  rotate: false
+  xy: 1421, 1162
+  size: 156, 241
+  orig: 156, 241
+  offset: 0, 0
+  index: -1
+fireEngine_dirt_L
+  rotate: false
+  xy: 1768, 1581
+  size: 138, 128
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+fireEngine_dirt_R
+  rotate: false
+  xy: 2, 1507
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: -1
+fireEngine_dirt_kuzov
+  rotate: false
+  xy: 2, 339
+  size: 1089, 347
+  orig: 1089, 347
+  offset: 0, 0
+  index: -1
+fireEngine_mini
+  rotate: false
+  xy: 557, 1730
+  size: 152, 79
+  orig: 152, 79
+  offset: 0, 0
+  index: -1
+fireEngine_stair
+  rotate: false
+  xy: 423, 1621
+  size: 724, 94
+  orig: 724, 94
+  offset: 0, 0
+  index: -1
+fireEngine_wheel L
+  rotate: false
+  xy: 140, 1501
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+fireEngine_wheel R
+  rotate: false
+  xy: 279, 1494
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+fireEngine_window
+  rotate: false
+  xy: 1149, 1592
+  size: 263, 122
+  orig: 263, 122
+  offset: 0, 0
+  index: -1
+policeCar
+  rotate: false
+  xy: 2, 2
+  size: 1137, 335
+  orig: 1137, 335
+  offset: 0, 0
+  index: -1
+policeCar_dirt_L
+  rotate: false
+  xy: 1741, 1394
+  size: 208, 185
+  orig: 208, 185
+  offset: 0, 0
+  index: -1
+policeCar_dirt_R
+  rotate: false
+  xy: 1212, 1199
+  size: 207, 212
+  orig: 207, 212
+  offset: 0, 0
+  index: -1
+policeCar_dirt_kuzov
+  rotate: false
+  xy: 2, 688
+  size: 1121, 290
+  orig: 1121, 290
+  offset: 0, 0
+  index: -1
+policeCar_mini
+  rotate: false
+  xy: 69, 1752
+  size: 146, 57
+  orig: 146, 57
+  offset: 0, 0
+  index: -1
+policeCar_siren
+  rotate: false
+  xy: 2, 1783
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+policeCar_wheel L
+  rotate: false
+  xy: 666, 1260
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+policeCar_wheel R
+  rotate: false
+  xy: 1000, 1208
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+policeCar_window
+  rotate: false
+  xy: 1183, 1716
+  size: 430, 93
+  orig: 430, 93
+  offset: 0, 0
+  index: -1
+policeCar_window_b
+  rotate: false
+  xy: 445, 1746
+  size: 110, 63
+  orig: 110, 63
+  offset: 0, 0
+  index: -1
+vorota blue
+  rotate: false
+  xy: 2, 1293
+  size: 164, 206
+  orig: 164, 206
+  offset: 0, 0
+  index: -1
+vorota green
+  rotate: false
+  xy: 168, 1286
+  size: 164, 206
+  orig: 164, 206
+  offset: 0, 0
+  index: -1
+vorota red
+  rotate: false
+  xy: 334, 1266
+  size: 164, 208
+  orig: 164, 208
+  offset: 0, 0
+  index: -1
+vorota siren
+  rotate: false
+  xy: 500, 1265
+  size: 164, 209
+  orig: 164, 209
+  offset: 0, 0
+  index: -1
+
+FON2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bus
+  rotate: false
+  xy: 2, 1390
+  size: 1343, 449
+  orig: 1343, 449
+  offset: 0, 0
+  index: -1
+bus_dirt_kuzov
+  rotate: false
+  xy: 2, 1027
+  size: 1316, 361
+  orig: 1316, 361
+  offset: 0, 0
+  index: -1
+car_wash30
+  rotate: false
+  xy: 1121, 268
+  size: 710, 757
+  orig: 710, 757
+  offset: 0, 0
+  index: -1
+fireEngine
+  rotate: false
+  xy: 2, 523
+  size: 1117, 502
+  orig: 1117, 502
+  offset: 0, 0
+  index: -1
+garage
+  rotate: false
+  xy: 2, 2
+  size: 1061, 519
+  orig: 1061, 519
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+sedan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sedan_BODY2
+  rotate: false
+  xy: 2, 2
+  size: 515, 191
+  orig: 515, 191
+  offset: 0, 0
+  index: -1
+sedan_LIGHT_L
+  rotate: false
+  xy: 519, 71
+  size: 107, 122
+  orig: 107, 122
+  offset: 0, 0
+  index: -1
+sedan_LIGHT_R
+  rotate: false
+  xy: 628, 72
+  size: 101, 121
+  orig: 101, 121
+  offset: 0, 0
+  index: -1
+sedan_W_L
+  rotate: false
+  xy: 731, 94
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1

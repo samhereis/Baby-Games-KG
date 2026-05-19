@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f68f99859a34299b5a988cac826b63, type: 3}
+  m_Name: Orchestra_Data
+  m_EditorClassIdentifier: 
+  dropZone_Identifier:
+    <key>k__BackingField: DropZone
+    cachingMode: 0
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/DropZone
+    reference_Resources: {fileID: 8830786786267827525, guid: 18162914f0e075d4fb269b85c0f07d6f, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  confetti:
+    <key>k__BackingField: particle_star_drawing
+    cachingMode: 0
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/particle_star_drawing
+    reference_Resources: {fileID: 5012269258749190053, guid: 7bd87b3d340f74f8fb1fedb83b4bf870, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  transition:
+    <key>k__BackingField: particle_transition
+    cachingMode: 0
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/particle_transition
+    reference_Resources: {fileID: 5012269258749190053, guid: 1b9f7561637c04b8ebad21a6982bd126, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <winMenu>k__BackingField:
+    <key>k__BackingField: WinMenu_Orchestra
+    cachingMode: 0
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/UI/WinMenu_Orchestra
+    reference_Resources: {fileID: 7830829082856856851, guid: 3d77a92294a7f144db25307fd0e16b57, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <delayBeforeFinalAnimation>k__BackingField: 1.5

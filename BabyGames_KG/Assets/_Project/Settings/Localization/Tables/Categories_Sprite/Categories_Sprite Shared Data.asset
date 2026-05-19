@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Categories_Sprite Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Categories_Sprite
+  m_TableCollectionNameGuidString: 97a753d4eca5de745bb4485697039bc1
+  m_Entries:
+  - m_Id: 31842836480
+    m_Key: Category_Coloring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1324007235584
+    m_Key: Category_Cooking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049357876666368
+    m_Key: Category_Animals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4013720338112512
+    m_Key: Category_Interests
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4302309441609728
+    m_Key: Category_Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7245401958326272
+    m_Key: ocean_orchestra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7256160683630592
+    m_Key: farm_puzzle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261000050614272
+    m_Key: hide_and_seek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7263215955943424
+    m_Key: bubbles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7265452493053952
+    m_Key: farm_orchestra_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7266890690535424
+    m_Key: who_lives_where
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270297706897408
+    m_Key: beauty_salon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270342023913472
+    m_Key: room_cleaning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270349586243584
+    m_Key: princess_dressing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270369416912896
+    m_Key: "\u0441olor_train"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270390145163264
+    m_Key: car_assembly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7270416565084160
+    m_Key: car_wash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11954278960406528
+    m_Key: cooking_burger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11997818146988032
+    m_Key: cooking_salade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12056890400825344
+    m_Key: cooking_cake
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 239268278011429021
+  m_KeyGenerator:
+    rid: 239268278011429020
+  references:
+    version: 2
+    RefIds:
+    - rid: 239268278011429020
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1752219013394
+    - rid: 239268278011429021
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 31842836480
+          m_TableCodes:
+          - en
+        - m_KeyId: 1324007235584
+          m_TableCodes:
+          - en
+        - m_KeyId: 1049357876666368
+          m_TableCodes:
+          - en
+        - m_KeyId: 4013720338112512
+          m_TableCodes:
+          - en
+        - m_KeyId: 4302309441609728
+          m_TableCodes:
+          - en
+        - m_KeyId: 7245401958326272
+          m_TableCodes:
+          - en
+        - m_KeyId: 7256160683630592
+          m_TableCodes:
+          - en
+        - m_KeyId: 7261000050614272
+          m_TableCodes:
+          - en
+        - m_KeyId: 7263215955943424
+          m_TableCodes:
+          - en
+        - m_KeyId: 7265452493053952
+          m_TableCodes:
+          - en
+        - m_KeyId: 7266890690535424
+          m_TableCodes:
+          - en
+        - m_KeyId: 7270342023913472
+          m_TableCodes:
+          - en
+        - m_KeyId: 7270297706897408
+          m_TableCodes:
+          - en
+        - m_KeyId: 7270349586243584
+          m_TableCodes:
+          - en
+        - m_KeyId: 7270390145163264
+          m_TableCodes:
+          - en
+        - m_KeyId: 7270369416912896
+          m_TableCodes:
+          - en
+        - m_KeyId: 11954278960406528
+          m_TableCodes:
+          - en
+        - m_KeyId: 7270416565084160
+          m_TableCodes:
+          - en
+        - m_KeyId: 11997818146988032
+          m_TableCodes:
+          - en
+        - m_KeyId: 12056890400825344
+          m_TableCodes:
+          - en
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

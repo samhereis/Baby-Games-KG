@@ -1,0 +1,139 @@
+
+solonka.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+powderStar_blue
+  rotate: false
+  xy: 474, 169
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+powderStar_blue 2
+  rotate: false
+  xy: 474, 87
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+powderStar_green
+  rotate: false
+  xy: 474, 5
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+powderStar_orange
+  rotate: false
+  xy: 560, 169
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+powderStar_pink
+  rotate: false
+  xy: 560, 87
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+powderStar_purple
+  rotate: false
+  xy: 560, 5
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+powderStar_red
+  rotate: false
+  xy: 646, 169
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+powderStar_yellow
+  rotate: false
+  xy: 646, 87
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+powderStick_blue_dark
+  rotate: false
+  xy: 865, 202
+  size: 131, 47
+  orig: 131, 47
+  offset: 0, 0
+  index: -1
+powderStick_blue_light
+  rotate: false
+  xy: 732, 201
+  size: 131, 48
+  orig: 131, 48
+  offset: 0, 0
+  index: -1
+powderStick_green
+  rotate: false
+  xy: 732, 151
+  size: 131, 48
+  orig: 131, 48
+  offset: 0, 0
+  index: -1
+powderStick_peach
+  rotate: false
+  xy: 732, 101
+  size: 131, 48
+  orig: 131, 48
+  offset: 0, 0
+  index: -1
+powderStick_pink
+  rotate: false
+  xy: 846, 52
+  size: 132, 47
+  orig: 132, 47
+  offset: 0, 0
+  index: -1
+powderStick_purple
+  rotate: false
+  xy: 865, 153
+  size: 131, 47
+  orig: 131, 47
+  offset: 0, 0
+  index: -1
+powderStick_red
+  rotate: false
+  xy: 846, 3
+  size: 132, 47
+  orig: 132, 47
+  offset: 0, 0
+  index: -1
+powderStick_yellow
+  rotate: false
+  xy: 865, 104
+  size: 131, 47
+  orig: 131, 47
+  offset: 0, 0
+  index: -1
+solonka_back
+  rotate: false
+  xy: 241, 2
+  size: 231, 247
+  orig: 231, 247
+  offset: 0, 0
+  index: -1
+solonka_front
+  rotate: false
+  xy: 2, 2
+  size: 237, 247
+  orig: 237, 247
+  offset: 0, 0
+  index: -1
+solonka_kryshka
+  rotate: false
+  xy: 646, 27
+  size: 198, 58
+  orig: 198, 58
+  offset: 0, 0
+  index: -1

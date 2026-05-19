@@ -1,0 +1,20 @@
+
+spoon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spoon_down
+  rotate: false
+  xy: 2, 2
+  size: 611, 151
+  orig: 611, 151
+  offset: 0, 0
+  index: -1
+spoon_up
+  rotate: false
+  xy: 615, 28
+  size: 197, 125
+  orig: 197, 125
+  offset: 0, 0
+  index: -1

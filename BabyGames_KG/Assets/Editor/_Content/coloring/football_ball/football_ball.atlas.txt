@@ -1,0 +1,138 @@
+
+football_ball.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-back
+  rotate: false
+  xy: 1029, 957
+  size: 733, 706
+  orig: 733, 706
+  offset: 0, 0
+  index: -1
+1-outline
+  rotate: false
+  xy: 2, 225
+  size: 747, 727
+  orig: 747, 727
+  offset: 0, 0
+  index: -1
+2-back
+  rotate: false
+  xy: 1674, 755
+  size: 130, 200
+  orig: 130, 200
+  offset: 0, 0
+  index: -1
+2-outline
+  rotate: false
+  xy: 751, 500
+  size: 788, 452
+  orig: 788, 452
+  offset: 0, 0
+  index: -1
+3-back
+  rotate: false
+  xy: 1764, 1416
+  size: 164, 137
+  orig: 164, 137
+  offset: 0, 0
+  index: -1
+4-back
+  rotate: false
+  xy: 1764, 1277
+  size: 164, 137
+  orig: 164, 137
+  offset: 0, 0
+  index: -1
+5-back
+  rotate: false
+  xy: 1541, 755
+  size: 131, 200
+  orig: 131, 200
+  offset: 0, 0
+  index: -1
+6-back
+  rotate: false
+  xy: 1764, 1555
+  size: 173, 108
+  orig: 173, 108
+  offset: 0, 0
+  index: -1
+7-back
+  rotate: false
+  xy: 1541, 501
+  size: 230, 252
+  orig: 230, 252
+  offset: 0, 0
+  index: -1
+DOP_1
+  rotate: false
+  xy: 2, 954
+  size: 1025, 709
+  orig: 1025, 709
+  offset: 0, 0
+  index: -1
+DOP_2
+  rotate: false
+  xy: 751, 2
+  size: 734, 496
+  orig: 734, 496
+  offset: 0, 0
+  index: -1
+
+football_ball2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10-back
+  rotate: false
+  xy: 792, 456
+  size: 788, 452
+  orig: 788, 452
+  offset: 0, 0
+  index: -1
+11-back
+  rotate: false
+  xy: 2, 1364
+  size: 788, 452
+  orig: 788, 452
+  offset: 0, 0
+  index: -1
+12-back
+  rotate: false
+  xy: 2, 910
+  size: 788, 452
+  orig: 788, 452
+  offset: 0, 0
+  index: -1
+13-back
+  rotate: false
+  xy: 792, 1364
+  size: 788, 452
+  orig: 788, 452
+  offset: 0, 0
+  index: -1
+3-outline
+  rotate: false
+  xy: 2, 456
+  size: 788, 452
+  orig: 788, 452
+  offset: 0, 0
+  index: -1
+8-back
+  rotate: false
+  xy: 792, 910
+  size: 788, 452
+  orig: 788, 452
+  offset: 0, 0
+  index: -1
+9-back
+  rotate: false
+  xy: 2, 2
+  size: 788, 452
+  orig: 788, 452
+  offset: 0, 0
+  index: -1

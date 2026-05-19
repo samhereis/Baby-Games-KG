@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5063477516652224207
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e406c6667bd24f389be0f814c3ff2862, type: 3}
+  m_Name: EWFolder
+  m_EditorClassIdentifier: 
+  _title: 
+  _position: {x: 140, y: 90.5, z: 0}
+  _size: {x: 200, y: 150, z: 0}
+  _collapsed: 0
+  _color: Default
+  _assets:
+  - {fileID: 102900000, guid: 8e9da34d4f08f1a47bc9326b31fb4dbe, type: 3}
+  _assetScale: 0
+  _folderType: 0
+  _directories: []
+  _sortByName: 0
+  _sortByType: 1
+  _deepSearch: 0
+  _filter: -1
+  _searchFilter: 
+  _scrollPosition: {x: 0, y: 0}
+  _directoriesFoldout: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 750e1ee7e136424297ef390ffa1a2f0b, type: 3}
+  m_Name: Main
+  m_EditorClassIdentifier: 
+  _files:
+  - {fileID: -5063477516652224207}
+  _position: {x: 0, y: 0, z: 0}
+  _zoom: {x: 1, y: 1, z: 1}
+  _added: 1
+  _opened: 1
+  _order: 0

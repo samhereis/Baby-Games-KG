@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8218474507899703694
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 456357231765520775, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_text
+      value: Is the app safe for kids?
+      objectReference: {fileID: 0}
+    - target: {fileID: 456357231765520775, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: originalText
+      value: Is the app safe for kids?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1259.402
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2410434910092214124, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2708770674622793463, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: _prefix
+      value: _android
+      objectReference: {fileID: 0}
+    - target: {fileID: 3059540758913184148, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_text
+      value: Yes, the app is designed specifically for children with strict safety
+        measures. It has no ads, no external links, and does not collect personal
+        data.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3059540758913184148, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: originalText
+      value: Yes, the app is designed specifically for children with strict safety
+        measures. It has no ads, no external links, and does not collect personal
+        data.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3439970498919312998, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_Name
+      value: Faq_Android 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4044955002208474200, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4044955002208474200, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4044955002208474200, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4044955002208474200, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4044955002208474200, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4044955002208474200, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4792880464355516917, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_Key
+      value: for_parents_FAQ_10_question_android
+      objectReference: {fileID: 0}
+    - target: {fileID: 4792880464355516917, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4792880464355516917, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_StringReference.m_TableReference.m_TableCollectionName
+      value: Default
+      objectReference: {fileID: 0}
+    - target: {fileID: 6611927037019106709, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_Key
+      value: for_parents_FAQ_10_answer_android
+      objectReference: {fileID: 0}
+    - target: {fileID: 6611927037019106709, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_StringReference.m_TableEntryReference.m_KeyId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6611927037019106709, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_StringReference.m_TableReference.m_TableCollectionName
+      value: Default
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523450297779286147, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523450297779286147, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523450297779286147, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523450297779286147, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523450297779286147, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523450297779286147, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8523450297779286147, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3439970498919312998, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -6672971946961646417}
+  m_SourcePrefab: {fileID: 100100000, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+--- !u!1 &6751135487435456488 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3439970498919312998, guid: 62c1abbba59e40f429869fdab3849084, type: 3}
+  m_PrefabInstance: {fileID: 8218474507899703694}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-6672971946961646417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6751135487435456488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a07ffefd4c6bc4dbddda0c8da7d3f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  proUGUI: []
+  fontAsset: {fileID: 0}

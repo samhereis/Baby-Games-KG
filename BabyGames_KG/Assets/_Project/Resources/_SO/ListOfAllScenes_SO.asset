@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89380a4367ccad34fb3f3b69a61699e7, type: 3}
+  m_Name: ListOfAllScenes_SO
+  m_EditorClassIdentifier: 
+  <mainMenu_Scene>k__BackingField:
+    <scene>k__BackingField: MainMenu_Scene
+    sceneReference: {fileID: 102900000, guid: beeaee935227c044cb0b81cb51902d6d, type: 3}
+  <gameplay_Scene_Coloring>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_Coloring
+    sceneReference: {fileID: 102900000, guid: 82f4c4846a192764192c1de33c0e5a3d, type: 3}
+  <gameplay_Scene_Puzzle>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_Puzzle
+    sceneReference: {fileID: 102900000, guid: f19e575a3fcf334478b7021caa60b905, type: 3}
+  <gameplay_Scene_Orchestra>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_Princes
+    sceneReference: {fileID: 102900000, guid: 4a4cf01795a4c4dbfbdb3cd0c2755e01, type: 3}
+  <gameplay_Scene_Video>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_Video
+    sceneReference: {fileID: 102900000, guid: e5f6f8125367acd47855c3b5c8bc965a, type: 3}
+  <gameplay_Scene_Hiding>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_Hiding
+    sceneReference: {fileID: 102900000, guid: 49dc2ced92f57f14ab9eca7457a1ea92, type: 3}
+  <gameplay_Scene_Bubble>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_Bubble
+    sceneReference: {fileID: 102900000, guid: 79791e700725a364db1c690e756c13f3, type: 3}
+  <gameplay_Scene_Carwash>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_Carwash
+    sceneReference: {fileID: 102900000, guid: 4fe30cb03a4f5b340995977f9b0fa1e2, type: 3}
+  <gameplay_Scene_WhoLivesWhere>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_Bubble
+    sceneReference: {fileID: 102900000, guid: 349b546b87dadb340b318394d2013b93, type: 3}
+  <gameplay_Scene_CarTuning>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_CarTuning
+    sceneReference: {fileID: 102900000, guid: ccc0a2be935cb54489f768cc924e1fa2, type: 3}
+  <gameplay_Scene_Princess>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_Princes
+    sceneReference: {fileID: 102900000, guid: 4a4cf01795a4c4dbfbdb3cd0c2755e01, type: 3}
+  <gameplay_Scene_ColorfulTrain>k__BackingField:
+    <scene>k__BackingField: Gameplay_Scene_ColorfulTrain
+    sceneReference: {fileID: 102900000, guid: 66daee60480735649b7745c333fdd840, type: 3}
+  <gameplay_Scene_CookingSalade>k__BackingField:
+    <scene>k__BackingField: GameplayScene_CookingSalade
+    sceneReference: {fileID: 102900000, guid: c8dd3e254d7d4184f9b2aea6b25013e5, type: 3}

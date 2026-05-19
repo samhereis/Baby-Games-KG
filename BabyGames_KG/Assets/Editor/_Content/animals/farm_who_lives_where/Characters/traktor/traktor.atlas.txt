@@ -1,0 +1,160 @@
+
+traktor.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dym_1
+  rotate: false
+  xy: 391, 40
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dym_2
+  rotate: false
+  xy: 336, 23
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+dym_3
+  rotate: false
+  xy: 550, 136
+  size: 96, 63
+  orig: 96, 63
+  offset: 0, 0
+  index: -1
+koleso_1
+  rotate: false
+  xy: 1352, 26
+  size: 251, 248
+  orig: 251, 248
+  offset: 0, 0
+  index: -1
+koleso_2
+  rotate: false
+  xy: 486, 201
+  size: 314, 309
+  orig: 314, 309
+  offset: 0, 0
+  index: -1
+kreplenie_1
+  rotate: false
+  xy: 2, 2
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+kreplenie_2
+  rotate: false
+  xy: 71, 2
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+kreplenie_3
+  rotate: false
+  xy: 637, 70
+  size: 17, 64
+  orig: 17, 64
+  offset: 0, 0
+  index: -1
+kreplenie_4
+  rotate: false
+  xy: 140, 2
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+kreplenie_5
+  rotate: false
+  xy: 209, 2
+  size: 67, 20
+  orig: 67, 20
+  offset: 0, 0
+  index: -1
+krylo
+  rotate: false
+  xy: 656, 40
+  size: 351, 159
+  orig: 351, 159
+  offset: 0, 0
+  index: -1
+kuzov
+  rotate: false
+  xy: 2, 148
+  size: 482, 362
+  orig: 482, 362
+  offset: 0, 0
+  index: -1
+shadow_1
+  rotate: false
+  xy: 336, 64
+  size: 299, 38
+  orig: 299, 38
+  offset: 0, 0
+  index: -1
+shadow_2
+  rotate: false
+  xy: 2, 64
+  size: 332, 38
+  orig: 332, 38
+  offset: 0, 0
+  index: -1
+shadow_3
+  rotate: false
+  xy: 2, 24
+  size: 332, 38
+  orig: 332, 38
+  offset: 0, 0
+  index: -1
+shadow_4
+  rotate: false
+  xy: 2, 104
+  size: 546, 42
+  orig: 546, 42
+  offset: 0, 0
+  index: -1
+telega_1
+  rotate: false
+  xy: 1176, 276
+  size: 326, 234
+  orig: 326, 234
+  offset: 0, 0
+  index: -1
+telega_2
+  rotate: false
+  xy: 1009, 40
+  size: 341, 234
+  orig: 341, 234
+  offset: 0, 0
+  index: -1
+telega_3
+  rotate: false
+  xy: 802, 276
+  size: 372, 234
+  orig: 372, 234
+  offset: 0, 0
+  index: -1
+ten'_koleso_1
+  rotate: false
+  xy: 1677, 340
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+ten'_koleso_2
+  rotate: false
+  xy: 1504, 339
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+ten'_koleso_3
+  rotate: false
+  xy: 1605, 166
+  size: 170, 171
+  orig: 170, 171
+  offset: 0, 0
+  index: -1

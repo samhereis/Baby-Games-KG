@@ -1,0 +1,69 @@
+
+rakovina.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 649, 10
+  size: 271, 116
+  orig: 271, 116
+  offset: 0, 0
+  index: -1
+1-2 back
+  rotate: false
+  xy: 523, 128
+  size: 245, 125
+  orig: 245, 125
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 770, 137
+  size: 266, 116
+  orig: 266, 116
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 252, 96
+  size: 269, 157
+  orig: 269, 157
+  offset: 0, 0
+  index: -1
+3 back
+  rotate: false
+  xy: 2, 89
+  size: 248, 164
+  orig: 248, 164
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 2, 4
+  size: 237, 83
+  orig: 237, 83
+  offset: 0, 0
+  index: -1
+blesk
+  rotate: false
+  xy: 241, 39
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+niz
+  rotate: false
+  xy: 381, 5
+  size: 266, 89
+  orig: 266, 89
+  offset: 0, 0
+  index: -1
+pearl
+  rotate: false
+  xy: 287, 2
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1

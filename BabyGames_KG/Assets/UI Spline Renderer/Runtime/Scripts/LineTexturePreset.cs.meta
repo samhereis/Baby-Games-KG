@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b198343f753f4ee19e85f927f5633d59
+timeCreated: 1690038740
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260186
+  packageName: UI Spline Renderer
+  packageVersion: 1.16
+  assetPath: Assets/UI Spline Renderer/Runtime/Scripts/LineTexturePreset.cs
+  uploadId: 838278

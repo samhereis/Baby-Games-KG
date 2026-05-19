@@ -1,0 +1,48 @@
+
+Pena.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+puz2white
+  rotate: false
+  xy: 51, 154
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+puz3white
+  rotate: false
+  xy: 29, 156
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+puz4white
+  rotate: false
+  xy: 2, 158
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+puz5white
+  rotate: false
+  xy: 98, 150
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+puz6white
+  rotate: false
+  xy: 73, 154
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 2, 2
+  size: 178, 146
+  orig: 178, 146
+  offset: 0, 0
+  index: -1

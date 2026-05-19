@@ -1,0 +1,34 @@
+
+salt.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+salt
+  rotate: false
+  xy: 2, 65
+  size: 94, 188
+  orig: 94, 188
+  offset: 0, 0
+  index: -1
+salt_Sip1
+  rotate: false
+  xy: 98, 127
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+salt_Sip2
+  rotate: false
+  xy: 98, 190
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+salt_Sip3
+  rotate: false
+  xy: 2, 2
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1

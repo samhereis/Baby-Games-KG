@@ -1,0 +1,27 @@
+
+FON_itog.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_headlightBack
+  rotate: false
+  xy: 2, 2
+  size: 689, 767
+  orig: 689, 767
+  offset: 0, 0
+  index: -1
+4_headlightBack_vkl
+  rotate: false
+  xy: 693, 572
+  size: 119, 197
+  orig: 119, 197
+  offset: 0, 0
+  index: -1
+4_headlightBack_vykl
+  rotate: false
+  xy: 693, 373
+  size: 119, 197
+  orig: 119, 197
+  offset: 0, 0
+  index: -1

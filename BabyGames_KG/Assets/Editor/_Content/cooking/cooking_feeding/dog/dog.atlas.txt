@@ -1,0 +1,146 @@
+
+dog.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belok
+  rotate: false
+  xy: 58, 10
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 62
+  size: 350, 191
+  orig: 350, 191
+  offset: 0, 0
+  index: -1
+ear_r
+  rotate: false
+  xy: 1098, 120
+  size: 77, 133
+  orig: 77, 133
+  offset: 0, 0
+  index: -1
+eyebrow_r
+  rotate: false
+  xy: 258, 43
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+eyes_close_r
+  rotate: false
+  xy: 205, 14
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+eyes_close_smile_r
+  rotate: false
+  xy: 260, 14
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+eyes_smile_r
+  rotate: false
+  xy: 315, 8
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+furr_cheeks_head_2
+  rotate: false
+  xy: 359, 37
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+furr_r
+  rotate: false
+  xy: 111, 11
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 598, 86
+  size: 212, 167
+  orig: 212, 167
+  offset: 0, 0
+  index: -1
+head_F
+  rotate: false
+  xy: 354, 80
+  size: 242, 173
+  orig: 242, 173
+  offset: 0, 0
+  index: -1
+leg_f_1
+  rotate: false
+  xy: 979, 79
+  size: 117, 174
+  orig: 117, 174
+  offset: 0, 0
+  index: -1
+leg_f_2
+  rotate: false
+  xy: 812, 52
+  size: 165, 201
+  orig: 165, 201
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 158, 43
+  size: 98, 17
+  orig: 98, 17
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 315, 28
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 1098, 29
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: false
+  xy: 158, 8
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+tongue_head_2
+  rotate: false
+  xy: 393, 49
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+veko_r
+  rotate: false
+  xy: 2, 6
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+zrachok
+  rotate: false
+  xy: 359, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

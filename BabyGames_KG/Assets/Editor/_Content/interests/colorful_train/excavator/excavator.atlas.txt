@@ -1,0 +1,76 @@
+
+excavator.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+excavator_ARM1
+  rotate: false
+  xy: 289, 54
+  size: 177, 200
+  orig: 177, 200
+  offset: 0, 0
+  index: -1
+excavator_ARM2
+  rotate: false
+  xy: 808, 23
+  size: 156, 143
+  orig: 156, 143
+  offset: 0, 0
+  index: -1
+excavator_BODY
+  rotate: false
+  xy: 2, 25
+  size: 285, 229
+  orig: 285, 229
+  offset: 0, 0
+  index: -1
+excavator_GUSINICA1
+  rotate: false
+  xy: 468, 168
+  size: 338, 86
+  orig: 338, 86
+  offset: 0, 0
+  index: -1
+excavator_GUSINICA2
+  rotate: false
+  xy: 468, 80
+  size: 338, 86
+  orig: 338, 86
+  offset: 0, 0
+  index: -1
+excavator_KOWSH
+  rotate: false
+  xy: 1144, 153
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+excavator_W_L
+  rotate: false
+  xy: 563, 14
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+yama_kuchka
+  rotate: false
+  xy: 966, 53
+  size: 176, 113
+  orig: 176, 113
+  offset: 0, 0
+  index: -1
+yama_pered
+  rotate: false
+  xy: 289, 2
+  size: 272, 50
+  orig: 272, 50
+  offset: 0, 0
+  index: -1
+yama_szadi
+  rotate: false
+  xy: 808, 168
+  size: 269, 86
+  orig: 269, 86
+  offset: 0, 0
+  index: -1

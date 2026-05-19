@@ -1,0 +1,62 @@
+
+egg.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+egg
+  rotate: false
+  xy: 2, 16
+  size: 169, 229
+  orig: 169, 229
+  offset: 0, 0
+  index: -1
+egg_Belok1
+  rotate: false
+  xy: 715, 54
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1
+egg_Belok3
+  rotate: false
+  xy: 173, 65
+  size: 205, 180
+  orig: 205, 180
+  offset: 0, 0
+  index: -1
+egg_Jeltok3
+  rotate: false
+  xy: 496, 36
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+egg_Sheluha_Dovn
+  rotate: false
+  xy: 380, 118
+  size: 170, 127
+  orig: 170, 127
+  offset: 0, 0
+  index: -1
+egg_Sheluha_Dovn_B
+  rotate: false
+  xy: 173, 3
+  size: 161, 60
+  orig: 161, 60
+  offset: 0, 0
+  index: -1
+egg_Sheluha_Up
+  rotate: false
+  xy: 552, 120
+  size: 161, 125
+  orig: 161, 125
+  offset: 0, 0
+  index: -1
+egg_Sheluha_Up_B
+  rotate: false
+  xy: 336, 2
+  size: 158, 61
+  orig: 158, 61
+  offset: 0, 0
+  index: -1

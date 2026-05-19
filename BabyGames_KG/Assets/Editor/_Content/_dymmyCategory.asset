@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83fedfba14c461740aced5bcd31f6d98, type: 3}
+  m_Name: _dymmyCategory
+  m_EditorClassIdentifier: _Game::SO.ActivityCategory_SO
+  <activityCategoryName>k__BackingField: _dymmyCategory
+  <icon>k__BackingField: {fileID: 0}
+  <activities>k__BackingField:
+  - <activityName>k__BackingField: _dymmyCategory-dummyactivity
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: _dymmyCategory
+    <activityFolder>k__BackingField: dummyactivity
+    <type>k__BackingField: 0
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 0
+    <icon>k__BackingField: 
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: 
+    <assetBundleUrl_iOS>k__BackingField: 
+    <assetBundleUrl_Windows>k__BackingField: 
+    <assetBundleUrl_OSX>k__BackingField: 
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: 
+    prefab_reference: {fileID: -7913405921933228660, guid: bc70067fe63debb42b9e06df81fda963, type: 3}
+    icon_reference: {fileID: 0}
+    _errorList: []
+  <stringSettings>k__BackingField: []
+  <intSettings>k__BackingField: []
+  <floatSettings>k__BackingField: []
+  <vector3Settings>k__BackingField: []
+  contentPath: Assets/Editor/_Content/_dummyCategory

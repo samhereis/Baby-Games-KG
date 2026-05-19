@@ -1,0 +1,3913 @@
+fileFormatVersion: 2
+guid: a0fa62d1abc81064c871e06a539d5daf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9054248327520743514
+    second: FON_0
+  - first:
+      213: -3184221230897179110
+    second: FON_1
+  - first:
+      213: 5287125420949551291
+    second: FON_2
+  - first:
+      213: -8574331489877115698
+    second: FON_3
+  - first:
+      213: -8770238710698991420
+    second: FON_4
+  - first:
+      213: 2002650717326368740
+    second: FON_5
+  - first:
+      213: 579270286216935123
+    second: FON_6
+  - first:
+      213: -767547378428696978
+    second: FON_7
+  - first:
+      213: 4719975857166864918
+    second: FON_8
+  - first:
+      213: -4841779414138242331
+    second: FON_9
+  - first:
+      213: 8548977017231271310
+    second: FON_10
+  - first:
+      213: -8119885055819311571
+    second: FON_11
+  - first:
+      213: -8738681613144669177
+    second: FON_12
+  - first:
+      213: -2638608067519320732
+    second: FON_13
+  - first:
+      213: 8300785477432618940
+    second: FON_14
+  - first:
+      213: -4249773807714506815
+    second: FON_15
+  - first:
+      213: -8965455702809595344
+    second: FON_16
+  - first:
+      213: 5313260171282755272
+    second: FON_17
+  - first:
+      213: 2004903770063357244
+    second: FON_18
+  - first:
+      213: -2640788801063998593
+    second: FON_19
+  - first:
+      213: -361864692250969257
+    second: FON_20
+  - first:
+      213: -5098487955166862344
+    second: FON_21
+  - first:
+      213: -3815103117460370581
+    second: FON_22
+  - first:
+      213: -7195962129256874642
+    second: FON_23
+  - first:
+      213: 8607559715839208915
+    second: FON_24
+  - first:
+      213: 3763707250480796111
+    second: FON_25
+  - first:
+      213: 4618383042891631767
+    second: FON_26
+  - first:
+      213: 1785803288912055925
+    second: FON_27
+  - first:
+      213: 3873813361302454707
+    second: FON_28
+  - first:
+      213: -3915484408884022735
+    second: FON_29
+  - first:
+      213: 6829255684740850933
+    second: FON_30
+  - first:
+      213: 4411655281268355196
+    second: FON_31
+  - first:
+      213: 8545879433264436699
+    second: FON_32
+  - first:
+      213: -7726743890164391473
+    second: FON_33
+  - first:
+      213: 3029737395497678991
+    second: FON_34
+  - first:
+      213: 6290815765049200658
+    second: FON_35
+  - first:
+      213: 3145993021304937336
+    second: FON_36
+  - first:
+      213: 1967552648739382541
+    second: FON_37
+  - first:
+      213: 3770650104432250555
+    second: FON_38
+  - first:
+      213: -1102546277990099146
+    second: FON_39
+  - first:
+      213: 495877182997642398
+    second: FON_40
+  - first:
+      213: -499391375046770413
+    second: FON_41
+  - first:
+      213: -7166499645101231956
+    second: FON_42
+  - first:
+      213: -7974321320733119099
+    second: FON_43
+  - first:
+      213: 431604328736096638
+    second: FON_44
+  - first:
+      213: -6279319006904310998
+    second: FON_45
+  - first:
+      213: 3048892079782738829
+    second: FON_46
+  - first:
+      213: -788411429361223990
+    second: FON_47
+  - first:
+      213: 731123891573440599
+    second: FON_48
+  - first:
+      213: -3719546281531527689
+    second: FON_49
+  - first:
+      213: 2382675282222959283
+    second: FON_50
+  - first:
+      213: 1392336082708372837
+    second: FON_51
+  - first:
+      213: 473840872841767368
+    second: FON_52
+  - first:
+      213: -2691271727844348822
+    second: FON_53
+  - first:
+      213: 2457852851636472379
+    second: FON_54
+  - first:
+      213: -1451869825572746819
+    second: FON_55
+  - first:
+      213: 3180859389185612666
+    second: FON_56
+  - first:
+      213: 6186806299176583451
+    second: FON_57
+  - first:
+      213: -7890091992806995385
+    second: FON_58
+  - first:
+      213: -6401794036994013402
+    second: FON_59
+  - first:
+      213: -7459668967839139251
+    second: FON_60
+  - first:
+      213: 983184939654987147
+    second: FON_61
+  - first:
+      213: 5685722728561488764
+    second: FON_62
+  - first:
+      213: -1755186109760722058
+    second: FON_63
+  - first:
+      213: 2348168547782306788
+    second: FON_64
+  - first:
+      213: 9221940349607260898
+    second: FON_65
+  - first:
+      213: 636151776710056727
+    second: FON_66
+  - first:
+      213: 3120412750536829903
+    second: FON_67
+  - first:
+      213: -590207367811568736
+    second: FON_68
+  - first:
+      213: 8709528030857844993
+    second: FON_69
+  - first:
+      213: 3376213537541473262
+    second: FON_70
+  - first:
+      213: -3426459084374962537
+    second: FON_71
+  - first:
+      213: -5768555961901652628
+    second: FON_72
+  - first:
+      213: -6804776433864511271
+    second: FON_73
+  - first:
+      213: -3220092480629902197
+    second: FON_74
+  - first:
+      213: -7105349804628944974
+    second: FON_75
+  - first:
+      213: -8939449792069901784
+    second: FON_76
+  - first:
+      213: 8332489995473845647
+    second: FON_77
+  - first:
+      213: -7352515037873729169
+    second: FON_78
+  - first:
+      213: 3797455861691853103
+    second: FON_79
+  - first:
+      213: 8290267586191985367
+    second: FON_80
+  - first:
+      213: -3868817716654455403
+    second: FON_81
+  - first:
+      213: 4746716187729182856
+    second: FON_82
+  - first:
+      213: -7043840875838330552
+    second: FON_83
+  - first:
+      213: -426521755580330537
+    second: FON_84
+  - first:
+      213: -3625478844562061934
+    second: FON_85
+  - first:
+      213: 1529355678390959897
+    second: FON_86
+  - first:
+      213: 7562776453108765034
+    second: FON_87
+  - first:
+      213: 1659515244312106640
+    second: FON_88
+  - first:
+      213: 2704216464111107837
+    second: FON_89
+  - first:
+      213: -6970243134314970713
+    second: FON_90
+  - first:
+      213: -3177459718990289062
+    second: FON_91
+  - first:
+      213: 6734681993320133825
+    second: FON_92
+  - first:
+      213: -5271336443451058995
+    second: FON_93
+  - first:
+      213: 2562271082311282264
+    second: FON_94
+  - first:
+      213: -7364012748361233745
+    second: FON_95
+  - first:
+      213: -5714586870449727098
+    second: FON_96
+  - first:
+      213: -5109384644895298898
+    second: FON_97
+  - first:
+      213: -5599784735381796211
+    second: FON_98
+  - first:
+      213: -3946955188201663737
+    second: FON_99
+  - first:
+      213: 619022363746924834
+    second: FON_100
+  - first:
+      213: 6640048758909900970
+    second: FON_101
+  - first:
+      213: -7442491726611446297
+    second: FON_102
+  - first:
+      213: 6328761265043613752
+    second: FON_103
+  - first:
+      213: -7139800562671173232
+    second: FON_104
+  - first:
+      213: 7218791815515623239
+    second: FON_105
+  - first:
+      213: 4324609067390978900
+    second: FON_106
+  - first:
+      213: -8166275849124981194
+    second: FON_107
+  - first:
+      213: 8906588397375726486
+    second: FON_108
+  - first:
+      213: 2530120625855942396
+    second: FON_109
+  - first:
+      213: -4169906109746354175
+    second: FON_110
+  - first:
+      213: 8959753543155280469
+    second: FON_111
+  - first:
+      213: -4613413504577721454
+    second: FON_112
+  - first:
+      213: 2176721148693031984
+    second: FON_113
+  - first:
+      213: 5110457653872817768
+    second: FON_114
+  - first:
+      213: 6725662431214508419
+    second: FON_115
+  - first:
+      213: -5685106642056103215
+    second: FON_116
+  - first:
+      213: -3107556197534102851
+    second: FON_117
+  - first:
+      213: -8042495175511835068
+    second: FON_118
+  - first:
+      213: 1156648353673301445
+    second: FON_119
+  - first:
+      213: 9172517113147075076
+    second: FON_120
+  - first:
+      213: -6331918321093491603
+    second: FON_121
+  - first:
+      213: -1309741570371759528
+    second: FON_122
+  - first:
+      213: 716648134378410014
+    second: FON_123
+  - first:
+      213: 579369287569941147
+    second: FON_124
+  - first:
+      213: -6534156958957729233
+    second: FON_125
+  - first:
+      213: 1836192348157366504
+    second: FON_126
+  - first:
+      213: -4259687238731661932
+    second: FON_127
+  - first:
+      213: -5515311846224531191
+    second: FON_128
+  - first:
+      213: -485519156640997673
+    second: FON_129
+  - first:
+      213: 5228302437936657711
+    second: FON_130
+  - first:
+      213: -4036680802094942667
+    second: FON_131
+  - first:
+      213: 3718919479212286833
+    second: FON_132
+  - first:
+      213: -4643493756792545345
+    second: FON_133
+  - first:
+      213: -2056113222918916259
+    second: FON_134
+  - first:
+      213: -4586960295425105674
+    second: FON_135
+  - first:
+      213: 1585189924093099616
+    second: FON_136
+  - first:
+      213: 8622159447049998651
+    second: FON_137
+  - first:
+      213: 687035596037871067
+    second: FON_138
+  - first:
+      213: 8519140419670028946
+    second: FON_139
+  - first:
+      213: -6884577684258294951
+    second: FON_140
+  - first:
+      213: -5450286823474819681
+    second: FON_141
+  - first:
+      213: 2015900855974364372
+    second: FON_142
+  - first:
+      213: -1270566632477010619
+    second: FON_143
+  - first:
+      213: -734480425316499956
+    second: FON_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FON_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1710
+        width: 1139
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a507c06e1e627ad70800000000000000
+      internalID: 9054248327520743514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1631
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16dd1649af5fc3d0800000000000000
+      internalID: -3184221230897179110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1608
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8b2a6de84af5940800000000000000
+      internalID: 5287125420949551291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1571
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccbd6f40fad10980800000000000000
+      internalID: -8574331489877115698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_4
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1647
+        width: 117
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0286dfb5ad94680800000000000000
+      internalID: -8770238710698991420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1545
+        width: 108
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef5b678738dacb10800000000000000
+      internalID: 2002650717326368740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1529
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d636e6914bf90800800000000000000
+      internalID: 579270286216935123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1516
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66a978d9bf1955f0800000000000000
+      internalID: -767547378428696978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_8
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1488
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612d9dad809b08140800000000000000
+      internalID: 4719975857166864918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_9
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1513
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eabd73964b8eccb0800000000000000
+      internalID: -4841779414138242331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_10
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1187
+        width: 457
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856c018d4114a670800000000000000
+      internalID: 8548977017231271310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1373
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2613ee009f505f80800000000000000
+      internalID: -8119885055819311571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1457
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70446435f57f9b680800000000000000
+      internalID: -8738681613144669177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1428
+        width: 118
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46de70a41f7c16bd0800000000000000
+      internalID: -2638608067519320732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1375
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfa71b8960523370800000000000000
+      internalID: 8300785477432618940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1463
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7ea67fc35c505c0800000000000000
+      internalID: -4249773807714506815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_16
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1463
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b8801a8d449380800000000000000
+      internalID: -8965455702809595344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_17
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1442
+        width: 138
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2a8499fd7cb940800000000000000
+      internalID: 5313260171282755272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1382
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c77f3b59d2db10800000000000000
+      internalID: 2004903770063357244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1361
+        width: 40
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b20c1b3980a5bd0800000000000000
+      internalID: -2640788801063998593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_20
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1376
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bff99caf56afaf0800000000000000
+      internalID: -361864692250969257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1373
+        width: 125
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ebacb7388e39b0800000000000000
+      internalID: -5098487955166862344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_22
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1374
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b0a4e8de70e0bc0800000000000000
+      internalID: -3815103117460370581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_23
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1320
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dfa7cb19ec22c90800000000000000
+      internalID: -7195962129256874642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_24
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1253
+        width: 127
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddee8de4f1347770800000000000000
+      internalID: 8607559715839208915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1233
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc15877adcf5b3430800000000000000
+      internalID: 3763707250480796111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1288
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c4e3488eac71040800000000000000
+      internalID: 4618383042891631767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_27
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1239
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ec35231a278c810800000000000000
+      internalID: 1785803288912055925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1166
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1489e4abc82c530800000000000000
+      internalID: 3873813361302454707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1172
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13233ecdca769a9c0800000000000000
+      internalID: -3915484408884022735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_30
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1158
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4ab41ccd366ce50800000000000000
+      internalID: 6829255684740850933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_31
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1197
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70f977ba19593d30800000000000000
+      internalID: 4411655281268355196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1158
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd51b090110199670800000000000000
+      internalID: 8545879433264436699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1069
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1e454be5715c490800000000000000
+      internalID: -7726743890164391473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1070
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f883b55eb1acb0a20800000000000000
+      internalID: 3029737395497678991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_35
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1114
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2105f2fab977d4750800000000000000
+      internalID: 6290815765049200658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_36
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1070
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b1db41cffc8ab20800000000000000
+      internalID: 3145993021304937336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_37
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1139
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d056df0a5b62e4b10800000000000000
+      internalID: 1967552648739382541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1112
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe49feca4a045430800000000000000
+      internalID: 3770650104432250555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1071
+        width: 124
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63798ff6008f2b0f0800000000000000
+      internalID: -1102546277990099146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_40
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1070
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cbbc0bba5b1e600800000000000000
+      internalID: 495877182997642398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_41
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1089
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3118176b03ec119f0800000000000000
+      internalID: -499391375046770413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_42
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1110
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca037c2ea8a7b8c90800000000000000
+      internalID: -7166499645101231956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_43
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1071
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58de0e03205855190800000000000000
+      internalID: -7974321320733119099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 934
+        width: 213
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7106d9a9dd5df500800000000000000
+      internalID: 431604328736096638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 934
+        width: 213
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a232c1ae1a06bd8a0800000000000000
+      internalID: -6279319006904310998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_46
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 934
+        width: 213
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bb3fd5137df4a20800000000000000
+      internalID: 3048892079782738829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_47
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 934
+        width: 213
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6f0107bfffe05f0800000000000000
+      internalID: -788411429361223990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_48
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 934
+        width: 213
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75049044e49752a00800000000000000
+      internalID: 731123891573440599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_49
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 850
+        width: 164
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd20bb2d54816cc0800000000000000
+      internalID: -3719546281531527689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_50
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 993
+        width: 105
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bac0049b86f01120800000000000000
+      internalID: 2382675282222959283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_51
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 935
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d9ac15a42925310800000000000000
+      internalID: 1392336082708372837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_52
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 972
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c96bc963cb639600800000000000000
+      internalID: 473840872841767368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_53
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 886
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c29cb5f9ea6aad0800000000000000
+      internalID: -2691271727844348822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_54
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 944
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a09f3752c0c1220800000000000000
+      internalID: 2457852851636472379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_55
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 889
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9c0a2061ce9dbe0800000000000000
+      internalID: -1451869825572746819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_56
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 730
+        width: 50
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bdfd4f2cea42c20800000000000000
+      internalID: 3180859389185612666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_57
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 644
+        width: 95
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11c19ccc83fbd550800000000000000
+      internalID: 6186806299176583451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_58
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 882
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ac593d223c08290800000000000000
+      internalID: -7890091992806995385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_59
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 599
+        width: 122
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62702c3dd324827a0800000000000000
+      internalID: -6401794036994013402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_60
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 629
+        width: 212
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a71f5c89ee97890800000000000000
+      internalID: -7459668967839139251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_61
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 777
+        width: 116
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d36a45e79f4ad00800000000000000
+      internalID: 983184939654987147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_62
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 796
+        width: 87
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73b54782beb7ee40800000000000000
+      internalID: 5685722728561488764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_63
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 779
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b2305588354a7e0800000000000000
+      internalID: -1755186109760722058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_64
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 778
+        width: 109
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb2f436ade569020800000000000000
+      internalID: 2348168547782306788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 548
+        width: 166
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2be2653e9eaff70800000000000000
+      internalID: 9221940349607260898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_66
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 555
+        width: 166
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b5902aba014d800800000000000000
+      internalID: 636151776710056727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_67
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 573
+        width: 166
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbe85c2ddeed4b20800000000000000
+      internalID: 3120412750536829903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_68
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 573
+        width: 166
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abe5c9a6892fc7f0800000000000000
+      internalID: -590207367811568736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_69
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 577
+        width: 212
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109d69859957ed870800000000000000
+      internalID: 8709528030857844993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_70
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 676
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3460f0358bade20800000000000000
+      internalID: 3376213537541473262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_71
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 636
+        width: 101
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e8b6eed95c270d0800000000000000
+      internalID: -3426459084374962537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_72
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 669
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e3ef6ae8f1ffa0800000000000000
+      internalID: -5768555961901652628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_73
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 452
+        width: 92
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d07e8bf2e39091a0800000000000000
+      internalID: -6804776433864511271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_74
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 533
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84f52c13feef43d0800000000000000
+      internalID: -3220092480629902197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_75
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 567
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7533a9ff9b46d90800000000000000
+      internalID: -7105349804628944974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_76
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 494
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822eb3007c1b0f380800000000000000
+      internalID: -8939449792069901784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_77
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 457
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8df6b2e083f2a370800000000000000
+      internalID: 8332489995473845647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_78
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 457
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6191d1478e96f990800000000000000
+      internalID: -7352515037873729169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_79
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 583
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f292e568cf543b430800000000000000
+      internalID: 3797455861691853103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_80
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 550
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da88e72272fc0370800000000000000
+      internalID: 8290267586191985367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_81
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 583
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595c21ad8c23f4ac0800000000000000
+      internalID: -3868817716654455403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_82
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 527
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c13b3939bfd140800000000000000
+      internalID: 4746716187729182856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_83
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 463
+        width: 174
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849a7451b004f3e90800000000000000
+      internalID: -7043840875838330552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_84
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 515
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd88ad19b0b41af0800000000000000
+      internalID: -426521755580330537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_85
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 571
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2954f211336bfadc0800000000000000
+      internalID: -3625478844562061934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 472
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f38b9f2ec593510800000000000000
+      internalID: 1529355678390959897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 482
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a619c336d1164f860800000000000000
+      internalID: 7562776453108765034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_88
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 409
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096919c7258c70710800000000000000
+      internalID: 1659515244312106640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_89
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 416
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfefa1beb8e478520800000000000000
+      internalID: 2704216464111107837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_90
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 428
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a10d0d9cc8b44f90800000000000000
+      internalID: -6970243134314970713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_91
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 428
+        width: 145
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57a871783567e3d0800000000000000
+      internalID: -3177459718990289062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_92
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 502
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4f01f4795667d50800000000000000
+      internalID: 6734681993320133825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_93
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 464
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc45784fe6378d6b0800000000000000
+      internalID: -5271336443451058995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_94
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 455
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e6b6f49f30f8320800000000000000
+      internalID: 2562271082311282264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_95
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 455
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa0b7ceb65cdc990800000000000000
+      internalID: -7364012748361233745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_96
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 476
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6899bbcb485b1b0b0800000000000000
+      internalID: -5714586870449727098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_97
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 508
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa2e247cb1d719b0800000000000000
+      internalID: -5109384644895298898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_98
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 463
+        width: 142
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ac9ecb3719942b0800000000000000
+      internalID: -5599784735381796211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_99
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 490
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703dade0b299939c0800000000000000
+      internalID: -3946955188201663737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_100
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 478
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22978236f85379800800000000000000
+      internalID: 619022363746924834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_101
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 424
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8191e6a21362c50800000000000000
+      internalID: 6640048758909900970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_102
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 443
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e58a87e435f6b890800000000000000
+      internalID: -7442491726611446297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_103
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 420
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8382d2fd6d644d750800000000000000
+      internalID: 6328761265043613752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_104
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 458
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091c9de67355aec90800000000000000
+      internalID: -7139800562671173232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_105
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 428
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f4e4fc8ec4e2460800000000000000
+      internalID: 7218791815515623239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_106
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 415
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bc546b809140c30800000000000000
+      internalID: 4324609067390978900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_107
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 468
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636dd0bc16f8bae80800000000000000
+      internalID: -8166275849124981194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_108
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 428
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693223255fe8a9b70800000000000000
+      internalID: 8906588397375726486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_109
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 431
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe4807dd4bcc1320800000000000000
+      internalID: 2530120625855942396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_110
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 434
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10866dd7c748126c0800000000000000
+      internalID: -4169906109746354175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_111
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 333
+        width: 78
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a61de6060775c70800000000000000
+      internalID: 8959753543155280469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_112
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 334
+        width: 149
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ba7a94cdcd9ffb0800000000000000
+      internalID: -4613413504577721454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_113
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 333
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cadea1a54453e10800000000000000
+      internalID: 2176721148693031984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_114
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 335
+        width: 229
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866f3cae82efbe640800000000000000
+      internalID: 5110457653872817768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_115
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 238
+        width: 29
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3891bbbd85a565d50800000000000000
+      internalID: 6725662431214508419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_116
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 403
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da380a41a17a11b0800000000000000
+      internalID: -5685106642056103215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_117
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 297
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba8a665a1ebfd4d0800000000000000
+      internalID: -3107556197534102851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_118
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 319
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ef2d3bf31536090800000000000000
+      internalID: -8042495175511835068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_119
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 323
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdccbaac8d3d0010800000000000000
+      internalID: 1156648353673301445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_120
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 301
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aa25167b35b4f70800000000000000
+      internalID: 9172517113147075076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_121
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 333
+        width: 726
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d644f6cb5d18028a0800000000000000
+      internalID: -6331918321093491603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_122
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 345
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852dd662bfcd2dde0800000000000000
+      internalID: -1309741570371759528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_123
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 329
+        width: 113
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1052966eab02f900800000000000000
+      internalID: 716648134378410014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_124
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 297
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92a0632c455a0800800000000000000
+      internalID: 579369287569941147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_125
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 298
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a8da28dd20255a0800000000000000
+      internalID: -6534156958957729233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_126
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 338
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0d53b46377b7910800000000000000
+      internalID: 1836192348157366504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_127
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 238
+        width: 131
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d7221760d82e4c0800000000000000
+      internalID: -4259687238731661932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_128
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 238
+        width: 148
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9017844e81da573b0800000000000000
+      internalID: -5515311846224531191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 239
+        width: 158
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de14c046e61349f0800000000000000
+      internalID: -485519156640997673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_130
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 238
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f587dd59ae8840800000000000000
+      internalID: 5228302437936657711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_131
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 238
+        width: 111
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536fd7f9234daf7c0800000000000000
+      internalID: -4036680802094942667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_132
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 238
+        width: 154
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173aaba00914c9330800000000000000
+      internalID: 3718919479212286833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_133
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 256
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfd2adc70ffe8fb0800000000000000
+      internalID: -4643493756792545345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_134
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 253
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d573fe1eae73773e0800000000000000
+      internalID: -2056113222918916259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_135
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 238
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0ad500ae7d750c0800000000000000
+      internalID: -4586960295425105674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_136
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 282
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef81756d9bff510800000000000000
+      internalID: 1585189924093099616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_137
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 290
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31913eb55018a770800000000000000
+      internalID: 8622159447049998651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_138
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 238
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d2e90c37d88900800000000000000
+      internalID: 687035596037871067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_139
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 241
+        width: 194
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292ba1a43111a3670800000000000000
+      internalID: 8519140419670028946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_140
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 238
+        width: 229
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953f33d72111570a0800000000000000
+      internalID: -6884577684258294951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_141
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 238
+        width: 227
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d8acac201bc54b0800000000000000
+      internalID: -5450286823474819681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 238
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d402c6d52be9fb10800000000000000
+      internalID: 2015900855974364372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_143
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 238
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5455eb7216a0e5ee0800000000000000
+      internalID: -1270566632477010619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FON_144
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 238
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e3882d1f99ec5f0800000000000000
+      internalID: -734480425316499956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FON_0: 9054248327520743514
+      FON_1: -3184221230897179110
+      FON_10: 8548977017231271310
+      FON_100: 619022363746924834
+      FON_101: 6640048758909900970
+      FON_102: -7442491726611446297
+      FON_103: 6328761265043613752
+      FON_104: -7139800562671173232
+      FON_105: 7218791815515623239
+      FON_106: 4324609067390978900
+      FON_107: -8166275849124981194
+      FON_108: 8906588397375726486
+      FON_109: 2530120625855942396
+      FON_11: -8119885055819311571
+      FON_110: -4169906109746354175
+      FON_111: 8959753543155280469
+      FON_112: -4613413504577721454
+      FON_113: 2176721148693031984
+      FON_114: 5110457653872817768
+      FON_115: 6725662431214508419
+      FON_116: -5685106642056103215
+      FON_117: -3107556197534102851
+      FON_118: -8042495175511835068
+      FON_119: 1156648353673301445
+      FON_12: -8738681613144669177
+      FON_120: 9172517113147075076
+      FON_121: -6331918321093491603
+      FON_122: -1309741570371759528
+      FON_123: 716648134378410014
+      FON_124: 579369287569941147
+      FON_125: -6534156958957729233
+      FON_126: 1836192348157366504
+      FON_127: -4259687238731661932
+      FON_128: -5515311846224531191
+      FON_129: -485519156640997673
+      FON_13: -2638608067519320732
+      FON_130: 5228302437936657711
+      FON_131: -4036680802094942667
+      FON_132: 3718919479212286833
+      FON_133: -4643493756792545345
+      FON_134: -2056113222918916259
+      FON_135: -4586960295425105674
+      FON_136: 1585189924093099616
+      FON_137: 8622159447049998651
+      FON_138: 687035596037871067
+      FON_139: 8519140419670028946
+      FON_14: 8300785477432618940
+      FON_140: -6884577684258294951
+      FON_141: -5450286823474819681
+      FON_142: 2015900855974364372
+      FON_143: -1270566632477010619
+      FON_144: -734480425316499956
+      FON_15: -4249773807714506815
+      FON_16: -8965455702809595344
+      FON_17: 5313260171282755272
+      FON_18: 2004903770063357244
+      FON_19: -2640788801063998593
+      FON_2: 5287125420949551291
+      FON_20: -361864692250969257
+      FON_21: -5098487955166862344
+      FON_22: -3815103117460370581
+      FON_23: -7195962129256874642
+      FON_24: 8607559715839208915
+      FON_25: 3763707250480796111
+      FON_26: 4618383042891631767
+      FON_27: 1785803288912055925
+      FON_28: 3873813361302454707
+      FON_29: -3915484408884022735
+      FON_3: -8574331489877115698
+      FON_30: 6829255684740850933
+      FON_31: 4411655281268355196
+      FON_32: 8545879433264436699
+      FON_33: -7726743890164391473
+      FON_34: 3029737395497678991
+      FON_35: 6290815765049200658
+      FON_36: 3145993021304937336
+      FON_37: 1967552648739382541
+      FON_38: 3770650104432250555
+      FON_39: -1102546277990099146
+      FON_4: -8770238710698991420
+      FON_40: 495877182997642398
+      FON_41: -499391375046770413
+      FON_42: -7166499645101231956
+      FON_43: -7974321320733119099
+      FON_44: 431604328736096638
+      FON_45: -6279319006904310998
+      FON_46: 3048892079782738829
+      FON_47: -788411429361223990
+      FON_48: 731123891573440599
+      FON_49: -3719546281531527689
+      FON_5: 2002650717326368740
+      FON_50: 2382675282222959283
+      FON_51: 1392336082708372837
+      FON_52: 473840872841767368
+      FON_53: -2691271727844348822
+      FON_54: 2457852851636472379
+      FON_55: -1451869825572746819
+      FON_56: 3180859389185612666
+      FON_57: 6186806299176583451
+      FON_58: -7890091992806995385
+      FON_59: -6401794036994013402
+      FON_6: 579270286216935123
+      FON_60: -7459668967839139251
+      FON_61: 983184939654987147
+      FON_62: 5685722728561488764
+      FON_63: -1755186109760722058
+      FON_64: 2348168547782306788
+      FON_65: 9221940349607260898
+      FON_66: 636151776710056727
+      FON_67: 3120412750536829903
+      FON_68: -590207367811568736
+      FON_69: 8709528030857844993
+      FON_7: -767547378428696978
+      FON_70: 3376213537541473262
+      FON_71: -3426459084374962537
+      FON_72: -5768555961901652628
+      FON_73: -6804776433864511271
+      FON_74: -3220092480629902197
+      FON_75: -7105349804628944974
+      FON_76: -8939449792069901784
+      FON_77: 8332489995473845647
+      FON_78: -7352515037873729169
+      FON_79: 3797455861691853103
+      FON_8: 4719975857166864918
+      FON_80: 8290267586191985367
+      FON_81: -3868817716654455403
+      FON_82: 4746716187729182856
+      FON_83: -7043840875838330552
+      FON_84: -426521755580330537
+      FON_85: -3625478844562061934
+      FON_86: 1529355678390959897
+      FON_87: 7562776453108765034
+      FON_88: 1659515244312106640
+      FON_89: 2704216464111107837
+      FON_9: -4841779414138242331
+      FON_90: -6970243134314970713
+      FON_91: -3177459718990289062
+      FON_92: 6734681993320133825
+      FON_93: -5271336443451058995
+      FON_94: 2562271082311282264
+      FON_95: -7364012748361233745
+      FON_96: -5714586870449727098
+      FON_97: -5109384644895298898
+      FON_98: -5599784735381796211
+      FON_99: -3946955188201663737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

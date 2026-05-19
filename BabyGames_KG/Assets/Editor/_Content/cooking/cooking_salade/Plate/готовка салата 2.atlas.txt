@@ -1,0 +1,111 @@
+
+готовка салата 2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cut_carrot
+  rotate: false
+  xy: 1411, 356
+  size: 134, 149
+  orig: 134, 149
+  offset: 0, 0
+  index: -1
+cut_carrot_2
+  rotate: false
+  xy: 1441, 197
+  size: 133, 157
+  orig: 133, 157
+  offset: 0, 0
+  index: -1
+cut_carrot_3
+  rotate: false
+  xy: 1267, 356
+  size: 142, 149
+  orig: 142, 149
+  offset: 0, 0
+  index: -1
+cut_cucumber
+  rotate: false
+  xy: 1447, 13
+  size: 140, 182
+  orig: 140, 182
+  offset: 0, 0
+  index: -1
+cut_cucumber_2
+  rotate: false
+  xy: 1299, 190
+  size: 140, 164
+  orig: 140, 164
+  offset: 0, 0
+  index: -1
+cut_cucumber_3
+  rotate: false
+  xy: 1295, 13
+  size: 150, 163
+  orig: 150, 163
+  offset: 0, 0
+  index: -1
+cut_grass
+  rotate: false
+  xy: 1132, 2
+  size: 161, 174
+  orig: 161, 174
+  offset: 0, 0
+  index: -1
+cut_grass_2
+  rotate: false
+  xy: 947, 41
+  size: 183, 176
+  orig: 183, 176
+  offset: 0, 0
+  index: -1
+cut_peper
+  rotate: false
+  xy: 541, 22
+  size: 202, 195
+  orig: 202, 195
+  offset: 0, 0
+  index: -1
+cut_peper_2
+  rotate: false
+  xy: 1132, 178
+  size: 165, 170
+  orig: 165, 170
+  offset: 0, 0
+  index: -1
+cut_tomato
+  rotate: false
+  xy: 1080, 350
+  size: 185, 155
+  orig: 185, 155
+  offset: 0, 0
+  index: -1
+cut_tomato_2
+  rotate: false
+  xy: 745, 55
+  size: 200, 162
+  orig: 200, 162
+  offset: 0, 0
+  index: -1
+fork
+  rotate: false
+  xy: 1589, 142
+  size: 94, 363
+  orig: 94, 363
+  offset: 0, 0
+  index: -1
+plate_back
+  rotate: false
+  xy: 2, 103
+  size: 537, 402
+  orig: 537, 402
+  offset: 0, 0
+  index: -1
+plate_front
+  rotate: false
+  xy: 541, 219
+  size: 537, 286
+  orig: 537, 286
+  offset: 0, 0
+  index: -1

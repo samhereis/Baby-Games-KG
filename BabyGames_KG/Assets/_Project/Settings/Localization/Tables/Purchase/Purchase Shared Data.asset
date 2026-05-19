@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Purchase Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Purchase
+  m_TableCollectionNameGuidString: e8ab013b3b573b94eaade5570b42eb25
+  m_Entries:
+  - m_Id: 46323289604956160
+    m_Key: button_full_access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22
+    m_Key: full_access
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61
+    m_Key: subscription_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62
+    m_Key: subscription_plan_life_time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 64
+    m_Key: subscription_main_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65
+    m_Key: subscription_restore_link
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66
+    m_Key: subscription_privacy_policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 67
+    m_Key: subscription_terms_of_use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 71
+    m_Key: subscription_description_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73
+    m_Key: subscription_description_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 109
+    m_Key: purchase_advantages_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 110
+    m_Key: purchase_advantages_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 111
+    m_Key: purchase_advantages_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112
+    m_Key: purchase_advantages_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 113
+    m_Key: purchase_advantages_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 118
+    m_Key: purchase_advantages_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119
+    m_Key: purchase_advantages_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114
+    m_Key: purchase_advantages_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 115
+    m_Key: purchase_advantages_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 116
+    m_Key: purchase_advantages_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 117
+    m_Key: purchase_advantages_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 120
+    m_Key: purchase_advantages_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121
+    m_Key: purchase_warning_message1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 122
+    m_Key: purchase_warning_message2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123
+    m_Key: purchase_warning_message3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 124
+    m_Key: purchase_warning_message4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 125
+    m_Key: purchase_warning_message5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 126
+    m_Key: purchase_warning_message6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127
+    m_Key: yearly_purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128
+    m_Key: monthly_purchase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68075474754985984
+    m_Key: save_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68075474771763200
+    m_Key: price
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68075474775957504
+    m_Key: price_for_month
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68075474775957505
+    m_Key: sevenday_free_trial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 68075474775957506
+    m_Key: threeday_plan
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 239268459121213807
+  references:
+    version: 2
+    RefIds:
+    - rid: 239268459121213807
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1752923736578

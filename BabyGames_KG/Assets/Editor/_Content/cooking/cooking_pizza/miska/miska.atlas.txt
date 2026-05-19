@@ -1,0 +1,27 @@
+
+miska.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+miska_Back
+  rotate: false
+  xy: 473, 219
+  size: 560, 252
+  orig: 560, 252
+  offset: 0, 0
+  index: -1
+miska_Front
+  rotate: false
+  xy: 473, 19
+  size: 560, 198
+  orig: 560, 198
+  offset: 0, 0
+  index: -1
+round_testo
+  rotate: false
+  xy: 2, 2
+  size: 469, 469
+  orig: 469, 469
+  offset: 0, 0
+  index: -1

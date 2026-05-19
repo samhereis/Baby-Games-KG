@@ -1,0 +1,27 @@
+
+jeep.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jeep_BODY
+  rotate: false
+  xy: 2, 2
+  size: 520, 188
+  orig: 520, 188
+  offset: 0, 0
+  index: -1
+jeep_LIGHT_L
+  rotate: false
+  xy: 631, 80
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+jeep_W_L
+  rotate: false
+  xy: 524, 84
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1

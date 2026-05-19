@@ -1,0 +1,139 @@
+
+seahorse.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belok
+  rotate: false
+  xy: 75, 15
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+brow_grust'
+  rotate: false
+  xy: 217, 36
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+brow_neitr
+  rotate: false
+  xy: 75, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+griva
+  rotate: false
+  xy: 108, 40
+  size: 87, 121
+  orig: 87, 121
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 108, 163
+  size: 131, 87
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+rot_grust'
+  rotate: false
+  xy: 123, 14
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+rot_neitral
+  rotate: false
+  xy: 106, 14
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+rot_udivlenie
+  rotate: false
+  xy: 197, 36
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+rot_ulybka
+  rotate: false
+  xy: 139, 11
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+rot_ulybka-smeh
+  rotate: false
+  xy: 141, 24
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+telo
+  rotate: false
+  xy: 2, 79
+  size: 104, 171
+  orig: 104, 171
+  offset: 0, 0
+  index: -1
+veko
+  rotate: false
+  xy: 75, 46
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+veko_poluzakrytyi
+  rotate: false
+  xy: 197, 71
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+veko_prishurennyi
+  rotate: false
+  xy: 106, 24
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+veko_prishurennyi_UP
+  rotate: false
+  xy: 197, 52
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+veko_ulybka
+  rotate: false
+  xy: 197, 128
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+veko_zakrytyi
+  rotate: false
+  xy: 197, 93
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+winx
+  rotate: false
+  xy: 2, 6
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+zrachok
+  rotate: false
+  xy: 162, 19
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1

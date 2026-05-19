@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83fedfba14c461740aced5bcd31f6d98, type: 3}
+  m_Name: interests
+  m_EditorClassIdentifier: 
+  <activityCategoryName>k__BackingField: interests
+  <icon>k__BackingField: {fileID: 0}
+  <activities>k__BackingField:
+  - <activityName>k__BackingField: interests-carwash
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: interests
+    <activityFolder>k__BackingField: carwash
+    <type>k__BackingField: 8
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
+    <icon>k__BackingField: carwash-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/interests/carwash/interests-carwash.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/interests/carwash/interests-carwash.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/interests/carwash/interests-carwash.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/interests/carwash/interests-carwash.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: car_wash
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: car_wash
+    prefab_reference: {fileID: 2751313992146950978, guid: 4de8eae0a8e94f74fa298969ac131c21, type: 3}
+    icon_reference: {fileID: 2800000, guid: f4165c1c308a3de4488817415a39c032, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: interests-car_tuning
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: interests
+    <activityFolder>k__BackingField: car_tuning
+    <type>k__BackingField: 4
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
+    <icon>k__BackingField: car_tuning-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/interests/car_tuning/interests-car_tuning.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/interests/car_tuning/interests-car_tuning.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/interests/car_tuning/interests-car_tuning.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/interests/car_tuning/interests-car_tuning.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: car_assembly
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: car_assembly
+    prefab_reference: {fileID: 2099110123635013540, guid: cd857b3face3f464291cdf24298556a2, type: 3}
+    icon_reference: {fileID: 2800000, guid: b23dd0caf163a404bb767e507a0b2150, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: interests-colorful_train
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: interests
+    <activityFolder>k__BackingField: colorful_train
+    <type>k__BackingField: 10
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
+    <icon>k__BackingField: colorful_train-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/interests/colorful_train/interests-colorful_train.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/interests/colorful_train/interests-colorful_train.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/interests/colorful_train/interests-colorful_train.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/interests/colorful_train/interests-colorful_train.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: "\u0441olor_train"
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: "\u0441olor_train"
+    prefab_reference: {fileID: 8113211061409959404, guid: 3e0d658d9befea24c9a13bde7f26474f, type: 3}
+    icon_reference: {fileID: 2800000, guid: c8645e7c5a1d23b408285250212812e7, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: interests-makeup
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: interests
+    <activityFolder>k__BackingField: makeup
+    <type>k__BackingField: 9
+    <subtype>k__BackingField: MakeupActivity_Identifier
+    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
+    <icon>k__BackingField: makeup-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/interests/makeup/interests-makeup.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/interests/makeup/interests-makeup.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/interests/makeup/interests-makeup.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/interests/makeup/interests-makeup.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: beauty_salon
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: beauty_salon
+    prefab_reference: {fileID: 1911764745572376070, guid: b2b93f1b06531cc42bd77d5c7ba0a232, type: 3}
+    icon_reference: {fileID: 2800000, guid: d513a5d6ac2fdfd44866f74008ef9771, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: interests-princess
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: interests
+    <activityFolder>k__BackingField: princess
+    <type>k__BackingField: 9
+    <subtype>k__BackingField: 
+    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
+    <icon>k__BackingField: princess-icon.png
+    <isAlwaysUnlocked>k__BackingField: 0
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/interests/princess/interests-princess.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/interests/princess/interests-princess.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/interests/princess/interests-princess.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/interests/princess/interests-princess.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: princess_dressing
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: princess_dressing
+    prefab_reference: {fileID: 8505259504300382390, guid: 8c4f04223407fa346888da1de2fa44dc, type: 3}
+    icon_reference: {fileID: 2800000, guid: d78383a12a4295e4abf75b92d62d708f, type: 3}
+    _errorList: []
+  - <activityName>k__BackingField: interests-room_cleaning
+    <displayName>k__BackingField: 
+    <acitvityCategory>k__BackingField: interests
+    <activityFolder>k__BackingField: room_cleaning
+    <type>k__BackingField: 9
+    <subtype>k__BackingField: RoomCleaningActivity_Identifier
+    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <gameVersionSupported>k__BackingField: {x: 2, y: 2, z: 26}
+    <icon>k__BackingField: room_cleaning-icon.png
+    <isAlwaysUnlocked>k__BackingField: 1
+    <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/interests/room_cleaning/interests-room_cleaning.bundle
+    <assetBundleUrl_iOS>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/iOS/interests/room_cleaning/interests-room_cleaning.bundle
+    <assetBundleUrl_Windows>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneWindows64/interests/room_cleaning/interests-room_cleaning.bundle
+    <assetBundleUrl_OSX>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/StandaloneOSX/interests/room_cleaning/interests-room_cleaning.bundle
+    <loc_tableName>k__BackingField: Categories
+    <loc_entryName>k__BackingField: room_cleaning
+    <loc_tableName_String>k__BackingField: Categories
+    <loc_entryName_String>k__BackingField: room_cleaning
+    prefab_reference: {fileID: 2602299476021324723, guid: 90ee1f51ad6a0e1419085b9c630afd98, type: 3}
+    icon_reference: {fileID: 2800000, guid: e2632b393b12c4147b97eeab90cdf15f, type: 3}
+    _errorList: []
+  <stringSettings>k__BackingField: []
+  <intSettings>k__BackingField: []
+  <floatSettings>k__BackingField:
+  - key: delayBeforeFinalAnimation
+    value: 0.75
+  - key: hiding_dropDIstance
+    value: 1
+  <vector3Settings>k__BackingField:
+  - key: interests-room_cleaning_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-carwash_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-car_tuning_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-colorful_train_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-makeup_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-princess_iconScale
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-room_cleaning_iconOffset
+    value: {x: 25, y: 0, z: 0}
+  - key: interests-carwash_iconOffset
+    value: {x: 15, y: 10, z: 0}
+  - key: interests-car_tuning_iconOffset
+    value: {x: 0, y: 0, z: 0}
+  - key: interests-colorful_train_iconOffset
+    value: {x: 15, y: 0, z: 0}
+  - key: interests-makeup_iconOffset
+    value: {x: 15, y: 10, z: 0}
+  - key: interests-princess_iconOffset
+    value: {x: 30, y: 0, z: 0}
+  <iconOffsets>k__BackingField:
+  - key: interests-room_cleaning
+    value: {x: 10, y: 0, z: 0}
+  - key: interests-carwash
+    value: {x: -5, y: 15, z: 0}
+  - key: interests-car_tuning
+    value: {x: -15, y: 0, z: 0}
+  - key: interests-colorful_train
+    value: {x: 0, y: 0, z: 0}
+  - key: interests-makeup
+    value: {x: 0, y: 10, z: 0}
+  - key: interests-princess
+    value: {x: 15, y: 0, z: 0}
+  <iconScales>k__BackingField:
+  - key: interests-room_cleaning
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-carwash
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-colorful_train
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-makeup
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-princess
+    value: {x: 1, y: 1, z: 1}
+  - key: interests-room_cleaning
+    value: {x: 1, y: 1, z: 1}
+  contentPath: Assets/Editor/_Content/interests

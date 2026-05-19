@@ -1,0 +1,370 @@
+
+crab.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belok _L
+  rotate: false
+  xy: 626, 377
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+belok_R
+  rotate: false
+  xy: 553, 196
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 693, 323
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 626, 441
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+glasses_L
+  rotate: false
+  xy: 493, 374
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+glasses_M1
+  rotate: false
+  xy: 307, 66
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+glasses_R
+  rotate: false
+  xy: 749, 144
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+grust'
+  rotate: false
+  xy: 344, 68
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+kleshnya_L_1
+  rotate: false
+  xy: 373, 83
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+kleshnya_L_2
+  rotate: false
+  xy: 475, 77
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+kleshnya_R_1
+  rotate: false
+  xy: 264, 82
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+kleshnya_R_2
+  rotate: false
+  xy: 693, 389
+  size: 65, 116
+  orig: 65, 116
+  offset: 0, 0
+  index: -1
+marakas_osnov
+  rotate: false
+  xy: 768, 277
+  size: 116, 228
+  orig: 116, 228
+  offset: 0, 0
+  index: -1
+neitral
+  rotate: false
+  xy: 378, 74
+  size: 35, 7
+  orig: 35, 7
+  offset: 0, 0
+  index: -1
+noga_1
+  rotate: false
+  xy: 958, 358
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+noga_2
+  rotate: false
+  xy: 980, 92
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+noga_3
+  rotate: false
+  xy: 980, 428
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+noga_4
+  rotate: false
+  xy: 958, 209
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+noga_5
+  rotate: false
+  xy: 980, 150
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+noga_6
+  rotate: false
+  xy: 958, 288
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+piano_1
+  rotate: false
+  xy: 493, 260
+  size: 119, 61
+  orig: 119, 61
+  offset: 0, 0
+  index: -1
+piano_2
+  rotate: false
+  xy: 614, 260
+  size: 119, 61
+  orig: 119, 61
+  offset: 0, 0
+  index: -1
+piano_3
+  rotate: false
+  xy: 399, 10
+  size: 119, 62
+  orig: 119, 62
+  offset: 0, 0
+  index: -1
+piano_4
+  rotate: false
+  xy: 520, 15
+  size: 122, 60
+  orig: 122, 60
+  offset: 0, 0
+  index: -1
+piano_5
+  rotate: false
+  xy: 543, 129
+  size: 122, 60
+  orig: 122, 60
+  offset: 0, 0
+  index: -1
+piano_6
+  rotate: false
+  xy: 644, 17
+  size: 122, 60
+  orig: 122, 60
+  offset: 0, 0
+  index: -1
+piano_7
+  rotate: false
+  xy: 270, 2
+  size: 127, 59
+  orig: 127, 59
+  offset: 0, 0
+  index: -1
+piano_klavy
+  rotate: false
+  xy: 264, 191
+  size: 287, 64
+  orig: 287, 64
+  offset: 0, 0
+  index: -1
+piano_korpus
+  rotate: false
+  xy: 2, 257
+  size: 489, 248
+  orig: 489, 248
+  offset: 0, 0
+  index: -1
+podveko_R
+  rotate: false
+  xy: 760, 81
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+podveko_l
+  rotate: false
+  xy: 803, 81
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+ruka_L
+  rotate: false
+  xy: 667, 139
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+ruka_R
+  rotate: false
+  xy: 617, 200
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 5
+  size: 266, 54
+  orig: 266, 54
+  offset: 0, 0
+  index: -1
+telo
+  rotate: false
+  xy: 2, 61
+  size: 260, 194
+  orig: 260, 194
+  offset: 0, 0
+  index: -1
+udivlenie
+  rotate: false
+  xy: 639, 340
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+ulybka
+  rotate: false
+  xy: 264, 63
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+ulybka-smeh
+  rotate: false
+  xy: 846, 109
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+veko_L
+  rotate: false
+  xy: 768, 5
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+veko_R
+  rotate: false
+  xy: 844, 5
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_L
+  rotate: false
+  xy: 543, 79
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_R
+  rotate: false
+  xy: 618, 79
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+veko_prishurennye_L
+  rotate: false
+  xy: 693, 108
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+veko_prishurennye_R
+  rotate: false
+  xy: 682, 229
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+veko_prishurennye_U_L
+  rotate: false
+  xy: 493, 335
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+veko_prishurennye_U_R
+  rotate: false
+  xy: 566, 335
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+veko_ulybka_L
+  rotate: false
+  xy: 882, 201
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+veko_ulybka_R
+  rotate: false
+  xy: 904, 85
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+veko_zakrytye_L
+  rotate: false
+  xy: 920, 9
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+veko_zakrytye_R
+  rotate: false
+  xy: 886, 431
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+zrachok_L
+  rotate: false
+  xy: 882, 161
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+zrachok_R
+  rotate: false
+  xy: 922, 161
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

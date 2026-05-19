@@ -1,0 +1,48 @@
+
+FON uborka.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+futbolka_1
+  rotate: false
+  xy: 323, 5
+  size: 150, 98
+  orig: 150, 98
+  offset: 0, 0
+  index: -1
+futbolka_1_slojennyi
+  rotate: false
+  xy: 475, 59
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+futbolka_2
+  rotate: false
+  xy: 166, 4
+  size: 155, 99
+  orig: 155, 99
+  offset: 0, 0
+  index: -1
+futbolka_2_slojennyi
+  rotate: false
+  xy: 564, 18
+  size: 85, 39
+  orig: 85, 39
+  offset: 0, 0
+  index: -1
+futbolka_3
+  rotate: false
+  xy: 2, 2
+  size: 162, 101
+  orig: 162, 101
+  offset: 0, 0
+  index: -1
+futbolka_3_slojennyi
+  rotate: false
+  xy: 475, 13
+  size: 87, 44
+  orig: 87, 44
+  offset: 0, 0
+  index: -1

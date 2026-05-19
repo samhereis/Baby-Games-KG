@@ -1,0 +1,27 @@
+
+flour.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flour
+  rotate: false
+  xy: 2, 2
+  size: 323, 326
+  orig: 323, 326
+  offset: 0, 0
+  index: -1
+flour_sip1
+  rotate: false
+  xy: 2, 330
+  size: 162, 107
+  orig: 162, 107
+  offset: 0, 0
+  index: -1
+flour_sip2
+  rotate: false
+  xy: 166, 330
+  size: 162, 107
+  orig: 162, 107
+  offset: 0, 0
+  index: -1

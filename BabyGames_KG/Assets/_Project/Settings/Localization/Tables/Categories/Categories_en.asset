@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Categories_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a86663915fac4d4459742e8fc94a90da, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1
+    m_Localized: 'Baby Games '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2
+    m_Localized: For Parents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3
+    m_Localized: Animals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4
+    m_Localized: Cooking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6
+    m_Localized: Video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7
+    m_Localized: Coloring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8
+    m_Localized: Games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19
+    m_Localized: Please calculate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9
+    m_Localized: Bubbles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10
+    m_Localized: car wash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11
+    m_Localized: Whose Home?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21
+    m_Localized: Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 133
+    m_Localized: favorite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 134
+    m_Localized: Colorful train
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135
+    m_Localized: Princess dressing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136
+    m_Localized: Room cleaning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 137
+    m_Localized: Beauty salon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 138
+    m_Localized: Cake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 139
+    m_Localized: Ice-cream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140
+    m_Localized: Salad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 141
+    m_Localized: Burger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142
+    m_Localized: Puppy`s food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 143
+    m_Localized: Pizza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127
+    m_Localized: Farm orchestra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128
+    m_Localized: Ocean orchestra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 129
+    m_Localized: Farm puzzle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 130
+    m_Localized: Hide and Seek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 131
+    m_Localized: all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 132
+    m_Localized: downloaded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112358974899085312
+    m_Localized: car tuning
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

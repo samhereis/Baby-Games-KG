@@ -1,0 +1,209 @@
+
+meduza.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 419, 57
+  size: 92, 197
+  orig: 92, 197
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 9
+  size: 62, 245
+  orig: 62, 245
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 66, 11
+  size: 61, 243
+  orig: 61, 243
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 513, 59
+  size: 93, 195
+  orig: 93, 195
+  offset: 0, 0
+  index: -1
+belki
+  rotate: false
+  xy: 668, 143
+  size: 169, 50
+  orig: 169, 50
+  offset: 0, 0
+  index: -1
+brow_grust_L
+  rotate: false
+  xy: 399, 3
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+brow_grust_R
+  rotate: false
+  xy: 437, 4
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+brow_neitr_L
+  rotate: false
+  xy: 608, 61
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+brow_neitr_R
+  rotate: false
+  xy: 647, 3
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+fartuk
+  rotate: false
+  xy: 647, 17
+  size: 232, 56
+  orig: 232, 56
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 129, 49
+  size: 288, 205
+  orig: 288, 205
+  offset: 0, 0
+  index: -1
+rot_grust'
+  rotate: false
+  xy: 247, 2
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+rot_neitral
+  rotate: false
+  xy: 66, 2
+  size: 32, 7
+  orig: 32, 7
+  offset: 0, 0
+  index: -1
+rot_udivlenie
+  rotate: false
+  xy: 247, 15
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+rot_ulybka
+  rotate: false
+  xy: 359, 3
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+rot_ulybka-smeh
+  rotate: false
+  xy: 669, 230
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+veki
+  rotate: false
+  xy: 475, 3
+  size: 170, 52
+  orig: 170, 52
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_L
+  rotate: false
+  xy: 129, 13
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_R
+  rotate: false
+  xy: 189, 14
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+veko_prishurennye_L
+  rotate: false
+  xy: 716, 235
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+veko_prishurennye_R
+  rotate: false
+  xy: 669, 208
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+veko_prishurennye_UP_L
+  rotate: false
+  xy: 417, 22
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+veko_prishurennye_UP_R
+  rotate: false
+  xy: 359, 21
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+veko_ulybka_L
+  rotate: false
+  xy: 667, 77
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+veko_ulybka_R
+  rotate: false
+  xy: 608, 135
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+veko_zakrytye_L
+  rotate: false
+  xy: 608, 195
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+veko_zakrytye_R
+  rotate: false
+  xy: 608, 75
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+zrachok_L
+  rotate: false
+  xy: 291, 15
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+zrachok_R
+  rotate: false
+  xy: 325, 15
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

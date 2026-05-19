@@ -1,0 +1,125 @@
+
+ugor.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belok
+  rotate: false
+  xy: 110, 23
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+brow_grust'
+  rotate: false
+  xy: 136, 6
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+brow_neitr
+  rotate: false
+  xy: 177, 10
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 76, 21
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rot_grust'
+  rotate: false
+  xy: 168, 502
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+rot_neitral
+  rotate: false
+  xy: 161, 26
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+rot_udivlenie
+  rotate: false
+  xy: 57, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+rot_ulybka
+  rotate: false
+  xy: 142, 24
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+rot_ulybka-smeh
+  rotate: false
+  xy: 36, 3
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+rumyana
+  rotate: false
+  xy: 114, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+telo
+  rotate: false
+  xy: 2, 55
+  size: 164, 455
+  orig: 164, 455
+  offset: 0, 0
+  index: -1
+veko_poluzakrytyi
+  rotate: false
+  xy: 142, 33
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+veko_prishurennyi
+  rotate: false
+  xy: 78, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+veko_prishurennyi_dop
+  rotate: false
+  xy: 2, 2
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+veko_ulybka
+  rotate: false
+  xy: 39, 19
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+veko_zakrytyi
+  rotate: false
+  xy: 2, 18
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+zrachok
+  rotate: false
+  xy: 155, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

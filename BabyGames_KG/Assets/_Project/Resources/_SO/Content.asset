@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39d6af8d7c3f0974ab760cd9f7daa177, type: 3}
+  m_Name: Content
+  m_EditorClassIdentifier: 
+  <glitterMaterial_Drawable_Background>k__BackingField: {fileID: 2100000, guid: a449f011cb8486344baa099616e9188f, type: 2}
+  <glitterMaterial_SlotSeparation>k__BackingField: {fileID: 2100000, guid: a449f011cb8486344baa099616e9188f, type: 2}
+  <completeParticle>k__BackingField: {fileID: 5012269258749190053, guid: 1b9f7561637c04b8ebad21a6982bd126, type: 3}
+  <mediumConfetti>k__BackingField:
+  - <key>k__BackingField: Confetti air cute
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 3615548695346768172, guid: 08739603704adff4282d1c31ccb215d0, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti air simple
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 7886691734001169549, guid: fa22e1af9f9826a418780f6156e7e762, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti air simple+
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 2746455943496176175, guid: cf252b6eab4d163468ac294b1204d948, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti air sparks
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 6877053190611504773, guid: 77756a43eaceba84bb9eb6d76f87f2de, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti random
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 1447900118166538851, guid: 6898391e61110004a927b1522b2aa34c, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti simple explosion
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 7591496446802006190, guid: fc6e716d78f58094b9f4131f276623fe, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti big explosion
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 5055351257410472344, guid: 0edb4c347a61084498afbdc06be43d68, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti blue explosion
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 2307266789769311920, guid: dc56b136731af894db7a07cde561b4f2, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti green explosion
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 3586975662619752527, guid: 98a7e6ee9299c654db62cf27ff240fd8, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti ground cute
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 2146013401178770289, guid: 3572452f3f0d73f43aedc50a7ed68212, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti ground simple
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 931758449130320623, guid: 687dda4625d82e9458d5f1c4d9a5cce7, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti pink explosion
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 679875556696829446, guid: e99a1ec219615ac45a191815720f8023, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  - <key>k__BackingField: Confetti random cute
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 1562702934249420014, guid: ddb9af0a223cb32439cd51ebdaa37de6, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <dragParticle_Coloring>k__BackingField:
+    <key>k__BackingField: Partilce
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 3095904159238135794, guid: dae902a9875d0194399bfa59bc7fbc25, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <dragParticle_General>k__BackingField:
+    <key>k__BackingField: Partilce
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 3095904159238135794, guid: dae902a9875d0194399bfa59bc7fbc25, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0

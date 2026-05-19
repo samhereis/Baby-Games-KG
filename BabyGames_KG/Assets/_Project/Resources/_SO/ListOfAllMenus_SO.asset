@@ -1,0 +1,350 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 356e1ed57a41f94409ea43c18e4d0200, type: 3}
+  m_Name: ListOfAllMenus_SO
+  m_EditorClassIdentifier: 
+  <categoriesMenu>k__BackingField:
+    <key>k__BackingField: ActivityCategories_Menu
+    cachingMode: 0
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 3479170174629955725, guid: b15805c52d96ab94e8dc33f2c9d3aabe, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <activitiesMenu>k__BackingField:
+    <key>k__BackingField: Activities_Menu
+    cachingMode: 0
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: _Prefabs/UI/_Menus/Activities_Menu
+    reference_Resources: {fileID: 5331335804345786091, guid: bd1c5799c86e45d49af778dcc933316c, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <activitiesMenu_Coloring>k__BackingField:
+    <key>k__BackingField: Activities_Colorings_Menu
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 8867134068263789915, guid: ca7092c30f3ac504e92964c79e38cfe6, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <activitiesMenu_Video>k__BackingField:
+    <key>k__BackingField: Activities_Menu_Video
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 6779693086753035958, guid: ee050b3cf418df44e8d4e968291ad655, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <settingsMenu>k__BackingField:
+    <key>k__BackingField: SettingsMenu
+    cachingMode: 0
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 6429782392042769219, guid: 8af9ef56b0c027944b4e689135e40c48, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <purchaseMenu>k__BackingField:
+    <key>k__BackingField: PurchaseMenu
+    cachingMode: 0
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 7887868892059716291, guid: 1e2c0017e4b67114687f9770c02d7e6d, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <parentalGateMenu>k__BackingField:
+    <key>k__BackingField: ParentalGateMenu
+    cachingMode: 0
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 7189444979853353903, guid: 03c049d1d1988474d8bc8995d8295c79, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <winMenu_Universal>k__BackingField:
+    <key>k__BackingField: WinMenu
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: _Prefabs/UI/_Menus/WinMenu
+    reference_Resources: {fileID: 6529190206464073953, guid: 3d77a92294a7f144db25307fd0e16b57, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenu_Coloring>k__BackingField:
+    <key>k__BackingField: GameplayMenu_Coloring
+    cachingMode: 0
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 1488248134709846310, guid: bf7e010f41ed10541baa483658109aa3, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenu_Puzzle>k__BackingField:
+    <key>k__BackingField: Gameplay_Menu_Puzzle
+    cachingMode: 0
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 4496635244571608430, guid: 708ae100ba7718945a9171f4a6d6f6c0, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenu_Orchestra>k__BackingField:
+    <key>k__BackingField: Gameplay_Menu_Orchestra
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/UI/Gameplay_Menu_Orchestra
+    reference_Resources: {fileID: 7950543175495584919, guid: 0594f2b0466a72d489f5ec5361b0a92d, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenu_Video>k__BackingField:
+    <key>k__BackingField: GameplayMenu_Video
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/GameplayMenu_Video
+    reference_Resources: {fileID: 87969348578740095, guid: 55ac4c1cd778407438bef1e5756690fa, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenu_Hiding>k__BackingField:
+    <key>k__BackingField: GameplayMenu_Hiding
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/GameplayMenu_Hiding
+    reference_Resources: {fileID: 7932969538314401593, guid: 43de2369cb66c96479084eef9bd2fc17, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenu_Bubble>k__BackingField:
+    <key>k__BackingField: GameplayMenu_Bubble
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/GameplayMenu_Bubble
+    reference_Resources: {fileID: 101503975395426144, guid: c93c68d1be7638c4e92172f021e46c35, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenu_Carwash>k__BackingField:
+    <key>k__BackingField: GameplayMenu_Carwash
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/UI/GameplayMenu_Carwash
+    reference_Resources: {fileID: 5943060164871741482, guid: 46ac0bff5ed554345a5e46276ac8057b, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gamgaeplayMenu_WhoLivesWhere>k__BackingField:
+    <key>k__BackingField: GameplayMenu_WhoLivesWhere
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/GameplayMenu_WhoLivesWhere
+    reference_Resources: {fileID: 8044489895113686177, guid: e83f0f1ace737734aace4268f3316b63, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenu_CarTuning>k__BackingField:
+    <key>k__BackingField: GameplayMenu_CarTuning
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/GameplayMenu_CarTuning
+    reference_Resources: {fileID: 5284766446367629538, guid: 067b232b7c371494ba5e1532a83f066a, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenu_Princess>k__BackingField:
+    <key>k__BackingField: GameplayMenu_Princess
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefab/GameplayMenu_Princess
+    reference_Resources: {fileID: 1494015005006526886, guid: 0d8a5b850891ab34aacc379a966beacf, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenus_RoomCleaning>k__BackingField:
+    <key>k__BackingField: GameplayMenu_RoomCleaning
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: GameplayMenu_RoomCleaning
+    reference_Resources: {fileID: -2932487074706013839, guid: 04560eb0ad8cd734cae1195fdabeff80, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gameplayMenus_Makeug>k__BackingField:
+    <key>k__BackingField: GameplayMenu_Makeup
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: GameplayMenu_Makeup
+    reference_Resources: {fileID: 5903248270746548658, guid: d948fddb7f7160c4882ca1f5079201f7, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gamgaeplayMenu_ColorfulTrain>k__BackingField:
+    <key>k__BackingField: GameplayMenu_ColorfulTrain
+    cachingMode: 1
+    referenceMode: 1
+    <errorsList>k__BackingField: []
+    reference: {fileID: 0}
+    resourcePath: Prefabs/GameplayMenu_ColorfulTrain
+    reference_Resources: {fileID: -6096436846597662955, guid: ba01f6ccf7d995e47be036453918f566, type: 3}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <gamgaeplayMenu_CoockingSalade>k__BackingField:
+    <key>k__BackingField: GameplayUI_CookingSalade
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 483816311953353052, guid: 0c6592c0bc77367488f18a08eb70c49c, type: 3}
+    resourcePath: 
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <subscriptionExpDate_Popup>k__BackingField:
+    <key>k__BackingField: SubscriptionExpDate_Popup
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: -1037751798793929607, guid: d7dd7c9bbf2d15346b2c8aa7d09a5ed7, type: 3}
+    resourcePath: _Prefabs/UI/PuchaseMenu/SubscriptionExpDate_Popup
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0
+  <subscriptionExp_Popup>k__BackingField:
+    <key>k__BackingField: SubscriptionExpired_Popup
+    cachingMode: 1
+    referenceMode: 0
+    <errorsList>k__BackingField: []
+    reference: {fileID: 7058954361680965483, guid: f883a451ecb12154095e4d76e3fa297f, type: 3}
+    resourcePath: _Prefabs/UI/PuchaseMenu/SubscriptionExpired_Popup
+    reference_Resources: {fileID: 0}
+    addressableReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_SubObjectGUID: 
+      m_EditorAssetChanged: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 093e2aa7a3c06aa4089b86c63efd12ba, type: 3}
+  m_Name: _BundlesSO
+  m_EditorClassIdentifier: 
+  _spinesSO: {fileID: 11400000, guid: 1301efcf6110c1241a3e38319fba1b55, type: 2}
+  _contentFolder: Assets/Editor/_Content
+  _buildPath: ServerData
+  _errorList: []
+  _bundlables:
+  - {fileID: 11400000, guid: a893d2c39e76f6a43a7f64a835095083, type: 2}
+  - {fileID: 11400000, guid: 5171d365afa07594fa5c86227c06391e, type: 2}
+  _contentDeliveryService: {fileID: 0}

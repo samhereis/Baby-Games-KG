@@ -1,0 +1,27 @@
+
+truck.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+truck_BODY
+  rotate: false
+  xy: 2, 2
+  size: 530, 222
+  orig: 530, 222
+  offset: 0, 0
+  index: -1
+truck_LIGHT_L
+  rotate: false
+  xy: 534, 69
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+truck_W_L
+  rotate: false
+  xy: 534, 147
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

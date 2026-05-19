@@ -1,0 +1,26 @@
+{
+    "name": "_ErtenGames",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "Unity.Services.Core",
+        "Unity.Services.Core.Environments",
+        "UnityEngine.Purchasing",
+        "Unity.ResourceManager",
+        "Unity.Addressables",
+        "DOTween.Modules",
+        "Purchasing.Common",
+        "Unity.Addressables.Editor",
+        "Unity.InputSystem",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

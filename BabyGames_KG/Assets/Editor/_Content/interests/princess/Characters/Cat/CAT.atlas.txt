@@ -1,0 +1,293 @@
+
+CAT.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belki
+  rotate: false
+  xy: 625, 152
+  size: 103, 33
+  orig: 103, 33
+  offset: 0, 0
+  index: -1
+brow_grust'_L
+  rotate: false
+  xy: 233, 116
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+brow_grust'_R
+  rotate: false
+  xy: 209, 115
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+brow_neitr_L
+  rotate: false
+  xy: 388, 33
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+brow_neitr_R
+  rotate: false
+  xy: 410, 128
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 581, 112
+  size: 106, 35
+  orig: 106, 35
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 114
+  size: 163, 140
+  orig: 163, 140
+  offset: 0, 0
+  index: -1
+head_pyatno
+  rotate: false
+  xy: 153, 23
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+hvost
+  rotate: false
+  xy: 380, 138
+  size: 77, 116
+  orig: 77, 116
+  offset: 0, 0
+  index: -1
+klubok
+  rotate: false
+  xy: 57, 18
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+klubok_stroke
+  rotate: false
+  xy: 302, 29
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+klubok_svet
+  rotate: false
+  xy: 569, 187
+  size: 69, 67
+  orig: 69, 67
+  offset: 0, 0
+  index: -1
+noga_1
+  rotate: false
+  xy: 253, 25
+  size: 47, 89
+  orig: 47, 89
+  offset: 0, 0
+  index: -1
+noga_2
+  rotate: false
+  xy: 459, 143
+  size: 61, 111
+  orig: 61, 111
+  offset: 0, 0
+  index: -1
+noga_3
+  rotate: false
+  xy: 2, 9
+  size: 53, 103
+  orig: 53, 103
+  offset: 0, 0
+  index: -1
+noga_4
+  rotate: false
+  xy: 522, 186
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+nos
+  rotate: false
+  xy: 222, 3
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+pyatna
+  rotate: false
+  xy: 522, 144
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+resnicy
+  rotate: false
+  xy: 290, 119
+  size: 118, 8
+  orig: 118, 8
+  offset: 0, 0
+  index: -1
+rot_lyba
+  rotate: false
+  xy: 257, 117
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+rot_udivlenie
+  rotate: false
+  xy: 292, 2
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+rot_ulybka_smeh
+  rotate: false
+  xy: 518, 48
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+rumyana
+  rotate: false
+  xy: 581, 84
+  size: 131, 26
+  orig: 131, 26
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 388, 43
+  size: 128, 74
+  orig: 128, 74
+  offset: 0, 0
+  index: -1
+telo
+  rotate: false
+  xy: 167, 129
+  size: 211, 125
+  orig: 211, 125
+  offset: 0, 0
+  index: -1
+uho_L
+  rotate: false
+  xy: 518, 73
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+uho_R
+  rotate: false
+  xy: 553, 3
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+usy_L_1
+  rotate: false
+  xy: 167, 114
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+usy_L_2
+  rotate: false
+  xy: 57, 2
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_L
+  rotate: false
+  xy: 374, 4
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+veko_poluzakrytye_R
+  rotate: false
+  xy: 689, 127
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+veko_prishurennye_L
+  rotate: false
+  xy: 176, 2
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+veko_prishurennye_L_dop
+  rotate: false
+  xy: 106, 2
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+veko_prishurennye_R
+  rotate: false
+  xy: 247, 4
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+veko_prishurennye_R_dop
+  rotate: false
+  xy: 141, 2
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+veko_ulybka_L
+  rotate: false
+  xy: 581, 149
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+veko_ulybka_R
+  rotate: false
+  xy: 464, 4
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+veko_zakrytye_L
+  rotate: false
+  xy: 508, 5
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+veko_zakrytye_R
+  rotate: false
+  xy: 419, 4
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+zrachok_L
+  rotate: false
+  xy: 320, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+zrachok_R
+  rotate: false
+  xy: 347, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

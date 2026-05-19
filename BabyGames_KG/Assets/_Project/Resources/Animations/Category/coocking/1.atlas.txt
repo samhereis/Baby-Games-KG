@@ -1,0 +1,111 @@
+
+1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barry
+  rotate: false
+  xy: 411, 89
+  size: 181, 44
+  orig: 181, 44
+  offset: 0, 0
+  index: -1
+cream_chokolate
+  rotate: false
+  xy: 411, 135
+  size: 203, 133
+  orig: 203, 133
+  offset: 0, 0
+  index: -1
+cream_klubnichnyi
+  rotate: false
+  xy: 819, 189
+  size: 203, 133
+  orig: 203, 133
+  offset: 0, 0
+  index: -1
+cream_slivochnyi
+  rotate: false
+  xy: 819, 54
+  size: 203, 133
+  orig: 203, 133
+  offset: 0, 0
+  index: -1
+kandle
+  rotate: false
+  xy: 778, 112
+  size: 15, 62
+  orig: 15, 62
+  offset: 0, 0
+  index: -1
+kandle_fair
+  rotate: false
+  xy: 795, 152
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+korsh_chokolate
+  rotate: false
+  xy: 616, 324
+  size: 201, 146
+  orig: 201, 146
+  offset: 0, 0
+  index: -1
+korsh_klubnichnyi
+  rotate: false
+  xy: 819, 324
+  size: 201, 146
+  orig: 201, 146
+  offset: 0, 0
+  index: -1
+korsh_slivochnyi
+  rotate: false
+  xy: 616, 176
+  size: 201, 146
+  orig: 201, 146
+  offset: 0, 0
+  index: -1
+krug_1
+  rotate: false
+  xy: 2, 63
+  size: 407, 407
+  orig: 407, 407
+  offset: 0, 0
+  index: -1
+pizza
+  rotate: false
+  xy: 411, 270
+  size: 203, 200
+  orig: 203, 200
+  offset: 0, 0
+  index: -1
+shadow_pizza
+  rotate: false
+  xy: 2, 44
+  size: 130, 17
+  orig: 130, 17
+  offset: 0, 0
+  index: -1
+shadow_tort
+  rotate: false
+  xy: 411, 49
+  size: 194, 38
+  orig: 194, 38
+  offset: 0, 0
+  index: -1
+skalka
+  rotate: false
+  xy: 778, 2
+  size: 218, 50
+  orig: 218, 50
+  offset: 0, 0
+  index: -1
+sous
+  rotate: false
+  xy: 616, 41
+  size: 160, 133
+  orig: 160, 133
+  offset: 0, 0
+  index: -1

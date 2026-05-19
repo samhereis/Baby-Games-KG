@@ -1,0 +1,118 @@
+
+house.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1-back
+  rotate: false
+  xy: 886, 65
+  size: 162, 225
+  orig: 162, 225
+  offset: 0, 0
+  index: -1
+1-outline
+  rotate: false
+  xy: 719, 45
+  size: 165, 229
+  orig: 165, 229
+  offset: 0, 0
+  index: -1
+2-back
+  rotate: false
+  xy: 1541, 501
+  size: 117, 130
+  orig: 117, 130
+  offset: 0, 0
+  index: -1
+2-outline
+  rotate: false
+  xy: 1396, 117
+  size: 129, 142
+  orig: 129, 142
+  offset: 0, 0
+  index: -1
+3-back
+  rotate: false
+  xy: 1541, 370
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+3-outline
+  rotate: false
+  xy: 1527, 117
+  size: 129, 142
+  orig: 129, 142
+  offset: 0, 0
+  index: -1
+4-back
+  rotate: false
+  xy: 1407, 491
+  size: 132, 140
+  orig: 132, 140
+  offset: 0, 0
+  index: -1
+4-outline
+  rotate: false
+  xy: 1396, 261
+  size: 143, 150
+  orig: 143, 150
+  offset: 0, 0
+  index: -1
+5-back
+  rotate: false
+  xy: 721, 292
+  size: 555, 721
+  orig: 555, 721
+  offset: 0, 0
+  index: -1
+5-outline
+  rotate: false
+  xy: 2, 276
+  size: 717, 737
+  orig: 717, 737
+  offset: 0, 0
+  index: -1
+6-back
+  rotate: false
+  xy: 1278, 413
+  size: 127, 218
+  orig: 127, 218
+  offset: 0, 0
+  index: -1
+6-outline
+  rotate: false
+  xy: 1254, 60
+  size: 140, 230
+  orig: 140, 230
+  offset: 0, 0
+  index: -1
+7-back
+  rotate: false
+  xy: 1278, 633
+  size: 702, 380
+  orig: 702, 380
+  offset: 0, 0
+  index: -1
+DOP_1
+  rotate: false
+  xy: 1050, 119
+  size: 202, 171
+  orig: 202, 171
+  offset: 0, 0
+  index: -1
+DOP_2
+  rotate: false
+  xy: 483, 101
+  size: 234, 173
+  orig: 234, 173
+  offset: 0, 0
+  index: -1
+DOP_3
+  rotate: false
+  xy: 2, 2
+  size: 479, 272
+  orig: 479, 272
+  offset: 0, 0
+  index: -1

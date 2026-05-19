@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 81c96491b7c96aa48bb5126035571889
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3448414262817557802
+    second: solonka_0
+  - first:
+      213: -7153344127661913103
+    second: solonka_1
+  - first:
+      213: -1821843279304314497
+    second: solonka_2
+  - first:
+      213: 238912344665456176
+    second: solonka_3
+  - first:
+      213: 1380913481476522917
+    second: solonka_4
+  - first:
+      213: -8468422758012849099
+    second: solonka_5
+  - first:
+      213: 8530195588349608162
+    second: solonka_6
+  - first:
+      213: 5398710716759876900
+    second: solonka_7
+  - first:
+      213: 1458353493909275924
+    second: solonka_8
+  - first:
+      213: 6360585816434372793
+    second: solonka_9
+  - first:
+      213: -2797911819104484134
+    second: solonka_10
+  - first:
+      213: 6296767819601172949
+    second: solonka_11
+  - first:
+      213: -2130963126320286528
+    second: solonka_12
+  - first:
+      213: -272750294546453243
+    second: solonka_13
+  - first:
+      213: 5280441480588772306
+    second: solonka_14
+  - first:
+      213: 2747400905399688085
+    second: solonka_15
+  - first:
+      213: 7717450227809950470
+    second: solonka_16
+  - first:
+      213: 7484926243650569394
+    second: solonka_17
+  - first:
+      213: -1417408276539472407
+    second: solonka_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: solonka_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 239
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d27e5a9f75c420d0800000000000000
+      internalID: -3448414262817557802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 233
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbc59a7a673abc90800000000000000
+      internalID: -7153344127661913103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 170
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7132a4a03387b6e0800000000000000
+      internalID: -1821843279304314497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 170
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e7d3cf289c05300800000000000000
+      internalID: 238912344665456176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_4
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 170
+        width: 200
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3c4f8be7df92310800000000000000
+      internalID: 1380913481476522917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_5
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 205
+        width: 133
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5347fc48e5e1a7a80800000000000000
+      internalID: -8468422758012849099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 156
+        width: 133
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0ce2451b7516670800000000000000
+      internalID: 8530195588349608162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 88
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42521951bc21cea40800000000000000
+      internalID: 5398710716759876900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 88
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4158969a6cc1d3410800000000000000
+      internalID: 1458353493909275924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_9
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 88
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b075f7a917554850800000000000000
+      internalID: 6360585816434372793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_10
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 107
+        width: 133
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad409654602db29d0800000000000000
+      internalID: -2797911819104484134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_11
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 105
+        width: 132
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9507068fc926750800000000000000
+      internalID: 6296767819601172949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_12
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 6
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c43932b35c4d62e0800000000000000
+      internalID: -2130963126320286528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 6
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dec2d5d0ff63cf0800000000000000
+      internalID: -272750294546453243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 6
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d34bb3bc85e74940800000000000000
+      internalID: 5280441480588772306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 57
+        width: 133
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b5fed219ab02620800000000000000
+      internalID: 2747400905399688085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_16
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 55
+        width: 133
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b9e58e714e91b60800000000000000
+      internalID: 7717450227809950470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_17
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 6
+        width: 133
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b48ac203cccfd760800000000000000
+      internalID: 7484926243650569394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solonka_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6
+        width: 133
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e58a27aeaa545ce0800000000000000
+      internalID: -1417408276539472407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      solonka_0: -3448414262817557802
+      solonka_1: -7153344127661913103
+      solonka_10: -2797911819104484134
+      solonka_11: 6296767819601172949
+      solonka_12: -2130963126320286528
+      solonka_13: -272750294546453243
+      solonka_14: 5280441480588772306
+      solonka_15: 2747400905399688085
+      solonka_16: 7717450227809950470
+      solonka_17: 7484926243650569394
+      solonka_18: -1417408276539472407
+      solonka_2: -1821843279304314497
+      solonka_3: 238912344665456176
+      solonka_4: 1380913481476522917
+      solonka_5: -8468422758012849099
+      solonka_6: 8530195588349608162
+      solonka_7: 5398710716759876900
+      solonka_8: 1458353493909275924
+      solonka_9: 6360585816434372793
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3d080aacdb57b754ea02423382b3c18e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 260186
+  packageName: UI Spline Renderer
+  packageVersion: 1.16
+  assetPath: Assets/UI Spline Renderer/Editor/Resources/UISplineRenderer Inspector.uxml
+  uploadId: 838278

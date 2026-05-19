@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4ae3af1408c4fd54499a9b649be25060
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 318802
+  packageName: Smart UI Selection for Unity 6
+  packageVersion: 6.0.3
+  assetPath: Assets/Kamgam/SmartUISelection/Editor/Scripts/Selection.cs
+  uploadId: 855148

@@ -1,0 +1,34 @@
+
+kuvshin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuvshin
+  rotate: false
+  xy: 2, 2
+  size: 362, 380
+  orig: 362, 380
+  offset: 0, 0
+  index: -1
+kuvshin_Water
+  rotate: false
+  xy: 602, 166
+  size: 264, 216
+  orig: 264, 216
+  offset: 0, 0
+  index: -1
+kuvshin_Water2_1
+  rotate: false
+  xy: 366, 8
+  size: 116, 374
+  orig: 116, 374
+  offset: 0, 0
+  index: -1
+kuvshin_Water2_2
+  rotate: false
+  xy: 484, 8
+  size: 116, 374
+  orig: 116, 374
+  offset: 0, 0
+  index: -1

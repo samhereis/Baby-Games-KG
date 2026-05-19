@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 3001f5946f268452ba5c509f230f46a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4743966413976176986
+    second: goose_0
+  - first:
+      213: -7421270458433202959
+    second: goose_1
+  - first:
+      213: 9086554706980551868
+    second: goose_2
+  - first:
+      213: 5288007247635412598
+    second: goose_3
+  - first:
+      213: -8509994155834339631
+    second: goose_4
+  - first:
+      213: 75034735984490450
+    second: goose_5
+  - first:
+      213: 6300782823613779564
+    second: goose_6
+  - first:
+      213: 3659786269373165026
+    second: goose_7
+  - first:
+      213: 5019516680361458136
+    second: goose_8
+  - first:
+      213: 3707226706700294649
+    second: goose_9
+  - first:
+      213: -600461448801862240
+    second: goose_10
+  - first:
+      213: -932456387406171360
+    second: goose_11
+  - first:
+      213: 2601952462703231578
+    second: goose_12
+  - first:
+      213: 5501377625293895095
+    second: goose_13
+  - first:
+      213: 2027325681176891598
+    second: goose_14
+  - first:
+      213: -1050045700267516095
+    second: goose_15
+  - first:
+      213: -463574938595799088
+    second: goose_16
+  - first:
+      213: -1483541117345045091
+    second: goose_17
+  - first:
+      213: -1702068457948010875
+    second: goose_18
+  - first:
+      213: -7284640534160025805
+    second: goose_19
+  - first:
+      213: 1480567727797143878
+    second: goose_20
+  - first:
+      213: -1707915317714063699
+    second: goose_21
+  - first:
+      213: -8411897029114911806
+    second: goose_22
+  - first:
+      213: 7502608364450240757
+    second: goose_23
+  - first:
+      213: -3190065870893716940
+    second: goose_24
+  - first:
+      213: -7253808467195913481
+    second: goose_25
+  - first:
+      213: 191153225378641555
+    second: goose_26
+  - first:
+      213: -642056201072471999
+    second: goose_27
+  - first:
+      213: 3084914055705829073
+    second: goose_28
+  - first:
+      213: -945756812323560800
+    second: goose_29
+  - first:
+      213: -6773301292699316218
+    second: goose_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goose_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a590f63a154f5d140800000000000000
+      internalID: 4743966413976176986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f41dfe66d9520990800000000000000
+      internalID: -7421270458433202959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 230
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcbab50d5de91e70800000000000000
+      internalID: 9086554706980551868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 222
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676fffc1396c26940800000000000000
+      internalID: 5288007247635412598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 222
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de08d4376d66e980800000000000000
+      internalID: -8509994155834339631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 219
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7bb20e1b39a0100800000000000000
+      internalID: 75034735984490450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 204
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ec1685890e07750800000000000000
+      internalID: 6300782823613779564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_7
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 204
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ede6dbb83c2ac230800000000000000
+      internalID: 3659786269373165026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 158
+        width: 139
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9b71583d7e8a540800000000000000
+      internalID: 5019516680361458136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 158
+        width: 143
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f956ba4c07b27330800000000000000
+      internalID: 3707226706700294649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_10
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 138
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad39d26e7bbaa7f0800000000000000
+      internalID: -600461448801862240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_11
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 174
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0237c142bdf3f03f0800000000000000
+      internalID: -932456387406171360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 318
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5201e5aafdfb1420800000000000000
+      internalID: 2601952462703231578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 204
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5bcea7dc1d85c40800000000000000
+      internalID: 5501377625293895095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 204
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0539e37f1822c10800000000000000
+      internalID: 2027325681176891598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 204
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fd0adbffc7d61f0800000000000000
+      internalID: -1050045700267516095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_16
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 155
+        width: 117
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df493aac0d0199f0800000000000000
+      internalID: -463574938595799088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_17
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 132
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9566f2c637696be0800000000000000
+      internalID: -1483541117345045091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 262
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586ac9461c90168e0800000000000000
+      internalID: -1702068457948010875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_19
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 204
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337daf4a702c7ea90800000000000000
+      internalID: -7284640534160025805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 35
+        width: 209
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649814901880c8410800000000000000
+      internalID: 1480567727797143878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 82
+        width: 122
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae643541144c48e0800000000000000
+      internalID: -1707915317714063699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_22
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1
+        width: 129
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3217c5830f24b80800000000000000
+      internalID: -8411897029114911806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_23
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 82
+        width: 110
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f85ee39e8e9e1860800000000000000
+      internalID: 7502608364450240757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_24
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 68
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a684bfdfb9ab3d0800000000000000
+      internalID: -3190065870893716940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_25
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 53
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa1114a1ab455b90800000000000000
+      internalID: -7253808467195913481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_26
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 53
+        width: 40
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3963d5088dc17a200800000000000000
+      internalID: 191153225378641555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_27
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1
+        width: 114
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1401d317945f617f0800000000000000
+      internalID: -642056201072471999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_28
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de94f43df0dfca20800000000000000
+      internalID: 3084914055705829073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_29
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a26c85a03fffd2f0800000000000000
+      internalID: -945756812323560800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goose_30
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60096fb5c566002a0800000000000000
+      internalID: -6773301292699316218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goose_0: 4743966413976176986
+      goose_1: -7421270458433202959
+      goose_10: -600461448801862240
+      goose_11: -932456387406171360
+      goose_12: 2601952462703231578
+      goose_13: 5501377625293895095
+      goose_14: 2027325681176891598
+      goose_15: -1050045700267516095
+      goose_16: -463574938595799088
+      goose_17: -1483541117345045091
+      goose_18: -1702068457948010875
+      goose_19: -7284640534160025805
+      goose_2: 9086554706980551868
+      goose_20: 1480567727797143878
+      goose_21: -1707915317714063699
+      goose_22: -8411897029114911806
+      goose_23: 7502608364450240757
+      goose_24: -3190065870893716940
+      goose_25: -7253808467195913481
+      goose_26: 191153225378641555
+      goose_27: -642056201072471999
+      goose_28: 3084914055705829073
+      goose_29: -945756812323560800
+      goose_3: 5288007247635412598
+      goose_30: -6773301292699316218
+      goose_4: -8509994155834339631
+      goose_5: 75034735984490450
+      goose_6: 6300782823613779564
+      goose_7: 3659786269373165026
+      goose_8: 5019516680361458136
+      goose_9: 3707226706700294649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

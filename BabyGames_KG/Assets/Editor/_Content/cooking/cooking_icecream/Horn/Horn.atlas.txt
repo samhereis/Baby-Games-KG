@@ -1,0 +1,48 @@
+
+Horn.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icecreamHorn_2_back
+  rotate: false
+  xy: 764, 2
+  size: 369, 119
+  orig: 369, 119
+  offset: 0, 0
+  index: -1
+icecreamHorn_2_front
+  rotate: false
+  xy: 764, 123
+  size: 383, 372
+  orig: 383, 372
+  offset: 0, 0
+  index: -1
+icecreamHorn_back
+  rotate: false
+  xy: 1463, 296
+  size: 311, 199
+  orig: 311, 199
+  offset: 0, 0
+  index: -1
+icecreamHorn_front
+  rotate: false
+  xy: 1149, 124
+  size: 312, 371
+  orig: 312, 371
+  offset: 0, 0
+  index: -1
+icecreamHowl_back
+  rotate: false
+  xy: 385, 16
+  size: 377, 479
+  orig: 377, 479
+  offset: 0, 0
+  index: -1
+icecreamHowl_front
+  rotate: false
+  xy: 2, 11
+  size: 381, 484
+  orig: 381, 484
+  offset: 0, 0
+  index: -1

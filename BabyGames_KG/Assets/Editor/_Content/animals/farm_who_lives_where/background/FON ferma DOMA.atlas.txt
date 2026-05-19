@@ -1,0 +1,236 @@
+
+FON ferma DOMA.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chicken_home2
+  rotate: false
+  xy: 916, 1743
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+cloud_1
+  rotate: false
+  xy: 2, 1810
+  size: 229, 87
+  orig: 229, 87
+  offset: 0, 0
+  index: -1
+cloud_2
+  rotate: false
+  xy: 233, 1774
+  size: 317, 100
+  orig: 317, 100
+  offset: 0, 0
+  index: -1
+cloud_3
+  rotate: false
+  xy: 1045, 1735
+  size: 450, 128
+  orig: 450, 128
+  offset: 0, 0
+  index: -1
+cloud_4
+  rotate: false
+  xy: 618, 1875
+  size: 229, 69
+  orig: 229, 69
+  offset: 0, 0
+  index: -1
+cloud_5
+  rotate: false
+  xy: 126, 1899
+  size: 140, 45
+  orig: 140, 45
+  offset: 0, 0
+  index: -1
+cloud_6
+  rotate: false
+  xy: 849, 1874
+  size: 146, 70
+  orig: 146, 70
+  offset: 0, 0
+  index: -1
+cow_home2
+  rotate: false
+  xy: 2, 1608
+  size: 195, 200
+  orig: 195, 200
+  offset: 0, 0
+  index: -1
+dorojka
+  rotate: false
+  xy: 1121, 1516
+  size: 198, 217
+  orig: 198, 217
+  offset: 0, 0
+  index: -1
+fon2
+  rotate: false
+  xy: 2, 354
+  size: 1083, 325
+  orig: 1083, 325
+  offset: 0, 0
+  index: -1
+holm_1
+  rotate: false
+  xy: 909, 1195
+  size: 1104, 231
+  orig: 1104, 231
+  offset: 0, 0
+  index: -1
+holm_2
+  rotate: false
+  xy: 1130, 1865
+  size: 442, 79
+  orig: 442, 79
+  offset: 0, 0
+  index: -1
+holm_3
+  rotate: false
+  xy: 1574, 1865
+  size: 350, 79
+  orig: 350, 79
+  offset: 0, 0
+  index: -1
+holmy_4
+  rotate: false
+  xy: 2, 1076
+  size: 899, 253
+  orig: 899, 253
+  offset: 0, 0
+  index: -1
+holmy_5
+  rotate: false
+  xy: 2, 1331
+  size: 905, 221
+  orig: 905, 221
+  offset: 0, 0
+  index: -1
+kust
+  rotate: false
+  xy: 903, 931
+  size: 782, 262
+  orig: 782, 262
+  offset: 0, 0
+  index: -1
+kustik_1
+  rotate: false
+  xy: 479, 1876
+  size: 137, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+kustik_2
+  rotate: false
+  xy: 997, 1873
+  size: 131, 71
+  orig: 131, 71
+  offset: 0, 0
+  index: -1
+kusty_1
+  rotate: false
+  xy: 199, 1593
+  size: 482, 170
+  orig: 482, 170
+  offset: 0, 0
+  index: -1
+kusty_2
+  rotate: false
+  xy: 552, 1765
+  size: 362, 107
+  orig: 362, 107
+  offset: 0, 0
+  index: -1
+mountains2
+  rotate: false
+  xy: 2, 2
+  size: 1034, 350
+  orig: 1034, 350
+  offset: 0, 0
+  index: -1
+pig_home2
+  rotate: false
+  xy: 268, 1883
+  size: 209, 61
+  orig: 209, 61
+  offset: 0, 0
+  index: -1
+romashki
+  rotate: false
+  xy: 2, 1909
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+sunflower_1
+  rotate: false
+  xy: 1893, 1615
+  size: 122, 248
+  orig: 122, 248
+  offset: 0, 0
+  index: -1
+travinki
+  rotate: false
+  xy: 2, 681
+  size: 1343, 248
+  orig: 1343, 248
+  offset: 0, 0
+  index: -1
+travinki2
+  rotate: false
+  xy: 1321, 1428
+  size: 506, 280
+  orig: 506, 280
+  offset: 0, 0
+  index: -1
+travinki3
+  rotate: false
+  xy: 57, 1906
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+travinki4
+  rotate: false
+  xy: 683, 1554
+  size: 436, 179
+  orig: 436, 179
+  offset: 0, 0
+  index: -1
+zabor_fon_1
+  rotate: false
+  xy: 1497, 1710
+  size: 394, 153
+  orig: 394, 153
+  offset: 0, 0
+  index: -1
+
+FON ferma DOMA2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mountains1
+  rotate: false
+  xy: 2, 2
+  size: 1152, 377
+  orig: 1152, 377
+  offset: 0, 0
+  index: -1
+road1
+  rotate: false
+  xy: 2, 381
+  size: 1071, 630
+  orig: 1071, 630
+  offset: 0, 0
+  index: -1
+road2
+  rotate: false
+  xy: 2, 1013
+  size: 1094, 630
+  orig: 1094, 630
+  offset: 0, 0
+  index: -1

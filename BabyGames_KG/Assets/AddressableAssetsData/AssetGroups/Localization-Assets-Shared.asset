@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 168e997f490c45a49881aa0fca194e12
+  m_SerializeEntries:
+  - m_GUID: 148ee882fed9fa4429ad2677ccde2052
+    m_Address: Assets/_Project/Settings/Localization/Tables/Settings Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fb3ed1c7610af94b87b841348c7787e
+    m_Address: Assets/_Project/Settings/Localization/Tables/Default Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b97ea4bd1546f441bd32d498d23ae53
+    m_Address: Assets/_Project/Settings/Localization/Tables/Messages Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97a753d4eca5de745bb4485697039bc1
+    m_Address: Assets/_Project/Settings/Localization/Tables/Categories_Sprite/Categories_Sprite
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a86663915fac4d4459742e8fc94a90da
+    m_Address: Assets/_Project/Settings/Localization/Tables/Categories/Categories
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccddb58639d38724397575a0232fe8b8
+    m_Address: Assets/_Project/Settings/Localization/Tables/Notifications/Notifications
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db905b5260eb26d4abd26ffa932f9723
+    m_Address: Assets/_Project/Settings/Localization/Tables/ParentalGate Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8ab013b3b573b94eaade5570b42eb25
+    m_Address: Assets/_Project/Settings/Localization/Tables/Purchase/Purchase Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: b721fdfdc08536242bf29c7e2281821d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a3493984450087d4ba4817bbf1aabd23, type: 2}
+    - {fileID: 11400000, guid: 23e2e0c9f18fd794cbd6204dab95383b, type: 2}
