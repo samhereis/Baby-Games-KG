@@ -135,18 +135,13 @@ namespace Gameplay
         public void OnPointerDown(PointerEventData eventData)
         {
             if (_boxCollider.enabled == false) { return; }
+            if (canDrag == false) { return; }
 
             transform.DOKill();
             onMouseDown?.Invoke(this);
 
-            if (calculateOffsetBasedOnBoxCollider_Drag)
-            {
-                offset = -_boxCollider.center / 2;
-            }
-            else
-            {
-                offset = Vector3.zero;
-            }
+            if (calculateOffsetBasedOnBoxCollider_Drag) { offset = -_boxCollider.center / 2; }
+            else { offset = Vector3.zero; }
 
             if (autoSearchForWrongPosition)
             {

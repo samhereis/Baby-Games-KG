@@ -56,6 +56,8 @@ namespace Coocking
             foreach (var item in droppables)
             {
                 item.onStartDrop -= OnStartDrop;
+                item.boxCollider.enabled = false;
+                if (item != currentSelectable) { item.transform.DOScale(0, 0.25f).OnComplete(() => Destroy(item.gameObject)); }
             }
             await base.Exit();
         }
@@ -82,6 +84,7 @@ namespace Coocking
 
         private async void NextState()
         {
+            foreach (var item in droppables) { item.boxCollider.enabled = false; }
             _controller.panel_World.currentPanelItems.Remove(currentSelectable.GetComponent<PanelItem>());
             await _controller.panel_World.HideItems();
             _nextState = _nextStateOnWin;

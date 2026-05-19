@@ -123,6 +123,7 @@ namespace Coocking
         public void OnPointerDown(PointerEventData eventData)
         {
             if (boxCollider.enabled == false) { return; }
+            if (canDrag == false) { return; }
 
             if (_hasInteracted == false)
             {
@@ -177,6 +178,9 @@ namespace Coocking
 
         public async void OnPointerUp(PointerEventData eventData)
         {
+            if (boxCollider.enabled == false) { return; }
+            if (canDrag == false) { return; }
+
             canDrag = false;
             onPointeUpStart?.Invoke(this);
 

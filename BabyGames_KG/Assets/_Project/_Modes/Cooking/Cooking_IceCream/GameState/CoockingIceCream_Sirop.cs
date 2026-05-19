@@ -57,6 +57,17 @@ namespace Coocking
             UpdateElements();
         }
 
+        public override Task Exit()
+        {
+            foreach (var item in sirops)
+            {
+                item.onStartDrag -= OnStartDrag;
+                item.onCopyFinish -= OnFinsih;
+                item.boxCollider.enabled = false;
+            }
+            return base.Exit();
+        }
+
         private void OnStartDrag(Dropable_Basic asd)
         {
             asd.targetPosition = form.currentForm.siropPosition;
@@ -77,13 +88,10 @@ namespace Coocking
                 hintHand_Drag.targets.Clear();
                 hintHand_Drag.objects.AddRange(sirops.Select(x => x.transform));
                 hintHand_Drag.targets.Add(currentPosition.First());
-            } catch (Exception ex)
-            {
-                CustomLogger.instance?.LogException(ex);
-            }
+            } catch (Exception ex) { CustomLogger.instance?.LogException(ex); }
         }
 
-        private async void OnFinsih(Dropable_Basic dropable, Dropable_Basic copy)
+        private void OnFinsih(Dropable_Basic dropable, Dropable_Basic copy)
         {
             if (copy == null) { return; }
             var lastPosition = dropable.targetPosition.lasNearestPosition;
@@ -119,14 +127,12 @@ namespace Coocking
                 dropable.boxCollider.enabled = true;
                 UpdateElements();
             }
-            else
-            {
-                Win();
-            }
+            else { Win(); }
         }
 
         private async void Win()
         {
+            foreach (var item in sirops) { item.boxCollider.enabled = false; }
             await _controller.panel_World.HideItems();
             _nextState = _nextStateOnWin;
         }

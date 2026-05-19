@@ -95,6 +95,7 @@ namespace Coocking
                 item.onPointeUpStart -= OnPointeUpStart;
                 item.onPointeUpEnd -= OnPointeUpEnd;
                 item.onCopyFinish -= OnDropped;
+                item.boxCollider.enabled = false;
             }
 
             await base.Exit();
@@ -172,6 +173,7 @@ namespace Coocking
             }
             else
             {
+                foreach (var item in currentForm.iceCreamBalls) { item.boxCollider.enabled = false; }
                 await panel.HideItems();
                 _nextState = _nextStateOnWin;
             }

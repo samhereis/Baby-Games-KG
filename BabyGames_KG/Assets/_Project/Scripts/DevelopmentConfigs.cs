@@ -64,7 +64,7 @@ public class DevelopmentConfigs : ScriptableObject
         PlayerSettings.Android.keystorePass = "saratan.coloring.keyPass1";
 
         PlayerSettings.Android.keyaliasName = "babygameskg";
-        PlayerSettings.Android.keyaliasPass = "babyGamesKGPAss1";
+        PlayerSettings.Android.keyaliasPass = "saratan.coloring.keyPass1"; // was: alias pass babyGamesKGPass1
 
         Debug.Log("Key store passes are set");
 #endif
