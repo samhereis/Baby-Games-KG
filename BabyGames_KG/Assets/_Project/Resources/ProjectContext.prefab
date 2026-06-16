@@ -413,7 +413,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: _Game::Services.RateUs
   _mainMenuOpensBeforePrompt: 5
   _minDaysBetweenAutoPrompts: 30
-  _iosAppId: 6739800693
+  _iosAppId: 6770003091
 --- !u!114 &2127380801062918861
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1975,9 +1975,9 @@ MonoBehaviour:
   _items:
   - id: com.lalafun.kids.coloring.games.lifetime
     type: 1
-  - id: monthly
+  - id: com.Lalafun.BabyGamesKG.monthly
     type: 2
-  - id: yearly
+  - id: com.Lalafun.BabyGamesKG.yearly
     type: 2
   _currencyCodes:
   - currencyCode: USD

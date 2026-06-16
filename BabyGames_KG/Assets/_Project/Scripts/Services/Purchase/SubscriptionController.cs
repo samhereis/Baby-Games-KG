@@ -39,12 +39,12 @@ public class SubscriptionController : MonoBehaviour, ISubscriptionChecker, ISubs
 
     public string GetYearlyPurchasePrice()
     {
-     return   _inAppPurchacesManager.GetPrice(PurchaseIDs.subscriptionYearly);
+        return _inAppPurchacesManager.GetPrice(PurchaseIDs.subscriptionYearly);
     }
 
     public string GetMonthlyPurchasePrice()
     {
-        return   _inAppPurchacesManager.GetPrice(PurchaseIDs.subscriptionMonthly);
+        return _inAppPurchacesManager.GetPrice(PurchaseIDs.subscriptionMonthly);
     }
 
     public bool IsSubscribed(string subscriptionProductId)
@@ -59,8 +59,7 @@ public class SubscriptionController : MonoBehaviour, ISubscriptionChecker, ISubs
 
             var subscriptionInfo = GetSubscriptionInfo(product);
             return subscriptionInfo.isSubscribed() == Result.True;
-        }
-        catch (Exception ex)
+        } catch (Exception ex)
         {
             Debug.LogWarning("Error checking subscription status: " + ex);
             return false;
@@ -89,8 +88,7 @@ public class SubscriptionController : MonoBehaviour, ISubscriptionChecker, ISubs
             }
 
             return false;
-        }
-        catch (Exception ex)
+        } catch (Exception ex)
         {
             Debug.LogWarning("Error getting GetIsFreeTrial: " + ex);
             return false;
@@ -114,8 +112,7 @@ public class SubscriptionController : MonoBehaviour, ISubscriptionChecker, ISubs
             }
 
             return "";
-        }
-        catch (Exception ex)
+        } catch (Exception ex)
         {
             Debug.LogWarning("Error getting GetIsFreeTrialPeriode: " + ex);
             return "";
@@ -124,7 +121,7 @@ public class SubscriptionController : MonoBehaviour, ISubscriptionChecker, ISubs
 
     public SubscriptionInfo GetSubscriptionInfo()
     {
-        string subscriptionType = _isYearly ? PurchaseIDs.subscriptionYearly :  PurchaseIDs.subscriptionMonthly;
+        string subscriptionType = _isYearly ? PurchaseIDs.subscriptionYearly : PurchaseIDs.subscriptionMonthly;
         var product = _inAppPurchacesManager.storeController.products.WithID(subscriptionType);
         if (product == null || !product.hasReceipt)
         {
@@ -157,7 +154,7 @@ public class SubscriptionController : MonoBehaviour, ISubscriptionChecker, ISubs
 
     public DateTime? GetSubscriptionExpirationDate()
     {
-        string subscriptionType = _isYearly ? "yearly" : "monthly";
+        string subscriptionType = _isYearly ? PurchaseIDs.subscriptionYearly : PurchaseIDs.subscriptionMonthly;
         DateTime? remainingTime = GetSubscriptionExpirationDate(subscriptionType);
 
         return remainingTime;
@@ -165,7 +162,7 @@ public class SubscriptionController : MonoBehaviour, ISubscriptionChecker, ISubs
 
     public TimeSpan? GetRemainingSubscriptionTime()
     {
-        string subscriptionType = _isYearly ? "yearly" : "monthly";
+        string subscriptionType = _isYearly ? PurchaseIDs.subscriptionYearly : PurchaseIDs.subscriptionMonthly;
         TimeSpan? remainingTime = GetRemainingSubscriptionTime(subscriptionType);
 
         return remainingTime;
@@ -188,8 +185,7 @@ public class SubscriptionController : MonoBehaviour, ISubscriptionChecker, ISubs
             }
 
             return null;
-        }
-        catch (Exception ex)
+        } catch (Exception ex)
         {
             Debug.LogWarning("Error getting subscription expiration date: " + ex);
             return null;
@@ -213,8 +209,7 @@ public class SubscriptionController : MonoBehaviour, ISubscriptionChecker, ISubs
             }
 
             return null;
-        }
-        catch (Exception ex)
+        } catch (Exception ex)
         {
             Debug.LogWarning("Error getting subscription expiration date: " + ex);
             return null;
