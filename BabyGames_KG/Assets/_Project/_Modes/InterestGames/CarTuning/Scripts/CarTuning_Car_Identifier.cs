@@ -3,6 +3,7 @@ using Helpers;
 using Modes.Puzzle;
 using Sirenix.OdinInspector;
 using System.Collections.Generic;
+using CustomAttributes;
 using UnityEngine;
 
 namespace CarTuning
@@ -17,7 +18,7 @@ namespace CarTuning
 
         public Transform syreneLight_Position;
 
-        public Drawable drawable;
+        [Re_Fg_Co] public Drawable drawable;
         public List<SpriteRenderer> _colors = new();
         public List<Sprite> _corpuses = new();
 

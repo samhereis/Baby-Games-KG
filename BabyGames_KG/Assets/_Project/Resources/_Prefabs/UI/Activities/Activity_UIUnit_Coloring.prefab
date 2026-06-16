@@ -313,6 +313,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5518901642258790887, guid: 9b50cfffb42b8774190f68bae241b7ee, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5518901642258790887, guid: 9b50cfffb42b8774190f68bae241b7ee, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
       objectReference: {fileID: 0}
@@ -339,6 +343,14 @@ PrefabInstance:
     - target: {fileID: 5518901642258790887, guid: 9b50cfffb42b8774190f68bae241b7ee, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: 5518901642258790887, guid: 9b50cfffb42b8774190f68bae241b7ee, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 5518901642258790887, guid: 9b50cfffb42b8774190f68bae241b7ee, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5518901642258790887, guid: 9b50cfffb42b8774190f68bae241b7ee, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -488,7 +500,7 @@ MonoBehaviour:
   _downloadButton: {fileID: 438146251458384302}
   _iconImage: {fileID: 5448825361335143592}
   _iconImageHolder: {fileID: 3470802453937675396}
-  _iconRam: {fileID: 0}
+  _iconRam: {fileID: 2371526783168136660}
   <holder>k__BackingField: {fileID: 3365540646760740287}
   _itemNameText: {fileID: 1826928482941538207}
   _localizeStringEvent: {fileID: 0}
@@ -502,6 +514,7 @@ MonoBehaviour:
     <type>k__BackingField: 0
     <subtype>k__BackingField: 
     <version>k__BackingField: 
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: 
     <isAlwaysUnlocked>k__BackingField: 0
     <assetBundleUrl_Android>k__BackingField: 

@@ -9,6 +9,8 @@ namespace _Project.Scripts.Services
 {
     public class LocalizationHelper : MonoBehaviour
     {
+        public static string currentLanguage => LocalizationSettings.SelectedLocale.Identifier.CultureInfo.NativeName;
+
         public static async Task<string> GetAsync(string table, string entry, params object[] args)
         {
             await LocalizationSettings.InitializationOperation.Task;

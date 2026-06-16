@@ -6,6 +6,7 @@ using Sirenix.OdinInspector;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using DG.Tweening;
 using UnityEngine;
 
 namespace Sounds
@@ -65,8 +66,7 @@ namespace Sounds
                 {
                     TryPlayPool(sound, audioClip);
                 }
-            }
-            catch (Exception ex)
+            } catch (Exception ex)
             {
                 CustomLogger.instance?.LogException(ex);
             }
@@ -133,16 +133,23 @@ namespace Sounds
             }
         }
 
-        public void Stop(ISound sound, AudioClip audioClip = null)
+        public async void Stop(ISound sound, AudioClip audioClip = null, float fadeDuration = 0f)
         {
-            if (sound == null) return;
-
-            foreach (AudioSource audioSource in _audioSourcePool)
+            try
             {
-                if (sound.HasSoundInList(audioSource.clip))
+                if (sound == null) return;
+
+                foreach (AudioSource audioSource in _audioSourcePool)
                 {
-                    audioSource.Stop();
+                    if (sound.HasSoundInList(audioSource.clip))
+                    {
+                        if (fadeDuration > 0) { await audioSource.DOFade(0, fadeDuration).AsyncWaitForCompletion(); }
+                        audioSource.Stop();
+                    }
                 }
+            } catch (Exception e)
+            {
+                CustomLogger.instance?.LogException(e);
             }
         }
 

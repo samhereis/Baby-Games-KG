@@ -14,11 +14,14 @@ public class DevelopmentConfigs : ScriptableObject
 {
     public static bool contentDeliveryDebugMode => Application.isEditor && _contentDeliveryDebugMode;
     [ShowInInspector] private static bool _contentDeliveryDebugMode = false;
+
     public static bool alwaysPurchased => Application.isEditor && _alwaysPurchasedInEditor;
     [ShowInInspector] private static bool _alwaysPurchasedInEditor = true;
 
     public static bool debugMode => Application.isEditor && _debugMode;
     [ShowInInspector] private static bool _debugMode = true;
+
+    [FoldoutGroup("Build Settings")] public bool eventsEnabled = true;
 
     public List<string> freeTextField;
 
@@ -63,8 +66,8 @@ public class DevelopmentConfigs : ScriptableObject
 #if UNITY_ANDROID
         PlayerSettings.Android.keystorePass = "saratan.coloring.keyPass1";
 
-        PlayerSettings.Android.keyaliasName = "babygameskg";
-        PlayerSettings.Android.keyaliasPass = "saratan.coloring.keyPass1"; // was: alias pass babyGamesKGPass1
+        PlayerSettings.Android.keyaliasName = "activitiesgame_1";
+        PlayerSettings.Android.keyaliasPass = "activitiesGamePass1";
 
         Debug.Log("Key store passes are set");
 #endif

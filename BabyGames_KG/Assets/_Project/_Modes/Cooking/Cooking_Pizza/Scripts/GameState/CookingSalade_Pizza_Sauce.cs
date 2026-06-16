@@ -3,15 +3,18 @@ using DG.Tweening;
 using FX;
 using Modes.Puzzle;
 using System.Threading.Tasks;
+using _Project._Modes.Puzzle.Scripts;
+using CustomAttributes;
 using UnityEngine;
 
 namespace Coocking
 {
     public class CookingSalade_Pizza_Sauce : CoockingSalade_StateBase
     {
-        public Transform skalka;
-        public Transform saucesPennel;
-        public Drawable _drawable;
+        [Re_Fg_Co] public Transform skalka;
+        [Re_Fg_Co] public Transform saucesPennel;
+        [Re_Fg_Co] public Drawable drawable;
+        [Re_Fg_Co] public DrawableP2D drawableP2D;
 
         [Space]
         [SerializeField] private CoockingPizza_Sauce _currentSauce;
@@ -23,6 +26,7 @@ namespace Coocking
         public override async Task Enter()
         {
             await base.Enter();
+            drawableP2D = drawable.GetComponent<DrawableP2D>();
 
             CoockingPizza_Sauce.onSelected += EnableDrawable;
 
@@ -48,9 +52,9 @@ namespace Coocking
         {
             if (_doCheckDrawable == false) { return; }
             if (_currentSauce == null) { return; }
-            if (_drawable.percentageOfColoring > 99) { return; }
+            if (drawableP2D.percentageOfColoring < 1) { return; }
 
-            if (_drawable.percentageOfColoring > 90)
+            if (drawableP2D.percentageOfColoring < 10)
             {
                 CompleteSauce();
             }
@@ -63,21 +67,22 @@ namespace Coocking
 
             _currentSauce = selected;
 
-            _drawable.gameObject.SetActive(true);
+            drawable.gameObject.SetActive(true);
 
             var sprite = selected.sauceSprite;
 
-            foreach (var item in _drawable.GetComponentsInChildren<SpriteRenderer>(true))
+            foreach (var item in drawable.GetComponentsInChildren<SpriteRenderer>(true))
             {
                 item.sprite = sprite;
             }
 
-            foreach (var item in _drawable.GetComponentsInChildren<SpriteMask>(true))
+            foreach (var item in drawable.GetComponentsInChildren<SpriteMask>(true))
             {
                 item.sprite = sprite;
             }
 
-            _drawable.Initialize(sprite);
+            drawableP2D.drawMode = DrawableP2D.DrawMode.Reveal;
+            drawableP2D.Initialize(sprite);
 
             _doCheckDrawable = true;
         }
@@ -87,7 +92,7 @@ namespace Coocking
             base.ForceWin();
 
             _doCheckDrawable = false;
-            await _drawable.Complete();
+            await drawableP2D.Complete();
             _nextState = _nextStateOnWin;
         }
 
@@ -97,7 +102,7 @@ namespace Coocking
             _hintHand_DDrawDots?.SetIsActive(false);
 
             _doCheckDrawable = false;
-            await _drawable.Complete();
+            await drawableP2D.Complete();
 
             _nextState = _nextStateOnWin;
         }

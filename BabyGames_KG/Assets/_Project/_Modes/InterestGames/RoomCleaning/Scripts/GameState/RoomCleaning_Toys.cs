@@ -86,12 +86,8 @@ namespace Coocking
 
             try
             {
-                var clip = await basic._soundFX?.PlayAsync(Sound_Effect.Success);
                 basic._soundFX?.Play(Sound_Effect.MoveToTarget_Fast);
-            } catch (Exception ex)
-            {
-                CustomLogger.instance?.LogException(ex);
-            }
+            } catch (Exception ex) { CustomLogger.instance?.LogException(ex); }
 
             await basic.transform.DOMove(basic.targetPosition.position + Vector3.up * 2, 1f).SetEase(Ease.OutBack).AsyncWaitForCompletion();
             basic.GetComponent<SpriteRenderer>().sortingLayerName = "Default";
@@ -103,7 +99,7 @@ namespace Coocking
 
         private async Task TryWinAsync()
         {
-            if (_isDone) return;
+            if (_isDone) { return; }
 
             if (dropableBook_Green.TrueForAll(x => x.isDropped.value))
             {
@@ -114,6 +110,11 @@ namespace Coocking
                 await AsyncHelper.DelayFloat(_delayForWin);
                 _nextState = _nextStateOnWin;
             }
+        }
+
+        public override void ForceWin()
+        {
+            _nextState = _nextStateOnWin;
         }
     }
 }

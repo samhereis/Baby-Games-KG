@@ -6,6 +6,10 @@ using Loggers;
 using Modes.Puzzle;
 using System;
 using System.Collections.Generic;
+using _Project._Modes.Puzzle.Scripts;
+using PaintCore;
+using PaintIn2D;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
 namespace FX
@@ -26,22 +30,22 @@ namespace FX
 
         [SerializeField] private bool _isActive = false;
 
+        private Transform _drawableCopy;
+        private DrawableP2D _copyDrawable;
+        private CwPaintableTexture _copyTexture;
+
         private Vector3 GetSourcePosition()
         {
             var target = sources.GetRandom();
-
-            if (target is not RectTransform) { return Camera.main.WorldToScreenPoint(target.position); }
-            else { return target.position; }
+            if (target is not RectTransform) return Camera.main.WorldToScreenPoint(target.position);
+            return target.position;
         }
 
-        public void SetIsActive(bool isActive)
-        {
-            this._isActive = isActive;
-        }
+        public void SetIsActive(bool isActive) => _isActive = isActive;
 
         private void Awake()
         {
-            if (animationAgent == null) { animationAgent = PlayerActions_DataHolder.instance.hintVisual_HandWithAnimation; }
+            if (animationAgent == null) animationAgent = PlayerActions_DataHolder.instance.hintVisual_HandWithAnimation;
         }
 
         private void OnDisable()
@@ -54,30 +58,19 @@ namespace FX
         {
             if (_isActive && PlayerActions_DataHolder.instance.timeSinceLastAction > hintEvery_Seconds)
             {
-                if (isShowing == true) { return; }
-
+                if (isShowing) return;
                 Show();
             }
             else
             {
+                Clear();
                 Hide();
             }
         }
 
-        Transform _drawableCopy = null;
-        Vector3? _initialScale = null;
         public async void Show()
         {
-            if (isShowing == true) { return; }
-            if (_drawableCopy != null)
-            {
-                Destroy(_drawableCopy.gameObject);
-                if (_initialScale != null) { drawable.transform.localScale = _initialScale.Value; }
-                else { drawable.transform.localScale = Vector3.one; }
-
-                ResetState();
-                return;
-            }
+            if (isShowing) return;
             isShowing = true;
 
             try
@@ -87,22 +80,16 @@ namespace FX
                     _drawableCopy = Instantiate(drawable);
                     await AsyncHelper.NextFrame();
 
-                    if (_initialScale == null) { _initialScale = drawable.transform.localScale; }
-                    drawable.transform.localScale = Vector3.zero;
+                    _copyDrawable = _drawableCopy.GetComponentInChildren<DrawableP2D>();
+                    if (_copyDrawable == null) { return; }
+                    _copyDrawable.isActive = false;
+                    _copyDrawable.ignoreFinger = true;
+                    if (_copyDrawable.TryGet<CwPaintableSprite>(out var ps)) { ps.enabled = false; }
+                    _copyTexture = _copyDrawable.PaintableSpriteTexture;
 
-                    if (_drawableCopy.TryGetComponent<MeshRenderer>(out var meshRenderer)) { meshRenderer.sortingOrder++; }
-                    _drawableCopy.GetComponentInChildren<SpriteRenderer>().sortingOrder++;
-                    _drawableCopy.GetComponentInChildren<Drawable>().Initialize();
-                    _drawableCopy.GetComponentInChildren<Drawable>().ignoreFinger = true;
-
-                    foreach (var item in _drawableCopy.GetComponentsInChildren<MeshRenderer>())
+                    foreach (var sr in _drawableCopy.GetComponentsInChildren<SpriteRenderer>(true))
                     {
-                        item.sortingLayerName = "AlwaysOnTop";
-                    }
-
-                    foreach (var item in _drawableCopy.GetComponentsInChildren<SpriteRenderer>())
-                    {
-                        item.sortingLayerName = "AlwaysOnTop";
+                        sr.sortingLayerName = "AlwaysOnTop";
                     }
 
                     outline?.DOLocalMoveX(0, 0);
@@ -112,105 +99,85 @@ namespace FX
 
                 var position = GetSourcePosition();
                 position.z = 0;
-                animationAgent.transform.transform.position = position;
-                animationAgent.transform.transform.localScale = Vector3.zero;
+                animationAgent.transform.position = position;
+                animationAgent.transform.localScale = Vector3.zero;
+                animationAgent.gameObject.SetActive(true);
 
-                animationAgent.transform.gameObject.SetActive(true);
-                var tween = animationAgent.transform.DOScale(1f, 0.25f).SetEase(Ease.OutBack);
-                await tween.AsyncWaitForCompletion();
+                await animationAgent.transform.DOScale(1f, 0.25f).SetEase(Ease.OutBack).AsyncWaitForCompletion();
+                await animationAgent.transform.DOMove(position, 0.5f).SetEase(Ease.OutBack).SetDelay(1f).AsyncWaitForCompletion();
+                await animationAgent.transform.DOScale(0.5f, 0.25f).SetEase(Ease.OutBack).SetDelay(0.25f).AsyncWaitForCompletion();
+                await animationAgent.transform.DOScale(1f, 0.25f).SetEase(Ease.OutBack).SetDelay(0.25f).AsyncWaitForCompletion();
 
-                tween = animationAgent.transform.DOMove(position, 0.5f).SetEase(Ease.OutBack).SetDelay(1f);
-                await tween.AsyncWaitForCompletion();
-
-                tween = animationAgent.transform.DOScale(0.5f, 0.25f).SetEase(Ease.OutBack).SetDelay(0.25f);
-                await tween.AsyncWaitForCompletion();
-
-                tween = animationAgent.transform.DOScale(1f, 0.25f).SetEase(Ease.OutBack).SetDelay(0.25f);
-                await tween.AsyncWaitForCompletion();
-
-                foreach (var item in targets.GetRandom().secondary)
+                foreach (var point in targets.GetRandom().secondary)
                 {
-                    if (_isActive == false || isShowing == false)
-                    {
-                        animationAgent.transform.DOKill();
-                        ResetState();
-                        return;
-                    }
+                    if (!isShowing) break;
 
-                    tween = animationAgent.transform.DOMove(Camera.main.WorldToScreenPoint(item.position), moveToDotDuration);
+                    var tween = animationAgent.transform.DOMove(Camera.main.WorldToScreenPoint(point.position), moveToDotDuration);
                     tween.OnUpdate(() =>
                     {
-                        Vector2 mouseWorldPositioni = Camera.main.ScreenToWorldPoint(animationAgent.transform.position);
-                        _drawableCopy?.GetComponentInChildren<Drawable>().DrawAtMousePosition(mouseWorldPositioni);
-
-                        if (_isActive == false || isShowing == false)
+                        if (!isShowing)
                         {
-                            animationAgent.transform.DOKill();
-                            ResetState();
                             tween.Complete();
                             return;
                         }
+                        Vector2 worldPos = Camera.main.ScreenToWorldPoint(animationAgent.transform.position);
+                        _copyDrawable?.DrawAtMousePosition(worldPos, _copyTexture);
                     });
 
                     await tween.AsyncWaitForCompletion();
                 }
-
-                ResetState();
-
-            }
-            catch (Exception ex)
-            {
-                CustomLogger.instance?.LogException(ex);
-            }
+            } catch (Exception ex) { CustomLogger.instance?.LogException(ex); }
 
             PlayerActions_DataHolder.ResetTime();
-            isShowing = false;
+            Clear();
         }
 
-        private async void ResetState()
+        private async void Clear()
         {
-            PlayerActions_DataHolder.ResetTime();
             isShowing = false;
+            PlayerActions_DataHolder.ResetTime();
 
             var copy = _drawableCopy;
-
-            if (animationAgent != null)
-            {
-                animationAgent.transform.DOKill();
-
-                await animationAgent.transform.DOScale(0, 0.25f).SetEase(Ease.OutBack).SetDelay(0.25f).AsyncWaitForCompletion();
-                animationAgent.gameObject.SetActive(false);
-            }
+            _drawableCopy = null;
+            _copyDrawable = null;
+            _copyTexture = null;
 
             try
             {
-                copy?.GetComponentInChildren<SpriteRenderer>().DOFade(0, 0.25f).OnComplete(() =>
+                AsyncHelper.DoDelayed(async () =>
                 {
-                    Destroy(copy.gameObject);
-                });
+                    if (animationAgent != null)
+                    {
+                        animationAgent.transform.DOKill();
+                        await animationAgent.transform.DOScale(0, 0.25f).SetEase(Ease.OutBack).SetDelay(0.25f).AsyncWaitForCompletion();
+                        animationAgent.gameObject.SetActive(false);
+                    }
+                }, 0);
 
-                outline?.DOScale(0, 0.25f).OnComplete(() =>
+                AsyncHelper.DoDelayed(async () =>
                 {
-                    outline?.gameObject?.SetActive(false);
-                });
-            }
-            catch (Exception ex)
-            {
-                CustomLogger.instance?.LogException(ex);
-            }
+                    if (copy != null)
+                    {
+                        copy.transform.localScale = Vector3.zero;
+                        copy.GetComponentInChildren<CwPaintableTexture>()?.Deactivate();
+                        copy.gameObject.SetActive(false);
+                        Destroy(copy.gameObject);
+                    }
 
-            if (drawable != null)
-            {
-                drawable.transform.localScale = _initialScale.Value;
-            }
+                    outline?.DOScale(0, 0.25f).OnComplete(() => outline?.gameObject?.SetActive(false));
+                }, 0);
+
+            } catch (Exception ex) { CustomLogger.instance?.LogException(ex); }
+            isShowing = false;
         }
 
+        [Button]
         private void Hide()
         {
-            if (animationAgent.gameObject.activeSelf == false) { return; }
-            animationAgent.gameObject.SetActive(false);
-            animationAgent.transform.DOKill();
             isShowing = false;
+            if (!animationAgent.gameObject.activeSelf) return;
+            animationAgent.transform.DOKill();
+            animationAgent.gameObject.SetActive(false);
         }
     }
 }

@@ -9,7 +9,7 @@ namespace DataClasses
         public event Action<ISound> onCompletedPlaying;
 
         public void TryPlay(ISound sound, AudioClip audioClip = null);
-        public void Stop(ISound sound, AudioClip audioClip = null);
+        public void Stop(ISound sound, AudioClip audioClip = null, float fadeDuration = 0f);
         public void Pause(ISound sound, AudioClip audioClip = null);
         public void Resume(ISound sound, AudioClip audioClip = null);
     }

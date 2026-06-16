@@ -36,6 +36,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5336836486814046062
 SpriteRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -81,6 +82,7 @@ SpriteRenderer:
   m_SortingLayerID: -1273511065
   m_SortingLayer: 1
   m_SortingOrder: 1
+  m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: a5364bac4b7e9734982dd47a8ce3aa27, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -90,7 +92,6 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!95 &70351680740137734
 Animator:
@@ -180,6 +181,7 @@ MonoBehaviour:
   - {fileID: 1830474484665049626}
   - {fileID: 7603001298864379679}
   - {fileID: 6705922983299949621}
+  _isBusy: 0
   isCompleted:
     _value: 0
     <eventName>k__BackingField: 
@@ -293,6 +295,7 @@ MeshRenderer:
   m_SortingLayerID: -1273511065
   m_SortingLayer: 1
   m_SortingOrder: 27
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!114 &5613409056071671806
 MonoBehaviour:
@@ -389,6 +392,7 @@ MonoBehaviour:
   _spawnedItems: []
   _puzzlePieces: []
   autoMoveDistance: 2.5
+  <disposeAnimation_ScaleUp>k__BackingField: 1.1
   _animationDuration: 0.25
   _animator: {fileID: 0}
   _placePositions_Safe:
@@ -508,6 +512,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3269ed1137cf841a2ac61be77613f9ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _forceSound: []
+  _additionalData: Default
 --- !u!114 &6569477516463696674
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -520,6 +526,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a668f88d2aad2d40929fed804c01c28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: _Game::FX.HintHand_Drag
+  _getScreenPosition_Objects: 0
+  _getScreenPosition_Targets: 0
   objects:
   - {fileID: 1349138796140063229}
   - {fileID: 1374080261014913587}
@@ -534,6 +542,9 @@ MonoBehaviour:
   isActive: 1
   hintEvery_Seconds: 10
   isShowing: 0
+  _materials: []
+  _skeletonPartsRenderers: []
+  _meshRenderers: []
 --- !u!1 &6262672074428382274
 GameObject:
   m_ObjectHideFlags: 0
@@ -613,6 +624,11 @@ GameObject:
   - component: {fileID: 9211304132479422255}
   - component: {fileID: 1830474484665049626}
   - component: {fileID: 7088642410688786326}
+  - component: {fileID: 4999982758533122742}
+  - component: {fileID: 5523410167888209398}
+  - component: {fileID: 864386555856012785}
+  - component: {fileID: 8375238478011773570}
+  - component: {fileID: 5081923570622854672}
   m_Layer: 3
   m_Name: Draw
   m_TagString: Untagged
@@ -650,6 +666,7 @@ MonoBehaviour:
   <percentageOfColoring>k__BackingField: 0
   <_spriteRenderer>k__BackingField: {fileID: 5885240834497095675}
   <_spriteMask>k__BackingField: {fileID: 0}
+  <ignoreFinger>k__BackingField: 0
   _drawingLayers:
     serializedVersion: 2
     m_Bits: 8
@@ -669,12 +686,13 @@ MonoBehaviour:
       <maxDistance>k__BackingField: 50
       <minDistance>k__BackingField: 0
   _soundPlayer: {fileID: 0}
-  _isActive: 0
+  isActive: 0
   originalDrawableSprite: {fileID: 0}
   originalDrawableTexture: {fileID: 0}
   currentDrawableTexture: {fileID: 0}
 --- !u!212 &5885240834497095675
 SpriteRenderer:
+  serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -720,6 +738,7 @@ SpriteRenderer:
   m_SortingLayerID: -1273511065
   m_SortingLayer: 1
   m_SortingOrder: 2
+  m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: a5364bac4b7e9734982dd47a8ce3aa27, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -729,7 +748,6 @@ SpriteRenderer:
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!61 &9211304132479422255
 BoxCollider2D:
@@ -797,8 +815,9 @@ MonoBehaviour:
       m_Calls: []
   _nextState: {fileID: 0}
   _nextStateOnWin: {fileID: 7603001298864379679}
-  _puzzle: {fileID: 0}
-  _overlay: {fileID: 5040973974652817352}
+  _puzzle: {fileID: 2045721960029135217}
+  drawable: {fileID: 5040973974652817352}
+  drawableP2D: {fileID: 5081923570622854672}
   _percentageToWin: 90
 --- !u!114 &7088642410688786326
 MonoBehaviour:
@@ -820,6 +839,195 @@ MonoBehaviour:
   _isActive: 1
   hintEvery_Seconds: 10
   isShowing: 0
+--- !u!114 &4999982758533122742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6545032540896650137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06004d21a50ee934da7fa6fd852c9b03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PaintIn2D::PaintIn2D.CwPaintableSprite
+  hash:
+    v: 0
+  baseScale: {x: 0, y: 0, z: 0}
+  activation: 2
+  autoSize: 1
+  autoTexture: 1
+  autoMask: 1
+  generateMeshCollider: 0
+  onActivating:
+    m_PersistentCalls:
+      m_Calls: []
+  onActivated:
+    m_PersistentCalls:
+      m_Calls: []
+  onDeactivating:
+    m_PersistentCalls:
+      m_Calls: []
+  onDeactivated:
+    m_PersistentCalls:
+      m_Calls: []
+  activated: 0
+--- !u!114 &5523410167888209398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6545032540896650137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4093c31424dcd2e4d89d89287c20a21f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PaintIn2D::PaintIn2D.CwPaintableSpriteTexture
+  slot:
+    Index: 0
+    Name: _MainTex
+  coord: 0
+  group:
+    index: 0
+  undoRedo: 0
+  stateLimit: 10
+  saveLoad: 0
+  saveName: 
+  width: 512
+  height: 512
+  texture: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  format: 0
+  mipMaps: 0
+  filter: -1
+  aniso: -1
+  wrapU: -1
+  wrapV: -1
+  existing: 2
+  conversion: 0
+  localMaskTexture: {fileID: 0}
+  localMaskChannel: 0
+  shaderKeyword: 
+  hash:
+    v: 0
+  isDummy: 0
+  autoStoreState: 0
+  output: 
+  activated: 0
+  current: {fileID: 0}
+  preview: {fileID: 0}
+--- !u!114 &864386555856012785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6545032540896650137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4093c31424dcd2e4d89d89287c20a21f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PaintIn2D::PaintIn2D.CwPaintableSpriteTexture
+  slot:
+    Index: 0
+    Name: _MainTex
+  coord: 0
+  group:
+    index: 0
+  undoRedo: 0
+  stateLimit: 10
+  saveLoad: 0
+  saveName: 
+  width: 512
+  height: 512
+  texture: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  format: 0
+  mipMaps: 0
+  filter: -1
+  aniso: -1
+  wrapU: -1
+  wrapV: -1
+  existing: 2
+  conversion: 0
+  localMaskTexture: {fileID: 0}
+  localMaskChannel: 0
+  shaderKeyword: 
+  hash:
+    v: 0
+  isDummy: 0
+  autoStoreState: 0
+  output: 
+  activated: 0
+  current: {fileID: 0}
+  preview: {fileID: 0}
+--- !u!114 &8375238478011773570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6545032540896650137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93669d9f171d43e40a38bc8a881b901b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PaintCore::PaintCore.CwChangeCounter
+  paintableTexture: {fileID: 0}
+  waitUntilNotPainting: 0
+  interval: 0
+  async: 1
+  readAtStart: 1
+  downsampleSteps: 3
+  registeredPaintableTexture: {fileID: 0}
+  cooldown: 0
+  maskMesh: {fileID: 0}
+  maskSubmesh: 0
+  maskTexture: {fileID: 0}
+  maskChannel: 3
+  calculateTotal: 1
+  total: 0
+  threshold: 0.1
+  texture: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  count: 0
+--- !u!114 &5081923570622854672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6545032540896650137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb5102080c6742729a74794665b4b49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: _Game::_Project._Modes.Puzzle.Scripts.DrawableP2D
+  _penColour: {r: 1, g: 1, b: 1, a: 1}
+  _brushRadius: 0.05
+  _drawAudion:
+    _audioClip: {fileID: 0}
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _soundPlayer: {fileID: 0}
+  _paintableSprite: {fileID: 0}
+  _paintableSpriteTexture: {fileID: 0}
+  _changeCounter: {fileID: 0}
+  _hitScreen2D: {fileID: 0}
+  _paintSphere: {fileID: 0}
+  _sibling: {fileID: 5040973974652817352}
+  <isDrawing>k__BackingField: 0
+  <percentageOfColoring>k__BackingField: 0
+  <ignoreFinger>k__BackingField: 0
+  isActive: 0
+  currentSprite: {fileID: 0}
 --- !u!1 &8221419671203801097
 GameObject:
   m_ObjectHideFlags: 0

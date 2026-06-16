@@ -215,9 +215,13 @@ MonoBehaviour:
   goToInitialPositionOnDrop: 0
   fadeAmount: 0
   autoSearchForWrongPosition: 0
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 2
   sound_FX: {fileID: 0}
   move_FX: {fileID: 0}
-  _objectJuicer: {fileID: 0}
+  trailParticle: {fileID: 0}
+  objectJuicer: {fileID: 0}
 --- !u!65 &3230581319621486657
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -719,9 +723,13 @@ MonoBehaviour:
   goToInitialPositionOnDrop: 0
   fadeAmount: 0
   autoSearchForWrongPosition: 0
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 2
   sound_FX: {fileID: 0}
   move_FX: {fileID: 0}
-  _objectJuicer: {fileID: 0}
+  trailParticle: {fileID: 0}
+  objectJuicer: {fileID: 0}
 --- !u!65 &605057687756199402
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1538,8 +1546,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 0}
   wrongAnswers: []
@@ -1551,12 +1557,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!114 &5286527943688484774
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1573,9 +1582,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &763857657730332641
 GameObject:
   m_ObjectHideFlags: 0
@@ -5207,9 +5216,13 @@ MonoBehaviour:
   goToInitialPositionOnDrop: 0
   fadeAmount: 0
   autoSearchForWrongPosition: 0
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 2
   sound_FX: {fileID: 0}
   move_FX: {fileID: 0}
-  _objectJuicer: {fileID: 0}
+  trailParticle: {fileID: 0}
+  objectJuicer: {fileID: 0}
 --- !u!65 &3670351010882964424
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6947,9 +6960,13 @@ MonoBehaviour:
   goToInitialPositionOnDrop: 0
   fadeAmount: 0
   autoSearchForWrongPosition: 0
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 2
   sound_FX: {fileID: 0}
   move_FX: {fileID: 0}
-  _objectJuicer: {fileID: 0}
+  trailParticle: {fileID: 0}
+  objectJuicer: {fileID: 0}
 --- !u!65 &8662558745543326133
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7126,6 +7143,10 @@ GameObject:
   - component: {fileID: 5434444581866406552}
   - component: {fileID: 288015241344034877}
   - component: {fileID: 1583465076587064445}
+  - component: {fileID: 5778967099788569884}
+  - component: {fileID: 1236949985528032180}
+  - component: {fileID: 3178687740676922282}
+  - component: {fileID: 8951294158248086236}
   m_Layer: 3
   m_Name: SauceMask
   m_TagString: Untagged
@@ -7352,6 +7373,151 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 8.33, y: 7.99}
   m_EdgeRadius: 0
+--- !u!114 &5778967099788569884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4703524148487333620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06004d21a50ee934da7fa6fd852c9b03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PaintIn2D::PaintIn2D.CwPaintableSprite
+  hash:
+    v: 0
+  baseScale: {x: 0, y: 0, z: 0}
+  activation: 2
+  autoSize: 1
+  autoTexture: 1
+  autoMask: 1
+  generateMeshCollider: 0
+  onActivating:
+    m_PersistentCalls:
+      m_Calls: []
+  onActivated:
+    m_PersistentCalls:
+      m_Calls: []
+  onDeactivating:
+    m_PersistentCalls:
+      m_Calls: []
+  onDeactivated:
+    m_PersistentCalls:
+      m_Calls: []
+  activated: 0
+--- !u!114 &1236949985528032180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4703524148487333620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4093c31424dcd2e4d89d89287c20a21f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PaintIn2D::PaintIn2D.CwPaintableSpriteTexture
+  slot:
+    Index: 0
+    Name: _MainTex
+  coord: 0
+  group:
+    index: 0
+  undoRedo: 0
+  stateLimit: 10
+  saveLoad: 0
+  saveName: 
+  width: 512
+  height: 512
+  texture: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  format: 0
+  mipMaps: 0
+  filter: -1
+  aniso: -1
+  wrapU: -1
+  wrapV: -1
+  existing: 2
+  conversion: 0
+  localMaskTexture: {fileID: 0}
+  localMaskChannel: 0
+  shaderKeyword: 
+  hash:
+    v: 0
+  isDummy: 0
+  autoStoreState: 0
+  output: 
+  activated: 0
+  current: {fileID: 0}
+  preview: {fileID: 0}
+--- !u!114 &3178687740676922282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4703524148487333620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93669d9f171d43e40a38bc8a881b901b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PaintCore::PaintCore.CwChangeCounter
+  paintableTexture: {fileID: 0}
+  waitUntilNotPainting: 0
+  interval: 0
+  async: 1
+  readAtStart: 1
+  downsampleSteps: 3
+  registeredPaintableTexture: {fileID: 0}
+  cooldown: 0
+  maskMesh: {fileID: 0}
+  maskSubmesh: 0
+  maskTexture: {fileID: 0}
+  maskChannel: 3
+  calculateTotal: 1
+  total: 0
+  threshold: 0.1
+  texture: {fileID: 0}
+  color: {r: 1, g: 1, b: 1, a: 1}
+  count: 0
+--- !u!114 &8951294158248086236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4703524148487333620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fb5102080c6742729a74794665b4b49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: _Game::_Project._Modes.Puzzle.Scripts.DrawableP2D
+  drawMode: 0
+  _penColour: {r: 1, g: 1, b: 1, a: 1}
+  _brushRadius: 0.05
+  _drawAudion:
+    _audioClip: {fileID: 0}
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _soundPlayer: {fileID: 0}
+  _paintableSprite: {fileID: 0}
+  _paintableSpriteTexture: {fileID: 0}
+  _changeCounter: {fileID: 0}
+  _hitScreen2D: {fileID: 0}
+  _paintSphere: {fileID: 0}
+  _sibling: {fileID: 288015241344034877}
+  <isDrawing>k__BackingField: 0
+  <percentageOfColoring>k__BackingField: 0
+  <ignoreFinger>k__BackingField: 0
+  isActive: 0
+  currentSprite: {fileID: 0}
 --- !u!1 &4781102687673374986
 GameObject:
   m_ObjectHideFlags: 0
@@ -8848,7 +9014,8 @@ MonoBehaviour:
   controller: {fileID: 0}
   skalka: {fileID: 7326256535254883692}
   saucesPennel: {fileID: 8402353227032224338}
-  _drawable: {fileID: 288015241344034877}
+  drawable: {fileID: 288015241344034877}
+  drawableP2D: {fileID: 8951294158248086236}
   _currentSauce: {fileID: 0}
   _hintHand_Drag: {fileID: 0}
   _hintHand_DDrawDots: {fileID: 8094600937568719540}
@@ -9754,7 +9921,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9014155d6df9c854bab23e1aabd9b225, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5/12/2026 2:12:50 PM
+  version: 6/11/2026 5:40:48 PM
   <type>k__BackingField: 11
   <assetFolderPath>k__BackingField: Assets/Editor/_Content/cooking/cooking_pizza
   <assetPath>k__BackingField: Assets/Editor/_Content/cooking/cooking_pizza/cooking-cooking_pizza.prefab
@@ -11362,9 +11529,13 @@ MonoBehaviour:
   goToInitialPositionOnDrop: 0
   fadeAmount: 0
   autoSearchForWrongPosition: 0
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 2
   sound_FX: {fileID: 0}
   move_FX: {fileID: 0}
-  _objectJuicer: {fileID: 0}
+  trailParticle: {fileID: 0}
+  objectJuicer: {fileID: 0}
 --- !u!65 &2488805911788486388
 BoxCollider:
   m_ObjectHideFlags: 0

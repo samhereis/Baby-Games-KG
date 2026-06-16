@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6ef672d858ed9cf43935c55602c8c104
+timeCreated: 1530247183
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270105
+  packageName: Paint in 2D
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/CW/PaintIn2D/Required/Scripts/CwHitBetween2D.cs
+  uploadId: 763294

@@ -666,6 +666,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
+  m_UseReflectionProbes: 0
   m_AdditionalShaderChannelsFlag: 31
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
@@ -930,8 +931,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 158.88304, y: -24.470825}
-  m_SizeDelta: {x: -402.50378, y: -48.941658}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &237423579150091327
 MonoBehaviour:
@@ -993,8 +994,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1800.6748, y: 0}
-  m_SizeDelta: {x: -1800.6748, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 1, y: 1}
 --- !u!222 &3107747546666113466
 CanvasRenderer:
@@ -2964,12 +2965,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1819284778192923120, guid: 5b588e03ee43b0346ba107827c4400ec, type: 3}
       propertyPath: m_text
-      value: Meet The Passionate Minds Behind Saratan Animations Studio. Our Team
-        Is A Diverse Group Of Creative Individuals Dedicated To Developing Educational
-        And Entertaining Apps For Children. Our Current App, Lalafun - Mini Games
-        For Kids, Inspires Young Minds Through Fun And Interactive Activities. Join
-        Us On Our Journey Towards Creating Joyful Learning Experiences For Children
-        Worldwide.
+      value: "\u8BA4\u8BC6 Saratan Animations Studio \u80CC\u540E\u7684\u70ED\u60C5\u56E2\u961F\u3002\u6211\u4EEC\u7684\u56E2\u961F\u662F\u7531\u4E00\u7FA4\u81F4\u529B\u4E8E\u4E3A\u513F\u7AE5\u5F00\u53D1\u6559\u80B2\u548C\u5A31\u4E50\u5E94\u7528\u7684\u521B\u610F\u4EBA\u58EB\u7EC4\u6210\u7684\u591A\u5143\u5316\u56E2\u961F\u3002\u6211\u4EEC\u76EE\u524D\u7684\u5E94\u7528\u7A0B\u5E8F
+        Lalafun - Mini Games For Kids\uFF0C\u901A\u8FC7\u6709\u8DA3\u548C\u4E92\u52A8\u7684\u6D3B\u52A8\u6FC0\u53D1\u5E74\u8F7B\u4EBA\u7684\u60F3\u8C61\u529B\u3002\u52A0\u5165\u6211\u4EEC\u7684\u65C5\u7A0B\uFF0C\u521B\u9020\u5168\u7403\u513F\u7AE5\u7684\u5FEB\u4E50\u5B66\u4E60\u4F53\u9A8C\u3002"
       objectReference: {fileID: 0}
     - target: {fileID: 1819284778192923120, guid: 5b588e03ee43b0346ba107827c4400ec, type: 3}
       propertyPath: m_fontAsset
@@ -2977,12 +2974,8 @@ PrefabInstance:
       objectReference: {fileID: 11400000, guid: f2913b08f5465244c99df7005f1737b3, type: 2}
     - target: {fileID: 1819284778192923120, guid: 5b588e03ee43b0346ba107827c4400ec, type: 3}
       propertyPath: originalText
-      value: Meet the passionate minds behind Saratan Animations Studio. Our team
-        is a diverse group of creative individuals dedicated to developing educational
-        and entertaining apps for children. Our current app, Lalafun - Mini Games
-        for Kids, inspires young minds through fun and interactive activities. Join
-        us on our journey towards creating joyful learning experiences for children
-        worldwide.
+      value: "\u8BA4\u8BC6 Saratan Animations Studio \u80CC\u540E\u7684\u70ED\u60C5\u56E2\u961F\u3002\u6211\u4EEC\u7684\u56E2\u961F\u662F\u7531\u4E00\u7FA4\u81F4\u529B\u4E8E\u4E3A\u513F\u7AE5\u5F00\u53D1\u6559\u80B2\u548C\u5A31\u4E50\u5E94\u7528\u7684\u521B\u610F\u4EBA\u58EB\u7EC4\u6210\u7684\u591A\u5143\u5316\u56E2\u961F\u3002\u6211\u4EEC\u76EE\u524D\u7684\u5E94\u7528\u7A0B\u5E8F
+        Lalafun - Mini Games for Kids\uFF0C\u901A\u8FC7\u6709\u8DA3\u548C\u4E92\u52A8\u7684\u6D3B\u52A8\u6FC0\u53D1\u5E74\u8F7B\u4EBA\u7684\u60F3\u8C61\u529B\u3002\u52A0\u5165\u6211\u4EEC\u7684\u65C5\u7A0B\uFF0C\u521B\u9020\u5168\u7403\u513F\u7AE5\u7684\u5FEB\u4E50\u5B66\u4E60\u4F53\u9A8C\u3002"
       objectReference: {fileID: 0}
     - target: {fileID: 1819284778192923120, guid: 5b588e03ee43b0346ba107827c4400ec, type: 3}
       propertyPath: m_sharedMaterial

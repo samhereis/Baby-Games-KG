@@ -11,6 +11,6 @@ AssetOrigin:
   serializedVersion: 1
   productId: 26286
   packageName: Paint in 3D
-  packageVersion: 4.1.11
+  packageVersion: 4.2.0
   assetPath: Assets/Plugins/CW/PaintCore/Required/Resources/CwPremultiply.shader
-  uploadId: 763290
+  uploadId: 846020

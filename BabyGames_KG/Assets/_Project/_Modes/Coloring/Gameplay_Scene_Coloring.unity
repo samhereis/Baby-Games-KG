@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 16187248}
   - component: {fileID: 16187250}
   - component: {fileID: 16187251}
+  - component: {fileID: 16187252}
   m_Layer: 0
   m_Name: Eraser
   m_TagString: Untagged
@@ -263,6 +264,69 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   offset: 0
   maxFingers: -1
+--- !u!114 &16187252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 16187245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f935bb371b1254196b2b73648cdcc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: _Game::Modes.Coloring.DrawSounds
+  _onStartPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: 
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 0}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _onPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: Eraser
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 8300000, guid: 437584aec87974dfbaad94bb6c126568, type: 3}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _startAudioSource: {fileID: 888881811}
+  _mainAudioSource: {fileID: 343261582}
+  _isPlayingAnimation: 0
 --- !u!1 &213303876
 GameObject:
   m_ObjectHideFlags: 0
@@ -276,6 +340,7 @@ GameObject:
   - component: {fileID: 213303877}
   - component: {fileID: 213303880}
   - component: {fileID: 213303881}
+  - component: {fileID: 213303882}
   m_Layer: 0
   m_Name: Fill
   m_TagString: Untagged
@@ -394,6 +459,231 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   offset: 0
   maxFingers: -1
+--- !u!114 &213303882
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 213303876}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f935bb371b1254196b2b73648cdcc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: _Game::Modes.Coloring.DrawSounds
+  _onStartPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: 
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 0}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _onPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: 
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 0}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _startAudioSource: {fileID: 888881811}
+  _mainAudioSource: {fileID: 343261582}
+  _isPlayingAnimation: 0
+--- !u!1 &343261580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 343261581}
+  - component: {fileID: 343261582}
+  m_Layer: 0
+  m_Name: End
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &343261581
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 343261580}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 429439019}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &343261582
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 343261580}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1 &429439018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 429439019}
+  m_Layer: 0
+  m_Name: DrawAudios
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &429439019
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 429439018}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.71651, y: 4.17302, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 888881810}
+  - {fileID: 343261581}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &442834525
 GameObject:
   m_ObjectHideFlags: 0
@@ -450,6 +740,135 @@ Camera:
   m_CorrespondingSourceObject: {fileID: 2307353440313150862, guid: 4b5b2e80f3ff49143b0ad5263eb53dcc, type: 3}
   m_PrefabInstance: {fileID: 1967614689}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &888881809
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 888881810}
+  - component: {fileID: 888881811}
+  m_Layer: 0
+  m_Name: Start
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &888881810
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 888881809}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 429439019}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &888881811
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 888881809}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &975478306
 GameObject:
   m_ObjectHideFlags: 0
@@ -463,6 +882,7 @@ GameObject:
   - component: {fileID: 975478314}
   - component: {fileID: 975478311}
   - component: {fileID: 975478312}
+  - component: {fileID: 975478315}
   m_Layer: 0
   m_Name: Shine
   m_TagString: Untagged
@@ -611,6 +1031,69 @@ MonoBehaviour:
         min: 0
         max: 360
         blend: 0
+--- !u!114 &975478315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975478306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f935bb371b1254196b2b73648cdcc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: _Game::Modes.Coloring.DrawSounds
+  _onStartPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: 
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 0}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _onPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: Glitter
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 8300000, guid: 9f2d2df17f60b463eb6f1d16cb4f3f0e, type: 3}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _startAudioSource: {fileID: 888881811}
+  _mainAudioSource: {fileID: 343261582}
+  _isPlayingAnimation: 0
 --- !u!1 &986732946
 GameObject:
   m_ObjectHideFlags: 0
@@ -624,6 +1107,7 @@ GameObject:
   - component: {fileID: 986732952}
   - component: {fileID: 986732953}
   - component: {fileID: 986732954}
+  - component: {fileID: 986732955}
   m_Layer: 0
   m_Name: Brush
   m_TagString: Untagged
@@ -771,6 +1255,69 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   offset: 0
   maxFingers: -1
+--- !u!114 &986732955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 986732946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f935bb371b1254196b2b73648cdcc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: _Game::Modes.Coloring.DrawSounds
+  _onStartPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: Brush
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 8300000, guid: 62fc72569907b49c4aac5db64f274b92, type: 3}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _onPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: 
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 8300000, guid: f80f8ad0ef2214b5581468a50015ff6c, type: 3}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _startAudioSource: {fileID: 888881811}
+  _mainAudioSource: {fileID: 343261582}
+  _isPlayingAnimation: 0
 --- !u!850595691 &1709391640
 LightingSettings:
   m_ObjectHideFlags: 0
@@ -851,6 +1398,7 @@ GameObject:
   - component: {fileID: 1746005625}
   - component: {fileID: 1746005627}
   - component: {fileID: 1746005628}
+  - component: {fileID: 1746005629}
   m_Layer: 0
   m_Name: Marker
   m_TagString: Untagged
@@ -982,6 +1530,69 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   offset: 0
   maxFingers: -1
+--- !u!114 &1746005629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1746005622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f935bb371b1254196b2b73648cdcc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: _Game::Modes.Coloring.DrawSounds
+  _onStartPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: 
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 0}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _onPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: Marker
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 8300000, guid: e01bd6bd0b134478b9c9f15e73589d88, type: 3}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _startAudioSource: {fileID: 888881811}
+  _mainAudioSource: {fileID: 343261582}
+  _isPlayingAnimation: 0
 --- !u!1 &1794728944
 GameObject:
   m_ObjectHideFlags: 0
@@ -995,6 +1606,7 @@ GameObject:
   - component: {fileID: 1794728949}
   - component: {fileID: 1794728951}
   - component: {fileID: 1794728947}
+  - component: {fileID: 1794728952}
   m_Layer: 0
   m_Name: Pattern
   m_TagString: Untagged
@@ -1126,6 +1738,69 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _type: 4
   _paintSphere: {fileID: 1794728949}
+--- !u!114 &1794728952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1794728944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f935bb371b1254196b2b73648cdcc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: _Game::Modes.Coloring.DrawSounds
+  _onStartPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: 
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 0}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _onPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: 
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 8300000, guid: 62fc72569907b49c4aac5db64f274b92, type: 3}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _startAudioSource: {fileID: 888881811}
+  _mainAudioSource: {fileID: 343261582}
+  _isPlayingAnimation: 0
 --- !u!1 &1843763320
 GameObject:
   m_ObjectHideFlags: 0
@@ -1604,6 +2279,7 @@ GameObject:
   - component: {fileID: 2084101905}
   - component: {fileID: 2084101907}
   - component: {fileID: 2084101903}
+  - component: {fileID: 2084101908}
   m_Layer: 0
   m_Name: Sticker
   m_TagString: Untagged
@@ -1752,6 +2428,69 @@ MonoBehaviour:
   _type: 7
   _paint: {fileID: 2084101905}
   _hitScreen: {fileID: 2084101906}
+--- !u!114 &2084101908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084101900}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3f935bb371b1254196b2b73648cdcc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: _Game::Modes.Coloring.DrawSounds
+  _onStartPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: 
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 0}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _onPaintingReference:
+    _audioClipReference:
+      <key>k__BackingField: 
+      cachingMode: 0
+      referenceMode: 0
+      <errorsList>k__BackingField: []
+      reference: {fileID: 0}
+      resourcePath: 
+      reference_Resources: {fileID: 0}
+      reference_Resources_Debug: {fileID: 0}
+      addressableReference:
+        m_AssetGUID: 
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_SubObjectGUID: 
+        m_EditorAssetChanged: 0
+    <data>k__BackingField:
+      <isMain>k__BackingField: 0
+      <delay>k__BackingField: 0
+      <loop>k__BackingField: 0
+      <disableOthers>k__BackingField: 0
+      <volume>k__BackingField: 1
+      <maxDistance>k__BackingField: 50
+      <minDistance>k__BackingField: 0
+  _startAudioSource: {fileID: 888881811}
+  _mainAudioSource: {fileID: 343261582}
+  _isPlayingAnimation: 0
 --- !u!1 &2095323126
 GameObject:
   m_ObjectHideFlags: 0
@@ -2017,6 +2756,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   trailMode: 1
+  dropParticleScale: 1
   cam: {fileID: 488074846}
   particlePrefab: {fileID: 3095904159238135794, guid: dae902a9875d0194399bfa59bc7fbc25, type: 3}
   currentParticle: {fileID: 0}
@@ -2030,3 +2770,4 @@ SceneRoots:
   - {fileID: 6782643771673519826}
   - {fileID: 1843763329}
   - {fileID: 442834527}
+  - {fileID: 429439019}

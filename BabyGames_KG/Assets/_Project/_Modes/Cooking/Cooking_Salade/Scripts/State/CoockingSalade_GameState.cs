@@ -2,6 +2,7 @@ using DataClasses;
 using GameState;
 using Interfaces;
 using Services;
+using _Project.Scripts.Services;
 using SO;
 using Zenject;
 
@@ -41,10 +42,12 @@ namespace CoockingSalade
             _model.replayRequest += Replay;
             _model.goToMainMenuRequest += GoToMainMenu;
             _model.goToNextActivityRequest += GoNextGame;
+            GameEvents.GameOpened(_model.activity);
         }
 
         public void Exit()
         {
+            GameEvents.GameClosed(_model.activity);
             _model.replayRequest -= Replay;
             _model.goToMainMenuRequest -= GoToMainMenu;
             _model.goToNextActivityRequest -= GoNextGame;

@@ -1,23 +1,24 @@
-using DataClasses;
+using System;
+using _Project._Modes.Puzzle.Scripts;
+using CarTuning;
+using CustomAttributes;
 using DG.Tweening;
-using Helpers;
 using Modes.Puzzle;
 using Sirenix.OdinInspector;
-using System;
-using System.Threading.Tasks;
-using _Project.Scripts.Data;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
-namespace CarTuning
+namespace _Project._Modes.InterestGames.CarTuning.Scripts.UI
 {
     public class CarTuning_PartUI_Color : CarTuning_PartUI_Base
     {
         [SerializeField] private RectTransform _holder;
-
         [SerializeField] private string _colorIndex;
+
         public Drawable drawable;
+        public DrawableP2D drawableP2D;
 
         [ShowInInspector] private static bool _hasWon = false;
         [ShowInInspector] private static bool _isDrawableSet = false;
@@ -28,6 +29,7 @@ namespace CarTuning
             if (_model != null && _model.currentCar.value != null)
             {
                 drawable = _model.currentCar.value.drawable;
+                drawableP2D = _model.currentCar.value.drawable.GetComponent<DrawableP2D>();
             }
 
             _hasWon = false;
@@ -37,6 +39,8 @@ namespace CarTuning
 
         protected override void Update()
         {
+            if (drawableP2D == null) { return; }
+
             if (Pointer.current.press.isPressed == false)
             {
                 _isDragging = false;
@@ -44,13 +48,10 @@ namespace CarTuning
             }
             else
             {
-                if (_isDragging == true)
-                {
-                    _holder.position = Pointer.current.position.ReadValue();
-                }
+                if (_isDragging) { _holder.position = Pointer.current.position.ReadValue(); }
             }
 
-            if (drawable.percentageOfColoring > 50 && _hasWon == false)
+            if (drawableP2D.percentageOfColoring > 50 && _hasWon == false)
             {
                 _model.onStateCompleted?.Invoke();
                 _hasWon = true;
@@ -62,34 +63,27 @@ namespace CarTuning
             if (_currentChosen == null) { _currentChosen = this; }
             if (_currentChosen != this) { return; }
 
-            Sprite sprite = null;
-
-            try
-            {
-                sprite = _model.currentCar.value._colors.Find(x => x.name == _model.currentColor.value).sprite;
-            }
-            catch (Exception ex)
-            {
-                if (sprite == null)
-                {
-                    sprite = _model.currentCar.value._colors.Find(x => x.name == "white").sprite;
-                }
-            }
+            var colors = _model.currentCar.value._colors;
+            var sprite = colors.Find(x => x.name == _model.currentColor.value)?.sprite
+                         ?? colors.Find(x => x.name == "white")?.sprite;
 
             if (sprite != null)
             {
                 _model.currentCar.value.ChangeColor(_colorIndex);
-                if (_isDrawableSet == false || drawable.isActive == false)
+
+                if (_isDrawableSet == false || drawableP2D.isActive == false)
                 {
                     drawable.gameObject.SetActive(true);
-                    drawable.Initialize(sprite);
+                    drawableP2D.Initialize(sprite);
                     _isDrawableSet = true;
                 }
+
+                drawableP2D.SetBrushColor(GetComponent<Image>().color);
             }
 
-            drawable.GetComponent<BoxCollider2D>().enabled = true;
+            GetComponent<Image>().raycastTarget = false;
+            drawableP2D.ignoreFinger = false; // lets CwHitScreen2D paint naturally
             _isDragging = true;
-
         }
 
         public override void OnDrag(PointerEventData eventData)
@@ -99,47 +93,21 @@ namespace CarTuning
                 _isDragging = false;
                 return;
             }
-
             _isDragging = true;
+            // CwHitScreen2D handles painting via its own Update loop (GuiLayers = 0)
         }
 
-        public override async void OnEndDrag(PointerEventData eventData)
+        public override void OnEndDrag(PointerEventData eventData)
         {
             if (_currentChosen != this) { return; }
 
-            drawable.GetComponent<BoxCollider2D>().enabled = false;
+            GetComponent<Image>().raycastTarget = true;
+            drawableP2D.ignoreFinger = true;
 
             GoBack();
 
-            var sprite = _model.currentCar.value._colors.Find(x => x.name == _colorIndex).sprite;
-            if (drawable.currentDrawableTexture != null)
-            {
-                var origTexture = sprite.texture.GetReadableCopy();
-                ClearablesHolder.instance.clearableTextures.SafeAdd(origTexture);
-
-                var origTextureArray = origTexture.GetPixels32();
-                Destroy(origTexture);
-
-                await Task.Run(() =>
-                {
-                    for (int i = 0; i < origTextureArray.Length; i++)
-                    {
-                        if (i >= drawable.currentPixelsColorArray.Length)
-                        {
-                            continue;
-                        }
-
-                        Color32 orig_color = origTextureArray[i];
-                        if (orig_color.a < 0.1f) { continue; }
-
-                        Color32 drawable_color = drawable.currentPixelsColorArray[i];
-                        if (drawable_color.a < 0.1f)
-                        {
-                            drawable.currentPixelsColorArray[i] = orig_color;
-                        }
-                    }
-                });
-            }
+            var colorSprite = _model.currentCar.value._colors.Find(x => x.name == _colorIndex)?.sprite;
+            drawableP2D.FillTransparentWithSprite(colorSprite);
         }
 
         private void GoBack()

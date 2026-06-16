@@ -81,9 +81,13 @@ namespace Coocking
                 _previousTouchPosition = currentWorldPos;
 
                 if (_currentTestoData.isReady)
+                {
                     NextTestoState();
+                }
                 else
+                {
                     _currentTestoData.Grow();
+                }
             }
             else if (pointer.press.wasReleasedThisFrame)
             {
@@ -117,6 +121,11 @@ namespace Coocking
             {
                 _currentTestoData.Enable();
             }
+        }
+
+        public void End()
+        {
+            _currentTestoData.testo.transform.localScale = Vector3.one * _data.Last().maxScale;
         }
     }
 

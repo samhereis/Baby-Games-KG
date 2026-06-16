@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a05a366fb71fd7409a70f324c8d2187
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270105
+  packageName: Paint in 2D
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/CW/PaintIn2D/Required/Resources/CwDecal2D.cginc
+  uploadId: 763294

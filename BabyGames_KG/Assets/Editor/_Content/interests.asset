@@ -21,7 +21,7 @@ MonoBehaviour:
     <activityFolder>k__BackingField: carwash
     <type>k__BackingField: 8
     <subtype>k__BackingField: 
-    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
     <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: carwash-icon.png
     <isAlwaysUnlocked>k__BackingField: 0
@@ -42,7 +42,7 @@ MonoBehaviour:
     <activityFolder>k__BackingField: car_tuning
     <type>k__BackingField: 4
     <subtype>k__BackingField: 
-    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
     <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: car_tuning-icon.png
     <isAlwaysUnlocked>k__BackingField: 0
@@ -63,7 +63,7 @@ MonoBehaviour:
     <activityFolder>k__BackingField: colorful_train
     <type>k__BackingField: 10
     <subtype>k__BackingField: 
-    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
     <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: colorful_train-icon.png
     <isAlwaysUnlocked>k__BackingField: 0
@@ -84,7 +84,7 @@ MonoBehaviour:
     <activityFolder>k__BackingField: makeup
     <type>k__BackingField: 9
     <subtype>k__BackingField: MakeupActivity_Identifier
-    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
     <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: makeup-icon.png
     <isAlwaysUnlocked>k__BackingField: 0
@@ -105,7 +105,7 @@ MonoBehaviour:
     <activityFolder>k__BackingField: princess
     <type>k__BackingField: 9
     <subtype>k__BackingField: 
-    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
     <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: princess-icon.png
     <isAlwaysUnlocked>k__BackingField: 0
@@ -126,7 +126,7 @@ MonoBehaviour:
     <activityFolder>k__BackingField: room_cleaning
     <type>k__BackingField: 9
     <subtype>k__BackingField: RoomCleaningActivity_Identifier
-    <version>k__BackingField: 3/28/2026 10:03:07 AM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
     <gameVersionSupported>k__BackingField: {x: 2, y: 2, z: 26}
     <icon>k__BackingField: room_cleaning-icon.png
     <isAlwaysUnlocked>k__BackingField: 1

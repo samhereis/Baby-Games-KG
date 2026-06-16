@@ -19,3 +19,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 4a0517c61346c6645a35a03c3aeb0034, type: 2}
   - {fileID: 11400000, guid: 6c53f88a74d069b4084d91edae9002dc, type: 2}
   - {fileID: 11400000, guid: a893d2c39e76f6a43a7f64a835095083, type: 2}
+  floatSettings: []
+  stringSettings:
+  - key: _serverUrl
+    value: https://equal-crucial-chicken.ngrok-free.app/event

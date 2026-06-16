@@ -8,6 +8,7 @@ using ScriptableObjects;
 using Services;
 using SO;
 using System.Collections.Generic;
+using _Project.Scripts.Services;
 using _Project.Scripts.Services.Purchase;
 using UI;
 using UI.Menus;
@@ -76,7 +77,7 @@ namespace Coloring.ForParents
                     EnableSelection(item);
                 });
             }
-            EnableSelection(_listSelection[1]);
+            EnableSelection(_listSelection[0]);
 
             _buttonLinkToInstagram.onClick.AddListener(() => OpenURL(_gameSettings.linkSettings.website));
             _buttonLinkToYoutube.onClick.AddListener(() => OpenURL(_gameSettings.linkSettings.youtubeLink));
@@ -127,7 +128,7 @@ namespace Coloring.ForParents
 
         private void OnClickButtonRateUs()
         {
-            _rateUs.ShowRateUsPopup();
+            _rateUs.OpenStorePage();
         }
 
         private void OnNotificationsToggleChanged(bool isOn)

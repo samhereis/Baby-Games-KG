@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 72fc12ad016f5534d8590137d2b0b0a4
+timeCreated: 1530247847
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270105
+  packageName: Paint in 2D
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/CW/PaintIn2D/Required/Scripts/CwCommon.cs
+  uploadId: 763294

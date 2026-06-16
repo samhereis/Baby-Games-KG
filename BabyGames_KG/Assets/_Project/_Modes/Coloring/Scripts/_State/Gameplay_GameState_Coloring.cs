@@ -6,6 +6,7 @@ using Interfaces;
 using Loggers;
 using PaintCore;
 using Services;
+using _Project.Scripts.Services;
 using SO;
 using System;
 using UnityEngine;
@@ -52,6 +53,7 @@ namespace Modes.Coloring
 
                 await AsyncHelper.DelayFloat(0.5f);
                 await _sceneLoader.HideLoadingLayerAsync();
+                GameEvents.GameOpened(_model.activity);
             }
             catch (Exception ex)
             {
@@ -64,6 +66,7 @@ namespace Modes.Coloring
 
         public async void Exit()
         {
+            GameEvents.GameClosed(_model.activity);
             try
             {
                 _model.onFatalError -= OnFatalError;

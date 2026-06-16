@@ -21,7 +21,8 @@ MonoBehaviour:
     <activityFolder>k__BackingField: cooking_burger
     <type>k__BackingField: 11
     <subtype>k__BackingField: 
-    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: cooking-cooking_burger-icon.png
     <isAlwaysUnlocked>k__BackingField: 1
     <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_burger/cooking-cooking_burger.bundle
@@ -41,7 +42,8 @@ MonoBehaviour:
     <activityFolder>k__BackingField: cooking_cake
     <type>k__BackingField: 11
     <subtype>k__BackingField: 
-    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: cooking-cooking_cake-icon.png
     <isAlwaysUnlocked>k__BackingField: 0
     <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_cake/cooking-cooking_cake.bundle
@@ -61,7 +63,8 @@ MonoBehaviour:
     <activityFolder>k__BackingField: cooking_feeding
     <type>k__BackingField: 11
     <subtype>k__BackingField: 
-    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: cooking-cooking_feeding-icon.png
     <isAlwaysUnlocked>k__BackingField: 0
     <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_feeding/cooking-cooking_feeding.bundle
@@ -81,7 +84,8 @@ MonoBehaviour:
     <activityFolder>k__BackingField: cooking_icecream
     <type>k__BackingField: 11
     <subtype>k__BackingField: 
-    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: cooking-cooking_icecream-icon.png
     <isAlwaysUnlocked>k__BackingField: 0
     <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_icecream/cooking-cooking_icecream.bundle
@@ -101,7 +105,8 @@ MonoBehaviour:
     <activityFolder>k__BackingField: cooking_pizza
     <type>k__BackingField: 11
     <subtype>k__BackingField: 
-    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: cooking-cooking_pizza-icon.png
     <isAlwaysUnlocked>k__BackingField: 0
     <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_pizza/cooking-cooking_pizza.bundle
@@ -121,7 +126,8 @@ MonoBehaviour:
     <activityFolder>k__BackingField: cooking_salade
     <type>k__BackingField: 11
     <subtype>k__BackingField: 
-    <version>k__BackingField: 5/12/2026 2:12:50 PM
+    <version>k__BackingField: 6/11/2026 5:40:48 PM
+    <gameVersionSupported>k__BackingField: {x: 0, y: 0, z: 0}
     <icon>k__BackingField: cooking-cooking_salade-icon.png
     <isAlwaysUnlocked>k__BackingField: 0
     <assetBundleUrl_Android>k__BackingField: https://pub-f1899befea8c459c94a70fa577707ae2.r2.dev/AssetBundles/Android/cooking/cooking_salade/cooking-cooking_salade.bundle

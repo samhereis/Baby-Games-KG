@@ -4,6 +4,7 @@ using GameState;
 using Identifiers;
 using Interfaces;
 using Services;
+using _Project.Scripts.Services;
 using SO;
 using UnityEngine;
 using Zenject;
@@ -47,10 +48,12 @@ namespace Carwash
             _model.goToMainMenuRequest += GoToMainMenu;
             _model.goToNextActivityRequest += GoNextGame;
             _model.replayRequest += Replay;
+            GameEvents.GameOpened(_model.activity);
         }
 
         public void Exit()
         {
+            GameEvents.GameClosed(_model.activity);
             _model.goToMainMenuRequest -= GoToMainMenu;
             _model.goToNextActivityRequest -= GoNextGame;
             _model.replayRequest -= Replay;

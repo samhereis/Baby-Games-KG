@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6229929f97ba64242a5bf064a05a0991, type: 3}
   m_Name: DevelopmentConfigs
   m_EditorClassIdentifier: 
+  eventsEnabled: 0
   freeTextField: []
   keyFileName: saratan.keystore
-  keyFilePath: C:\_Unity\_Git\PuzzleGame\Keystore\saratan.keystore
+  keyFilePath: Desktop/saratan.keystore
   easyAccess: []
   notes: 

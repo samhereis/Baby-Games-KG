@@ -1,4 +1,6 @@
+using System;
 using Helpers;
+using Loggers;
 using Spine.Unity;
 
 namespace CarTuning
@@ -10,26 +12,26 @@ namespace CarTuning
 
         public async void DoBlick()
         {
-            if (_doBlick == false)
+            try
             {
-                skeletonAnimation.AnimationName = "idle_vkl";
-                return;
-            }
+                if (_doBlick == false)
+                {
+                    skeletonAnimation.AnimationName = "idle_vkl";
+                    return;
+                }
 
-            bool vkl = false;
-            for (int i = 0; i < 10; i++)
-            {
-                if (gameObject == null) { return; }
+                bool vkl = false;
+                for (int i = 0; i < 10; i++)
+                {
+                    if (gameObject == null) { return; }
 
-                skeletonAnimation.AnimationName = vkl ? "idle_vkl" : "idle_vykl";
+                    skeletonAnimation.AnimationName = vkl ? "idle_vkl" : "idle_vykl";
 
-                //car.skeletonAnimation.AnimationState.ClearTracks();
-                //car.skeletonAnimation.AnimationState.SetAnimation(0, vkl ? "idle_vkl" : "idle_vykl", false);
+                    vkl = !vkl;
 
-                vkl = !vkl;
-
-                await AsyncHelper.DelayFloat(0.25f);
-            }
+                    await AsyncHelper.DelayFloat(0.25f);
+                }
+            } catch (Exception e) { CustomLogger.instance.LogException(e); }
         }
 
         private void Awake()

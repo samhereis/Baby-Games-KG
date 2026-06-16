@@ -1,4 +1,6 @@
 using DG.Tweening;
+using PaintIn2D;
+using PaintIn3D;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
@@ -10,6 +12,7 @@ namespace InterestGames
         public BoxCollider2D drawable1;
         public BoxCollider2D drawable2;
         public BoxCollider2D drawable3;
+        public BoxCollider boxCollider;
 
         public Vector3 initialPosition;
         public float dropDistance = 2f;
@@ -18,16 +21,19 @@ namespace InterestGames
 
         private void Awake()
         {
-            drawable1.enabled = false;
-            drawable2.enabled = false;
-            drawable3.enabled = false;
+            drawable1.GetComponent<CwPaintableSprite>().enabled = false;
+            drawable2.GetComponent<CwPaintableSprite>().enabled = false;
+            drawable3.GetComponent<CwPaintableSprite>().enabled = false;
+
+            boxCollider = GetComponent<BoxCollider>();
         }
 
         public void OnPointerDown(PointerEventData eventData)
         {
-            drawable1.enabled = true;
-            drawable2.enabled = true;
-            drawable3.enabled = true;
+            drawable1.GetComponent<CwPaintableSprite>().enabled = true;
+            drawable2.GetComponent<CwPaintableSprite>().enabled = true;
+            drawable3.GetComponent<CwPaintableSprite>().enabled = true;
+            boxCollider.enabled = false;
 
             if (_hasInteracted == false)
             {
@@ -45,9 +51,10 @@ namespace InterestGames
 
         public async void OnPointerUp(PointerEventData eventData)
         {
-            drawable1.enabled = false;
-            drawable2.enabled = false;
-            drawable3.enabled = false;
+            drawable1.GetComponent<CwPaintableSprite>().enabled = false;
+            drawable2.GetComponent<CwPaintableSprite>().enabled = false;
+            drawable3.GetComponent<CwPaintableSprite>().enabled = false;
+            boxCollider.enabled = true;
 
             await transform.DOLocalMove(initialPosition, moveDuration).AsyncWaitForCompletion();
         }

@@ -41,6 +41,7 @@ namespace Coocking
         public override void ForceWin()
         {
             base.ForceWin();
+            _testo.End();
             _nextState = _nextStateOnWin;
         }
 

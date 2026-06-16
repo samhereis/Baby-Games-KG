@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4093c31424dcd2e4d89d89287c20a21f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270105
+  packageName: Paint in 2D
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/CW/PaintIn2D/Required/Scripts/CwPaintableSpriteTexture.cs
+  uploadId: 763294

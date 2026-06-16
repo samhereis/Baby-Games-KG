@@ -1,89 +1,127 @@
-﻿using System;
-#if UNITY_ANDROID
-//using Google.Play.Review;
-#endif
+using System;
+using Loggers;
+using Sirenix.OdinInspector;
 using UnityEngine;
 
 #if UNITY_IOS
 using UnityEngine.iOS;
 #endif
 
-namespace Services
+#if UNITY_ANDROID
+using Google.Play.Review;
+#endif
+
+namespace _Project.Scripts.Services
 {
     public class RateUs : MonoBehaviour
     {
-        [SerializeField] private bool _autoShow = false;
+        [Header("Auto prompt")]
+        [SerializeField] private int _mainMenuOpensBeforePrompt = 3;
+        [SerializeField] private int _minDaysBetweenAutoPrompts = 7;
+
+        [Header("Store IDs")]
+        [SerializeField] private string _iosAppId = "";
 
         private const string _lastShownKey = "RateUs_LastTimeShown";
-        private float _startTime;
 
-        private void Start()
+        [Button]
+        public void TryAutoReview()
         {
-            _startTime = Time.realtimeSinceStartup;
+            _mainMenuOpensBeforePrompt--;
+            if (_mainMenuOpensBeforePrompt != 0) { return; }
 
-            if (_autoShow)
-            {
-                ShowRateUsPopup(true);
-            }
-        }
+            if (IsThrottled()) { return; }
 
-        public void ShowRateUsPopup(bool waitAfterGameStartTime = false)
-        {
-            if (waitAfterGameStartTime)
-            {
-                if (Time.realtimeSinceStartup - _startTime < 600f)
-                {
-                    Debug.Log("Popup not shown. App not running for 10 minutes yet.");
-                    return;
-                }
-            }
-
-            long lastTimeShown = 0;
-            if (PlayerPrefs.HasKey(_lastShownKey))
-            {
-                string lastTimeShownStr = PlayerPrefs.GetString(_lastShownKey);
-                lastTimeShown = long.Parse(lastTimeShownStr);
-            }
-
-            long currentTimeInSeconds = DateTimeOffset.Now.ToUnixTimeSeconds();
-            float dif = Mathf.Abs(currentTimeInSeconds - lastTimeShown);
-            if (dif < 3 * 24 * 60 * 60)
-            {
-                Debug.Log("Short time Show Popup not shown");
-                return;
-            }
-
-            PlayerPrefs.SetString(_lastShownKey, currentTimeInSeconds.ToString());
+            PlayerPrefs.SetString(_lastShownKey, DateTimeOffset.Now.ToUnixTimeSeconds().ToString());
             PlayerPrefs.Save();
 
+#if UNITY_EDITOR
+            OpenStorePage();
+#endif
+
 #if UNITY_IOS
-        Device.RequestStoreReview();
-#elif UNITY_ANDROID
+            Device.RequestStoreReview();
+#endif
+
+#if UNITY_ANDROID
             RequestReviewAndroid();
 #endif
         }
 
-#if UNITY_ANDROID
-        public void RequestReviewAndroid()
+        [Button]
+        public void OpenStorePage()
         {
-            //var reviewManager = new ReviewManager();
-            //
-            //var playReviewInfoAsyncOperation = reviewManager.RequestReviewFlow();
-            //
-            //playReviewInfoAsyncOperation.Completed += playReviewInfoAsync =>
-            //{
-            //    if (playReviewInfoAsync.Error == ReviewErrorCode.NoError)
-            //    {
-            //        // display the review prompt
-            //        var playReviewInfo = playReviewInfoAsync.GetResult();
-            //        reviewManager.LaunchReviewFlow(playReviewInfo);
-            //    }
-            //    else
-            //    {
-            //
-            //    }
-            //};
-        }
+#if UNITY_EDITOR
+            if (!string.IsNullOrEmpty(_iosAppId))
+            {
+                Application.OpenURL($"https://apps.apple.com/app/id{_iosAppId}?action=write-review");
+            }
+            else
+            {
+                Application.OpenURL("https://play.google.com/store/apps/details?id=" + Application.identifier);
+            }
+            return;
 #endif
+
+#if UNITY_ANDROID
+            var id = Application.identifier;
+            try
+            {
+                Application.OpenURL("market://details?id=" + id);
+            } catch (Exception e)
+            {
+                CustomLogger.instance?.LogException(e);
+                Application.OpenURL("https://play.google.com/store/apps/details?id=" + id);
+            }
+#endif
+
+#if UNITY_IOS
+            try
+            {
+                if (string.IsNullOrEmpty(_iosAppId)) { return; }
+                Application.OpenURL($"itms-apps://apps.apple.com/app/id{_iosAppId}?action=write-review");
+            }
+            catch (Exception e) { CustomLogger.instance?.LogException(e); }
+#endif
+        }
+
+        [Button]
+        private void RequestReviewAndroid()
+        {
+#if UNITY_ANDROID
+            try
+            {
+                var reviewManager = new ReviewManager();
+                var requestOp = reviewManager.RequestReviewFlow();
+                requestOp.Completed += request =>
+                {
+                    if (request.Error != ReviewErrorCode.NoError) { return; }
+
+                    reviewManager.LaunchReviewFlow(request.GetResult());
+                };
+            } catch (Exception e) { CustomLogger.instance?.LogException(e); }
+#endif
+        }
+
+        private bool IsThrottled()
+        {
+            try
+            {
+                if (!PlayerPrefs.HasKey(_lastShownKey)) { return false; }
+                if (!long.TryParse(PlayerPrefs.GetString(_lastShownKey), out long lastShown)) { return false; }
+
+                long now = DateTimeOffset.Now.ToUnixTimeSeconds();
+                long minGap = (long)_minDaysBetweenAutoPrompts * 24 * 60 * 60;
+                bool throttled = Math.Abs(now - lastShown) < minGap;
+
+                CustomLogger.instance?.Log("RateUs", $"IsThrottled: now={now}, lastShown={lastShown}, minGap={minGap}, throttled={throttled}", this);
+                return throttled;
+            }
+            catch (Exception e)
+            {
+                CustomLogger.instance?.LogException(e);
+                return true;
+            }
+        }
     }
 }

@@ -401,8 +401,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 2288754022859210975}
   wrongAnswers: []
@@ -414,12 +412,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!65 &7842110287260198364
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -517,9 +518,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &682199483744673578
 GameObject:
   m_ObjectHideFlags: 0
@@ -980,8 +981,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 6086643999269178738}
   wrongAnswers: []
@@ -993,12 +992,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!65 &516858069894661756
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1096,9 +1098,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &1028813177034962156
 GameObject:
   m_ObjectHideFlags: 0
@@ -1267,8 +1269,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 6086643999269178738}
   wrongAnswers: []
@@ -1280,12 +1280,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!65 &8243221326190737022
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1383,9 +1386,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &1200716025033123247
 GameObject:
   m_ObjectHideFlags: 0
@@ -2059,7 +2062,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9014155d6df9c854bab23e1aabd9b225, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5/12/2026 2:12:50 PM
+  version: 6/11/2026 5:40:48 PM
   <type>k__BackingField: 11
   <assetFolderPath>k__BackingField: Assets/Editor/_Content/cooking/cooking_burger
   <assetPath>k__BackingField: Assets/Editor/_Content/cooking/cooking_burger/cooking-cooking_burger.prefab
@@ -2348,7 +2351,8 @@ MonoBehaviour:
   plate: {fileID: 8946396318572644866}
   droppables:
   - {fileID: 4966048855920865295}
-  items: []
+  items:
+  - {fileID: 4744558180404929331}
   droppablesHolder: {fileID: 9047549599936802051}
   placesHolder: {fileID: 874725911390766116}
   hintSingle: {fileID: 3923202122901636915}
@@ -3017,8 +3021,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 6086643999269178738}
   wrongAnswers: []
@@ -3030,12 +3032,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!65 &8757246072806558687
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3133,9 +3138,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &4061474752286153393
 GameObject:
   m_ObjectHideFlags: 0
@@ -3993,8 +3998,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 1595904280607847278}
   wrongAnswers: []
@@ -4006,12 +4009,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!65 &6309088957277844860
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4109,9 +4115,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &4816227450722890828
 GameObject:
   m_ObjectHideFlags: 0
@@ -4216,7 +4222,8 @@ MonoBehaviour:
   plate: {fileID: 8946396318572644866}
   droppables:
   - {fileID: 2759577344781888711}
-  items: []
+  items:
+  - {fileID: 2213729832469785869}
   droppablesHolder: {fileID: 8231434810906331916}
   placesHolder: {fileID: 0}
   hintSingle: {fileID: 3923202122901636915}
@@ -4736,8 +4743,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 7227686852494712503}
   wrongAnswers: []
@@ -4749,12 +4754,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!65 &9168593303589638895
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4852,9 +4860,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &6164911443064119234
 GameObject:
   m_ObjectHideFlags: 0
@@ -4991,7 +4999,8 @@ MonoBehaviour:
   plate: {fileID: 8946396318572644866}
   droppables:
   - {fileID: 2638375806114221759}
-  items: []
+  items:
+  - {fileID: 2728642518178049839}
   droppablesHolder: {fileID: 2531017656422343993}
   placesHolder: {fileID: 874725911390766116}
   hintSingle: {fileID: 3923202122901636915}
@@ -5705,8 +5714,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 4810306386365935141}
   wrongAnswers: []
@@ -5718,12 +5725,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!65 &1457297790310876513
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5812,9 +5822,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &7330271041228777797
 GameObject:
   m_ObjectHideFlags: 0
@@ -6141,8 +6151,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 4970838498121466160}
   wrongAnswers: []
@@ -6154,12 +6162,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!65 &1629232321971623721
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6317,9 +6328,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &7732896095977686296
 GameObject:
   m_ObjectHideFlags: 0
@@ -6457,8 +6468,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 7028520857984564078}
   wrongAnswers: []
@@ -6470,12 +6479,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!65 &32618052913417973
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6573,9 +6585,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &7923195660069493320
 GameObject:
   m_ObjectHideFlags: 0
@@ -6713,8 +6725,6 @@ MonoBehaviour:
   calculateOffsetBasedOnBoxCollider_Drag: 0
   calculateOffsetBasedOnBoxCollider_Drop: 0
   autoSearchForWrongPosition: 0
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
   <mode>k__BackingField: 0
   placesHolder: {fileID: 7227686852494712503}
   wrongAnswers: []
@@ -6726,12 +6736,15 @@ MonoBehaviour:
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
   objectJuicer: {fileID: 0}
+  doPunchAnimation: 1
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   cameraToUse: {fileID: 0}
   copies: []
   initialPosition: {x: 0, y: 0, z: 0}
   lasNearestPosition: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  _isDragging: 0
+  canDrag: 0
 --- !u!65 &3973766854766025566
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6829,9 +6842,9 @@ MonoBehaviour:
   rotationIntensity: 0
   speed: 5
   returnSpeed: 1
-  _initialScale: {x: 0, y: 0, z: 0}
-  _initialRotation: {x: 0, y: 0, z: 0, w: 0}
-  _isAnimating: 0
+  initialScale: {x: 0, y: 0, z: 0}
+  initialRotation: {x: 0, y: 0, z: 0, w: 0}
+  isAnimating: 0
 --- !u!1 &8201626102558843514
 GameObject:
   m_ObjectHideFlags: 0
@@ -6926,7 +6939,8 @@ MonoBehaviour:
   plate: {fileID: 8946396318572644866}
   droppables:
   - {fileID: 7738686121878382294}
-  items: []
+  items:
+  - {fileID: 89399599280281517}
   droppablesHolder: {fileID: 311626940673840911}
   placesHolder: {fileID: 874725911390766116}
   hintSingle: {fileID: 3923202122901636915}
@@ -7169,7 +7183,8 @@ MonoBehaviour:
   plate: {fileID: 8946396318572644866}
   droppables:
   - {fileID: 2638375806114221759}
-  items: []
+  items:
+  - {fileID: 2728642518178049839}
   droppablesHolder: {fileID: 2354720761961860167}
   placesHolder: {fileID: 874725911390766116}
   hintSingle: {fileID: 3923202122901636915}
@@ -7259,7 +7274,8 @@ MonoBehaviour:
   plate: {fileID: 8946396318572644866}
   droppables:
   - {fileID: 6268801806591433675}
-  items: []
+  items:
+  - {fileID: 8234146323046359842}
   droppablesHolder: {fileID: 340908235901466665}
   placesHolder: {fileID: 874725911390766116}
   hintSingle: {fileID: 3923202122901636915}
@@ -7417,6 +7433,14 @@ PrefabInstance:
       propertyPath: placesHolder
       value: 
       objectReference: {fileID: 7738849001807036007}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dragParticleScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
       propertyPath: dragParticleScale.x
       value: 1.5
@@ -7580,6 +7604,14 @@ PrefabInstance:
       propertyPath: placesHolder
       value: 
       objectReference: {fileID: 7738849001807036007}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dragParticleScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
       propertyPath: dragParticleScale.x
       value: 1.5
@@ -7888,6 +7920,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 7738849001807036007}
     - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dragParticleScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
       propertyPath: dragParticleScale.x
       value: 1.5
       objectReference: {fileID: 0}
@@ -8042,6 +8082,14 @@ PrefabInstance:
       propertyPath: placesHolder
       value: 
       objectReference: {fileID: 7738849001807036007}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dragParticleScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
       propertyPath: dragParticleScale.x
       value: 1.5
@@ -8206,6 +8254,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 7738849001807036007}
     - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dragParticleScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
       propertyPath: dragParticleScale.x
       value: 1.5
       objectReference: {fileID: 0}
@@ -8364,6 +8420,14 @@ PrefabInstance:
       propertyPath: placesHolder
       value: 
       objectReference: {fileID: 7738849001807036007}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dragParticleScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3769382011427753454, guid: d9d9a567bc4e36c4e9367bde5b624830, type: 3}
       propertyPath: dragParticleScale.x
       value: 1.5

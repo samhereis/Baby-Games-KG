@@ -179,5 +179,10 @@ namespace Coocking
                 _nextState = _nextStateOnWin;
             }
         }
+
+        public override void ForceWin()
+        {
+            _nextState = _nextStateOnWin;
+        }
     }
 }

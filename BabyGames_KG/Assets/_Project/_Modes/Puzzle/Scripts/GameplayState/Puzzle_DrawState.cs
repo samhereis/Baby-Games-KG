@@ -3,6 +3,8 @@ using FX;
 using Helpers;
 using Services;
 using System.Threading.Tasks;
+using _Project._Modes.Puzzle.Scripts;
+using CustomAttributes;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -13,7 +15,8 @@ namespace Modes.Puzzle
     {
         [SerializeField] private Puzzle _puzzle;
 
-        [SerializeField] private Drawable _overlay;
+        [Re_Fg_Co] public Drawable drawable;
+        [Re_Fg_Co] public DrawableP2D drawableP2D;
         [SerializeField] private float _percentageToWin;
 
         private Slider _slider;
@@ -23,7 +26,8 @@ namespace Modes.Puzzle
             await base.Enter();
             FindFirstObjectByType<Slider>()?.gameObject.SetActive(true);
             if (_puzzle == null) { _puzzle = FindFirstObjectByType<Puzzle>(); }
-            _overlay.Initialize(_puzzle.mainImage[0].sprite);
+            drawableP2D = drawable.GetComponent<DrawableP2D>();
+            drawableP2D.Initialize(_puzzle.mainImage[0].sprite);
         }
 
         public override async Task Exit()
@@ -45,14 +49,16 @@ namespace Modes.Puzzle
         private bool _isDone = false;
         public override void Tick()
         {
+            if (drawableP2D == null) { return; }
+
             base.Tick();
 
-            if (_overlay.percentageOfColoring > _percentageToWin)
+            if (drawableP2D.percentageOfColoring > _percentageToWin)
             {
                 OpenPuzzleState();
             }
 
-            if (_overlay.isDrawing == false)
+            if (drawableP2D.isDrawing == false)
             {
                 _puzzle._soundPlayer.Stop();
             }
@@ -64,7 +70,7 @@ namespace Modes.Puzzle
             else
             {
                 if (_slider.maxValue != 100) { _slider.maxValue = 100; }
-                _slider.value = _overlay.percentageOfColoring;
+                _slider.value = drawableP2D.percentageOfColoring;
             }
         }
 
@@ -74,7 +80,7 @@ namespace Modes.Puzzle
             _isDone = true;
             DiService.Get<StateEnd_FX>()?.DoFX();
 
-            _overlay._spriteRenderer.DOFade(0, 1);
+            drawableP2D.Get<SpriteRenderer>().DOFade(0, 1);
             await AsyncHelper.DelayFloat(1);
 
             _puzzle._soundPlayer.Stop();

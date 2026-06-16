@@ -1073,7 +1073,7 @@ MonoBehaviour:
   _activityCategory_Instances: []
   _currentObjectInCenter: {fileID: 0}
   _currentObjectInCenter_Index: 0
-  _lastlyPlayedSounds: []
+  _secondsBeforePlay: 0.5
   _firstPlayedIgnored: 0
 --- !u!114 &-9073431421433468294
 MonoBehaviour:

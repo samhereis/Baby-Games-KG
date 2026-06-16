@@ -14714,6 +14714,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 873389914576811222}
     m_Modifications:
     - target: {fileID: 3272250712973099437, guid: 5f7bf9d2cfabf40b29ba9aa9f6d4d853, type: 3}
+      propertyPath: dragParticleScale
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3272250712973099437, guid: 5f7bf9d2cfabf40b29ba9aa9f6d4d853, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3272250712973099437, guid: 5f7bf9d2cfabf40b29ba9aa9f6d4d853, type: 3}
       propertyPath: dropParticleScale.x
       value: 2
       objectReference: {fileID: 0}
@@ -15143,7 +15151,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1021879491309224165, guid: d2c36786740bf9c43bee14b7b16e217d, type: 3}
       propertyPath: dropDistance
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1021879491309224165, guid: d2c36786740bf9c43bee14b7b16e217d, type: 3}
       propertyPath: dropParticleScale.x
@@ -15523,7 +15531,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1021879491309224165, guid: d2c36786740bf9c43bee14b7b16e217d, type: 3}
       propertyPath: dropDistance
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1021879491309224165, guid: d2c36786740bf9c43bee14b7b16e217d, type: 3}
       propertyPath: dropParticleScale.x
@@ -15630,6 +15638,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 873389914576811222}
     m_Modifications:
+    - target: {fileID: 3272250712973099437, guid: 5f7bf9d2cfabf40b29ba9aa9f6d4d853, type: 3}
+      propertyPath: dragParticleScale
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3272250712973099437, guid: 5f7bf9d2cfabf40b29ba9aa9f6d4d853, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3272250712973099437, guid: 5f7bf9d2cfabf40b29ba9aa9f6d4d853, type: 3}
       propertyPath: dropParticleScale.x
       value: 2
@@ -15813,7 +15829,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1021879491309224165, guid: d2c36786740bf9c43bee14b7b16e217d, type: 3}
       propertyPath: dropDistance
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1021879491309224165, guid: d2c36786740bf9c43bee14b7b16e217d, type: 3}
       propertyPath: dropParticleScale.x
@@ -15920,6 +15936,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 873389914576811222}
     m_Modifications:
+    - target: {fileID: 3272250712973099437, guid: 5f7bf9d2cfabf40b29ba9aa9f6d4d853, type: 3}
+      propertyPath: dragParticleScale
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3272250712973099437, guid: 5f7bf9d2cfabf40b29ba9aa9f6d4d853, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3272250712973099437, guid: 5f7bf9d2cfabf40b29ba9aa9f6d4d853, type: 3}
       propertyPath: dropParticleScale.x
       value: 2
@@ -16278,7 +16302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e29593846abbd6b4b8cf40b1365b5311, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 3/28/2026 10:03:07 AM
+  version: 6/11/2026 5:40:48 PM
   <type>k__BackingField: 10
   <assetFolderPath>k__BackingField: Assets/Editor/_Content/interests/colorful_train
   <assetPath>k__BackingField: Assets/Editor/_Content/interests/colorful_train/interests-colorful_train.prefab

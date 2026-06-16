@@ -13,6 +13,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using _Project._Modes.Puzzle.Scripts;
+using CustomAttributes;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -25,16 +27,14 @@ namespace Coocking
         public Transform korjHolder;
         public Transform creamsHolder;
 
-        //ToDelete
-        public Transform panel;
-
         [Space]
         public DroppableGeneral_SimpleController[] creams;
         public Dropable_General[] items;
 
         public List<Sprite> creamsSprites = new();
         public SpriteRenderer cakeSpriteRenderer;
-        public Drawable drawable;
+        [Re_Fg_Co] public Drawable drawable;
+        [Re_Fg_Co] public DrawableP2D drawableP2D;
         public Transform korjOutline;
 
         [Header("Skins")]
@@ -58,11 +58,13 @@ namespace Coocking
         public Dropable_General currentCream { get; private set; }
         public int creamIndex { get; private set; }
 
+
         public override async Task Enter()
         {
             await base.Enter();
 
             items = creams.Select(x => x.GetComponent<Dropable_General>()).ToArray();
+            drawableP2D = drawable.GetComponent<DrawableP2D>();
 
             await _controller.ShowCurtain(true, 0.25f);
             await _controller.ChangeBackground(_backgroundIndex);
@@ -110,8 +112,7 @@ namespace Coocking
                 panel_World.PrepareForAnimation(creams.Select(x => x.GetComponent<PanelItem>()).ToList());
                 await panel_World.Appear();
                 panel_World.AnimateItems();
-            }
-            catch (Exception ex)
+            } catch (Exception ex)
             {
                 CustomLogger.instance?.LogException(ex);
                 await _controller.ShowCurtain(false);
@@ -122,14 +123,14 @@ namespace Coocking
         {
             await base.Exit();
             creamsHolder.DOLocalMoveX(25, 1);
-            drawable.gameObject.SetActive(false);
+            drawableP2D.gameObject.SetActive(false);
         }
 
         public override void Tick()
         {
             if (Pointer.current.press.isPressed == false)
             {
-                drawable.enabled = true;
+                drawableP2D.enabled = true;
                 return;
             }
 
@@ -137,7 +138,7 @@ namespace Coocking
 
             base.Tick();
 
-            if (drawable.percentageOfColoring > 80)
+            if (drawableP2D.percentageOfColoring < 20)
             {
                 _model.requestCompleteButtonShow?.Invoke();
                 _model.onCompleteButtonPressed -= Next;
@@ -147,17 +148,17 @@ namespace Coocking
 
         private void OnFirstDrag(Dropable_General controller)
         {
-            drawable.enabled = false;
+            drawableP2D.enabled = false;
         }
 
         private void OnDraggableMouseUp(Dropable_General controller)
         {
-            drawable.enabled = true;
+            drawableP2D.enabled = true;
         }
 
         private void OnCreamSelected(Dropable_General controller)
         {
-            drawable.enabled = true;
+            drawableP2D.enabled = true;
 
             currentCream = controller;
             currentCream.PlaceBack();
@@ -183,15 +184,16 @@ namespace Coocking
 
             controller.PlaceBack();
 
-            drawable.gameObject.SetActive(true);
+            drawableP2D.gameObject.SetActive(true);
 
+            drawableP2D.drawMode = DrawableP2D.DrawMode.Reveal;
             cakeSpriteRenderer.sprite = creamsSprites[creamIndex];
-            drawable.Initialize(cakeSpriteRenderer.sprite);
+            drawableP2D.Initialize(cakeSpriteRenderer.sprite);
 
             if (_hintHand_DrawDots != null)
             {
                 _hintHand_DrawDots.SetIsActive(true);
-                _hintHand_DrawDots.drawable = drawable.transform.parent;
+                _hintHand_DrawDots.drawable = drawableP2D.transform.parent;
                 _hintHand_DrawDots.outline = korjOutline;
             }
 
@@ -221,7 +223,7 @@ namespace Coocking
         private async void Next()
         {
             Build_Initial(creamUpperSkins[creamIndex]);
-            drawable.gameObject.SetActive(false);
+            drawableP2D.gameObject.SetActive(false);
 
             _isDone = true;
             DiService.Get<StateEnd_FX>()?.DoFX();

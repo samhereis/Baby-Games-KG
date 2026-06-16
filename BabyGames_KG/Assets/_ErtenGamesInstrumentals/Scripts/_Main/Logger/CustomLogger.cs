@@ -17,7 +17,7 @@ namespace Loggers
 
         [field: SerializeField] public bool enableLogs { get; private set; } = true;
 
-        public void Log(string prefix, string message, Object context, LogTypes logType, Color? color = null)
+        public void Log(string prefix, string message, Object context = null, LogTypes logType = LogTypes.General, Color? color = null)
         {
             if (enableLogs == false) { return; }
             if (color == null) { color = Color.white; }

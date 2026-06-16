@@ -11,6 +11,7 @@ using SO;
 using Sounds;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Loggers;
 using Services;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -25,15 +26,18 @@ namespace UI.Menus
         [field: SerializeField] public RectTransform subsInfoParent;
         [field: SerializeField] public RTLTextMeshPro subsInfo;
 
-        [SerializeField][Re_Fg_Co] private RectTransform _contentHolder;
-        [SerializeField][Re_Fg_Co] private SimpleScrollSnap _scrollSnap;
+        [SerializeField] [Re_Fg_Co] private RectTransform _contentHolder;
+        [SerializeField] [Re_Fg_Co] private SimpleScrollSnap _scrollSnap;
 
         [Space]
-        [SerializeField][Fg_De] private List<ActivityCategory_UIUnit> _activityCategory_Instances = new();
-        [SerializeField][Fg_De] private ActivityCategory_UIUnit _currentObjectInCenter;
-        [SerializeField][Fg_De] private int _currentObjectInCenter_Index;
-        [SerializeField][Fg_De] private List<Sound> _lastlyPlayedSounds = new();
-        [SerializeField][Fg_De] private bool _firstPlayedIgnored = new();
+        [SerializeField] [Fg_De] private List<ActivityCategory_UIUnit> _activityCategory_Instances = new();
+        [SerializeField] [Fg_De] private ActivityCategory_UIUnit _currentObjectInCenter;
+        [SerializeField] [Fg_De] private int _currentObjectInCenter_Index;
+        [SerializeField] [Fg_Se] private float _secondsBeforePlay = 0.75f;
+        [SerializeField] [Fg_De] private bool _firstPlayedIgnored = new();
+
+        private int _scrollToken;
+        private Sound _lastPlayed;
 
         private MainMenu_GameState_Model _model;
 
@@ -81,7 +85,7 @@ namespace UI.Menus
 
             unlockButton.onClick.RemoveListener(OpenUnlockButton);
             unlockButton.onClick.AddListener(OpenUnlockButton);
-            
+
             LazyUpdator_Service.instance?.AddToQueue(ShowSubscriptionInfo);
         }
 
@@ -95,30 +99,32 @@ namespace UI.Menus
             }
 
             subsInfoParent.DOKill();
-            
+
             LazyUpdator_Service.instance?.RemoveFromQueue(ShowSubscriptionInfo);
         }
 
         private async void OnScrolled(int nearestPanelIndex)
         {
+            if (_lastPlayed != null) { _model.soundPlayer.Stop(_lastPlayed, fadeDuration: 0.25f); }
+
             _currentObjectInCenter_Index = nearestPanelIndex;
             _currentObjectInCenter = _scrollSnap.Panels[_currentObjectInCenter_Index].GetComponent<ActivityCategory_UIUnit>();
-            var sound = await _currentObjectInCenter.categorySound.GetSound();
 
-            if(_firstPlayedIgnored == false) 
-            { 
+            if (_firstPlayedIgnored == false)
+            {
                 _firstPlayedIgnored = true;
                 return;
             }
-            
-            if (_lastlyPlayedSounds.Contains(_currentObjectInCenter.categorySound) == false)
-            {
-                _model.soundPlayer.TryPlay(_currentObjectInCenter.categorySound);
-                _lastlyPlayedSounds.Add(_currentObjectInCenter.categorySound);
 
-                await AsyncHelper.DelayFloat(sound.length);
-                _lastlyPlayedSounds.RemoveAll(x => x == _currentObjectInCenter.categorySound);
-            }
+            var token = ++_scrollToken;
+            var unit = _currentObjectInCenter;
+            await AsyncHelper.DelayFloat(_secondsBeforePlay);
+
+            if (token != _scrollToken) { return; }
+            if (unit == null) { return; }
+
+            _model.soundPlayer.TryPlay(unit.categorySound);
+            _lastPlayed = unit.categorySound;
         }
 
         private async void OnActivityCategoryChosen(ActivityCategory_UIUnit category_UIUnit)
@@ -157,7 +163,7 @@ namespace UI.Menus
             try
             {
                 subsInfoParent.DOMoveY(-250, 0);
-                
+
                 if (_model.subscriptionController.IsSubscribed() == false)
                 {
                     unlockButton.gameObject.SetActive(true);
@@ -166,15 +172,16 @@ namespace UI.Menus
                 else
                 {
                     unlockButton.gameObject.SetActive(false);
+#if UNITY_ANDROID
+                    return;
+#endif
                     subsInfo.text = _model.subscriptionController.GetFullSubscriptionInfo();
                 }
-                
+
                 await AsyncHelper.DelayFloat(1);
-            }
-            catch (Exception e)
+            } catch (Exception e)
             {
-                Console.WriteLine(e);
-                throw;
+                CustomLogger.instance.LogException(e);
             }
         }
     }

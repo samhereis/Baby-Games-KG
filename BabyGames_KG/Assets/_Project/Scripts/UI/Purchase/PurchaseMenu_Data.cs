@@ -77,7 +77,11 @@ namespace _Project.Scripts.UI.Purchase
         private void CalculateYearlySave()
         {
             float monthlyTotal = monthlyPriceRaw * 12f;
-            float percentSave = NumberHelper.GetPercentageOf100(yearlyPriceRaw, monthlyTotal);
+            if (monthlyTotal <= 0f) { yearlySave = "0%"; return; }
+
+            // How much cheaper the yearly plan is vs paying monthly for 12 months.
+            float priceRatio = NumberHelper.GetPercentageOf100(yearlyPriceRaw, monthlyTotal); // yearly as % of monthly total
+            float percentSave = Mathf.Max(0f, 100f - priceRatio);
 
             yearlySave = $"{Mathf.RoundToInt(percentSave)}%";
         }

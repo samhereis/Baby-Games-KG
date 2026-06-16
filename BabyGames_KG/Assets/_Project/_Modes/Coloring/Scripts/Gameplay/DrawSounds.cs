@@ -1,30 +1,28 @@
-using Helpers;
-using Services;
-using SO.Lists;
-using Sounds;
 using System.Threading.Tasks;
+using CustomAttributes;
+using Helpers;
+using Modes.Coloring;
+using Services;
+using Sounds;
 using UnityEngine;
-using UnityEngine.AddressableAssets;
 using UnityEngine.InputSystem;
 using Zenject;
 
-namespace Modes.Coloring
+namespace _Project._Modes.Coloring.Scripts.Gameplay
 {
+    [DisallowMultipleComponent]
     public class DrawSounds : MonoBehaviour
     {
-        [SerializeField] private AssetReferenceT<Sound_SO> _onStartPaintingReference;
-        [SerializeField] private AssetReferenceT<Sound_SO> _onPaintingReference;
+        [Re_Fg_Ref, SerializeField] private SoundAdvanced _onStartPaintingReference;
+        [Re_Fg_Ref, SerializeField] private SoundAdvanced _onPaintingReference;
 
         [Space]
-        [SerializeField] private AudioSource _startAudioSource;
-        [SerializeField] private AudioSource _mainAudioSource;
+        [Re_Fg_Co, SerializeField] private AudioSource _startAudioSource;
+        [Re_Fg_Co, SerializeField] private AudioSource _mainAudioSource;
+
+        [Fg_De, SerializeField] private bool _isPlayingAnimation;
 
         [Inject] private GameController _gameController;
-
-        private bool _isPlayingAnimation;
-
-        private Sound _onStartPainting;
-        private Sound _onPainting;
 
         private void Awake()
         {
@@ -47,26 +45,25 @@ namespace Modes.Coloring
 
         private void Update()
         {
-            if (_mainAudioSource == null) { return; }
-            if (_startAudioSource == null) { return; }
-
-            bool isOverUI = UIHelper.IsPointOverUI();
+            if (_mainAudioSource == null || _startAudioSource == null) { return; }
 
             var pointer = Pointer.current;
-            if (pointer == null) return;
-
-            if (pointer.press.wasPressedThisFrame && isOverUI == false)
-            {
-                Play();
-            }
-
-            bool isPainting = pointer.press.isPressed && _isPlayingAnimation == false;
-            _startAudioSource.enabled = isPainting;
-            _mainAudioSource.enabled = isPainting;
+            if (pointer == null) { return; }
 
             if (pointer.press.wasReleasedThisFrame)
             {
                 Stop();
+            }
+            else if (pointer.press.wasPressedThisFrame)
+            {
+                if (UIHelper.IsPointOverUI() == false)
+                {
+                    Play();
+                }
+                else
+                {
+                    Stop();
+                }
             }
         }
 
@@ -86,14 +83,20 @@ namespace Modes.Coloring
         {
             if (_isPlayingAnimation) { return; }
 
-            _startAudioSource.enabled = true;
-            _startAudioSource.clip = await _onStartPainting.GetSound();
-            _startAudioSource.Play();
+            if (_onStartPaintingReference.HasAnySound())
+            {
+                _startAudioSource.enabled = true;
+                _startAudioSource.clip = await _onStartPaintingReference.GetSound();
+                _startAudioSource.Play();
+            }
 
-            _mainAudioSource.enabled = true;
-            await AsyncHelper.DelayFloat(_onPainting.data.delay);
-            _mainAudioSource.clip = await _onPainting.GetSound();
-            _mainAudioSource.Play();
+            if (_onPaintingReference.HasAnySound())
+            {
+                await AsyncHelper.DelayFloat(_onPaintingReference.data.delay);
+                _mainAudioSource.enabled = true;
+                _mainAudioSource.clip = await _onPaintingReference.GetSound();
+                _mainAudioSource.Play();
+            }
         }
 
         private void Stop()
@@ -101,13 +104,19 @@ namespace Modes.Coloring
             if (_mainAudioSource == null) { return; }
             if (_startAudioSource == null) { return; }
 
-            _startAudioSource.enabled = false;
-            _startAudioSource.Stop();
-            _startAudioSource.clip = null;
+            if (_startAudioSource.enabled)
+            {
+                _startAudioSource.enabled = false;
+                _startAudioSource.Stop();
+                _startAudioSource.clip = null;
+            }
 
-            _mainAudioSource.enabled = false;
-            _mainAudioSource.Stop();
-            _mainAudioSource.clip = null;
+            if (_mainAudioSource.enabled)
+            {
+                _mainAudioSource.enabled = false;
+                _mainAudioSource.Stop();
+                _mainAudioSource.clip = null;
+            }
         }
     }
 }

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 787d3bb3d5b7d27469c32f38cb58aeb6
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270105
+  packageName: Paint in 2D
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/CW/PaintIn2D/PaintIn2D.asmdef
+  uploadId: 763294

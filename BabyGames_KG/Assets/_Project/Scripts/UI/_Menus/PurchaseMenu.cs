@@ -8,10 +8,13 @@ using Services;
 using Sirenix.OdinInspector;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
+using _Project.Scripts.Services;
 using _Project.Scripts.Services.Purchase;
 using _Project.Scripts.UI.Purchase;
 using CustomAttributes;
+using Data;
 using TMPro;
 using UI.Helpers;
 using UnityEngine;
@@ -42,7 +45,7 @@ namespace UI.Menus
         [Space]
         [SerializeField] private ExternalAssetReference_HasComponent<LoaderPupup> _loaderScreenPrefab;
         [SerializeField] private List<LoaderPupup> _spawnedLoaderScreens = new();
-        
+
         [SerializeField, Fg_De] private PurchaseMenu_PeriodUnit _currentSwitch;
 
         [Inject] private IPurchasesService _purchasesService;
@@ -70,7 +73,7 @@ namespace UI.Menus
         protected override void Awake()
         {
             base.Awake();
-            
+
             DiService.Inject(this);
             Get<PurchaseMenu_Data>().Init(_lifetimePurchase);
         }
@@ -112,6 +115,8 @@ namespace UI.Menus
             _purchasesService.onRestoreFailed -= OnRestoreFailed;
 
             ScreenHelper.SetAppOrientation(ScreenOrientation.LandscapeLeft);
+
+            GameEvents.PurchaseScreenClose(_lifetimePurchase);
         }
 
         public void Show(UnityAction actionBuy, UnityAction actionClose)
@@ -145,8 +150,7 @@ namespace UI.Menus
                 _spawnedLoaderScreens.RemoveNulls();
                 _spawnedLoaderScreens.Add(await _loaderScreenPrefab?.InstantiateAsync(transform));
                 _spawnedLoaderScreens.Last()?.Open();
-            }
-            catch (Exception ex)
+            } catch (Exception ex)
             {
                 CustomLogger.instance?.LogException(ex);
             }
@@ -159,8 +163,7 @@ namespace UI.Menus
             {
                 _spawnedLoaderScreens.RemoveNulls();
                 _spawnedLoaderScreens.ForEach(x => x?.Close());
-            }
-            catch (Exception ex)
+            } catch (Exception ex)
             {
                 CustomLogger.instance?.LogException(ex);
             }
@@ -169,7 +172,7 @@ namespace UI.Menus
         private void OnSelected(PurchaseMenu_PeriodUnit switchButton)
         {
             _currentSwitch = switchButton;
-            
+
             _switchYearly.EnableState((_switchYearly == switchButton).ToInt());
             _switchMonthly.EnableState((_switchMonthly == switchButton).ToInt());
         }
@@ -191,8 +194,7 @@ namespace UI.Menus
             {
                 ShowLoading();
                 _subscriptionController.Subscribe(PurchaseIDs.subscriptionMonthly);
-            }
-            catch (Exception ex)
+            } catch (Exception ex)
             {
                 HideLoading(null, null);
                 CustomLogger.instance?.LogException(ex, $"Could not start purchase");
@@ -210,8 +212,7 @@ namespace UI.Menus
             {
                 ShowLoading();
                 _subscriptionController.Subscribe(PurchaseIDs.subscriptionYearly);
-            }
-            catch (Exception ex)
+            } catch (Exception ex)
             {
                 HideLoading(null, null);
                 CustomLogger.instance?.LogException(ex, $"Could not start purchase");
@@ -224,8 +225,7 @@ namespace UI.Menus
             {
                 ShowLoading();
                 _purchasesService.Restore();
-            }
-            catch (Exception ex)
+            } catch (Exception ex)
             {
                 HideLoading(null, null);
                 CustomLogger.instance?.LogException(ex, $"Could not start restore");

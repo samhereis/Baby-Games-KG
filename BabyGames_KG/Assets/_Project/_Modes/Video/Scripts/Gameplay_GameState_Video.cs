@@ -2,6 +2,7 @@ using DataClasses;
 using GameState;
 using Interfaces;
 using Services;
+using _Project.Scripts.Services;
 using SO;
 using Zenject;
 
@@ -38,10 +39,12 @@ namespace Video
             _model.onChangeVideoRequested += ChangeVideo;
 
             await _sceneLoader.HideLoadingLayerAsync();
+            GameEvents.GameOpened(_model.activity);
         }
 
         public void Exit()
         {
+            GameEvents.GameClosed(_model.activity);
         }
 
         private void GoToMainMenu()

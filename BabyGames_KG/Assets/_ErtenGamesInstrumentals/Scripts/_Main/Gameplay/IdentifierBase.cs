@@ -17,8 +17,10 @@ namespace Identifiers
             if (_components.ContainsKey(typeof(T)))
             {
                 component = _components[typeof(T)] as T;
+                if (component == null) { _components.Remove(typeof(T)); }
             }
-            else
+
+            if (component == null)
             {
                 component = GetComponentInChildren<T>(true);
                 if (component != null) _components.Add(typeof(T), component);

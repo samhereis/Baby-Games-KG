@@ -3851,7 +3851,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9014155d6df9c854bab23e1aabd9b225, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 5/12/2026 2:12:50 PM
+  version: 6/11/2026 5:40:48 PM
   <type>k__BackingField: 11
   <assetFolderPath>k__BackingField: Assets/Editor/_Content/cooking/cooking_salade
   <assetPath>k__BackingField: Assets/Editor/_Content/cooking/cooking_salade/cooking-cooking_salade.prefab
@@ -4815,9 +4815,13 @@ MonoBehaviour:
   goToInitialPositionOnDrop: 1
   fadeAmount: 0
   autoSearchForWrongPosition: 0
+  doPunchAnimation: 1
+  dropParticleScale: 1
+  dragParticleScale: 1
   sound_FX: {fileID: 0}
   move_FX: {fileID: 0}
-  _objectJuicer: {fileID: 0}
+  trailParticle: {fileID: 0}
+  objectJuicer: {fileID: 0}
 --- !u!65 &6975236448495023332
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5619,8 +5623,8 @@ MonoBehaviour:
   autoMoveToTarget: 1
   autoSearchForWrongPosition: 0
   doPunchAnimation: 1
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   _soundFX: {fileID: 0}
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
@@ -5781,8 +5785,8 @@ MonoBehaviour:
   autoMoveToTarget: 1
   autoSearchForWrongPosition: 0
   doPunchAnimation: 1
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   _soundFX: {fileID: 0}
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
@@ -6206,6 +6210,14 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
+      propertyPath: dragParticleScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
       propertyPath: dragParticleScale.x
       value: 1.5
       objectReference: {fileID: 0}
@@ -6302,6 +6314,14 @@ PrefabInstance:
     - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
       propertyPath: changeSorting
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
+      propertyPath: dragParticleScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
       propertyPath: dragParticleScale.x
@@ -6485,8 +6505,8 @@ MonoBehaviour:
   autoMoveToTarget: 1
   autoSearchForWrongPosition: 0
   doPunchAnimation: 1
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   _soundFX: {fileID: 0}
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
@@ -6901,8 +6921,8 @@ MonoBehaviour:
   autoMoveToTarget: 1
   autoSearchForWrongPosition: 0
   doPunchAnimation: 1
-  dropParticleScale: {x: 3, y: 3, z: 3}
-  dragParticleScale: {x: 1.5, y: 1.5, z: 1.5}
+  dropParticleScale: 3
+  dragParticleScale: 1.5
   _soundFX: {fileID: 0}
   _moveFX: {fileID: 0}
   trailParticle: {fileID: 0}
@@ -7283,6 +7303,14 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
+      propertyPath: dragParticleScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
       propertyPath: dragParticleScale.x
       value: 1.5
       objectReference: {fileID: 0}
@@ -7379,6 +7407,14 @@ PrefabInstance:
     - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
       propertyPath: changeSorting
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
+      propertyPath: dragParticleScale
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
+      propertyPath: dropParticleScale
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5485869921441837713, guid: 40ebe056c2edbab4e85c478527b0dc92, type: 3}
       propertyPath: dragParticleScale.x

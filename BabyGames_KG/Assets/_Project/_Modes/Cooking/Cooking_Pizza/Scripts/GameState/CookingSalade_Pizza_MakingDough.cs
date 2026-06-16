@@ -59,7 +59,7 @@ namespace Coocking
             }
 
             butter?.hasDropped.AddListener(OnButterDroped);
-            butter.item.objectJuicer.StartJamming();
+            butter?.item.objectJuicer.StartJamming();
 
             _hintHand_Drag = GetComponent<HintHand_Drag>();
             _hintHand_Drag.objects.AddRange(_ingredients.Select(x => x.transform));

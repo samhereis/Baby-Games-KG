@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8dc260b8649c1ca4a99c13849531e224, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 3/28/2026 10:03:07 AM
+  version: 5/25/2026 4:29:25 PM
   <type>k__BackingField: 7
   <assetFolderPath>k__BackingField: Assets/Editor/_Content/animals/uw_bubble
   <assetPath>k__BackingField: Assets/Editor/_Content/animals/uw_bubble/animals-uw_bubble.prefab

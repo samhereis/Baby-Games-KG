@@ -12,5 +12,6 @@ namespace SO
         public string version;
         public List<ActivityCategory_SO> activityCategories = new List<ActivityCategory_SO>();
         public List<KeyedObject<string, float>> floatSettings = new();
+        public List<KeyedObject<string, string>> stringSettings = new();
     }
 }

@@ -5,6 +5,7 @@ using InterestGames;
 using Interfaces;
 using Loggers;
 using Services;
+using _Project.Scripts.Services;
 using SO;
 using System;
 using Zenject;
@@ -53,6 +54,7 @@ namespace Modes.Puzzle
                 _model.goToNextActivityRequest += GoNextGame;
 
                 await _sceneLoader.HideLoadingLayerAsync();
+                GameEvents.GameOpened(_model.activity);
             }
             catch (Exception ex)
             {
@@ -63,6 +65,7 @@ namespace Modes.Puzzle
 
         public void Exit()
         {
+            GameEvents.GameClosed(_model.activity);
             try
             {
                 _model.replayRequest -= Replay;

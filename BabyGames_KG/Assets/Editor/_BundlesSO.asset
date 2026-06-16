@@ -17,6 +17,7 @@ MonoBehaviour:
   _buildPath: ServerData
   _errorList: []
   _bundlables:
-  - {fileID: 11400000, guid: a893d2c39e76f6a43a7f64a835095083, type: 2}
   - {fileID: 11400000, guid: 5171d365afa07594fa5c86227c06391e, type: 2}
+  - {fileID: 11400000, guid: 4a0517c61346c6645a35a03c3aeb0034, type: 2}
+  - {fileID: 11400000, guid: a893d2c39e76f6a43a7f64a835095083, type: 2}
   _contentDeliveryService: {fileID: 0}

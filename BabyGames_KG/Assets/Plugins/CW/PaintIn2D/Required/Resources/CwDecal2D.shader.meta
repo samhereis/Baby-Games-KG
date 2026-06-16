@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d28e8cd103455a045bc0a587a1541bf8
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270105
+  packageName: Paint in 2D
+  packageVersion: 1.1.7
+  assetPath: Assets/Plugins/CW/PaintIn2D/Required/Resources/CwDecal2D.shader
+  uploadId: 763294

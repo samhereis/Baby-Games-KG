@@ -23,7 +23,7 @@ namespace Helpers
 
         public static bool IsPointOverUI()
         {
-            return IsPointOverUI(Mouse.current.position.ReadValue());
+            return IsPointOverUI(Pointer.current.position.ReadValue());
         }
 
         public static bool IsPointOverUI(Vector2 pos)
@@ -32,7 +32,13 @@ namespace Helpers
             var ped = new PointerEventData(EventSystem.current) { position = pos };
             var results = new List<RaycastResult>();
             EventSystem.current.RaycastAll(ped, results);
-            return results.Count > 0;
+
+            foreach (var r in results)
+            {
+                if (r.gameObject.GetComponent<Graphic>() != null) { return true; }
+            }
+
+            return false;
         }
 
         public static Vector2 GetWorlPositonOfCanvasElement(RectTransform rectTransform, Camera camera)
